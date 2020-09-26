@@ -1,3 +1,4 @@
+![TuLeD](mapNimu2.png)
 # Summary
 
 ... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
