@@ -5,7 +5,12 @@
 
 # Introduction
 
-...
+UD_Munduruku-TuDeT
+ is part of the TuDeT Project, which is one of the projects in [TuLaR](https://tular.org), Tupían Language Resources. It consists of annotated texts, a dictionary, a document where the annotated sentences are glossed, and additional information.
+
+**Mundurukú texts**:<br/>
+* *Mõnjoroko ã'õ - Cartilha Mundurukú 2, 3 and 5*. SIL, 1965; 
+* *Aypapayũ'ũm'ũm ekawẽn*, SIL, 1977.
 
 
 # Acknowledgments
