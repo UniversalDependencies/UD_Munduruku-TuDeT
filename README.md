@@ -1,15 +1,18 @@
 ![TuLeD](mapNimu2.png)
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
+UD_Munduruku-TuDeT is a collection of annotated sentences in Mundurukú. Together with [UD_Akuntsu-TuDeT](https://github.com/UniversalDependencies/UD_Akuntsu-TuDeT) and [UD_Tupinamba-TuDeT](https://github.com/UniversalDependencies/UD_Tupinamba-TuDeT), UD_Munduruku-TuDeT is part of the [TuLaR](https://tular.org) project.
+
+
 
 
 # Introduction
 
-UD_Munduruku-TuDeT
- is part of the TuDeT Project, which is one of the projects in [TuLaR](https://tular.org), Tupían Language Resources. It consists of annotated texts, a dictionary, a document where the annotated sentences are glossed, and additional information.
+UD_Munduruku-TuDeT is a collection of annotated sentences in Mundurukú. Together with [UD_Akuntsu-TuDeT](https://github.com/UniversalDependencies/UD_Akuntsu-TuDeT) and [UD_Tupinamba-TuDeT](https://github.com/UniversalDependencies/UD_Tupinamba-TuDeT), UD_Munduruku-TuDeT is part of the [TuLaR](https://tular.org) project. The sentences are being annotated by Fabrício Ferraz Gerardi and Eva Huber.
 
-**Mundurukú texts**:<br/>
+## Text sources
+
+&#x1F535; **Mundurukú texts**:<br/>
 * *Mõnjoroko ã'õ - Cartilha Mundurukú 2, 3 and 5*. SIL, 1965; 
 * *Aypapayũ'ũm'ũm ekawẽn*, SIL, 1977.
 
