@@ -25,10 +25,6 @@
 4	tu	tu	PART	_	_	3	dep	3:dep	_
 5	?	?	PUNCT	_	_	3	punct	3:punct	_
 
-# Sent_ID = 4
-# text = Ka'ũma
-# text_eng = no!
-
 # Sent_ID = 5
 # text = Akoba du opop ajojot xe?
 # text_eng = Are the bananas near grandpa?
