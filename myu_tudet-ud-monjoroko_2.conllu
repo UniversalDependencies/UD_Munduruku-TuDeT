@@ -406,7 +406,7 @@
 # text_portuguese = A mãe está em casa.
 # text_eng = The mother is at home
 # sent_structure = 
-1-2	Ixi	_	NOUN	_	_	_	_	_	_	_
+1-2	Ixi	_	NOUN	_	_	_	_	_	_
 1	i	i	_	_	_	_	_	_	_
 2	xi	xi	_	_	_	_	_	_	_
 3-4	uk'a	_	_	_	_	_	_	_	_
