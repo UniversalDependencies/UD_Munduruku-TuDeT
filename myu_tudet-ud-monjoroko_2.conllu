@@ -341,7 +341,7 @@
 4	xe	xe	ADP	_	_	3	case	3:case	_
 
 # SENT_ID = 39
-#comment: head of ako? 
+# comment: head of ako? 
 # text = Ixiwe o'tobuxik ako xe.
 # text_portuguese = Ela achou embira perto da bananeira. 
 # text_eng = She found the embira plant close to the banana tree. 
@@ -363,7 +363,7 @@
 5	cum	cu	VERB	_	_	_	_	_	_
 6	jeku	jeku	NOUN	_	_	5	obl	5:obl	_
 7	be	be	ADP	_	_	6	case	6:case	_
-8	.	.	PUNCT	_	_	5	punct	5:punct	_	
+8	.	.	PUNCT	_	_	5	punct	5:punct	_ _	
 
 # SENT_ID = 41
 # text = Awawa jeku be oajẽm.
