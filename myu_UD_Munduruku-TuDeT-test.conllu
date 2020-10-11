@@ -5,77 +5,81 @@
 # Sent_ID = 1
 # text = Ajojot jeokobe be cum
 # text_eng =  Grandpa goes in the canoe
-1	Ajojot	ajojot	NOUN	_	_	4	nsubj	4:nsubj	_
-2	jekobe	jekobe	NOUN	_	_	4	obl	4:obl	_
-3	be	be	ADP	_	_	2	case	2:case	_
-4	cum	cu	VERB	_	Asp=Imp	0	root	0:root	_
+1	Ajojot	ajojot	NOUN	n	_	4	nsubj	4:nsubj	_
+2	jekobe	jekobe	NOUN	n	_	4	obl	4:obl	_
+3	be	be	ADP	posp	_	2	case	2:case	_
+4	cum	cu	VERB	vi	Asp=Imp	0	root	0:root	_
 
 # Sent_ID = 2
 # text = jexat o'tobuxik
 # text_eng = He found food
-1	jexat	xat	NOUN	_	_	2	obl	2:obl	_
-2	o'tobuxik	dobuxik	VERB	_	Aspect=Perf|Number=sing|Person[subj]=3|	0	root	0:root	_
+1	jexat	xat	NOUN	n	Poss=Yes	2	obl	2:obl	_
+2	o'tobuxik	dobuxik	VERB	v	Aspect=Perf|Number=sing|Person[subj]=3|	0	root	0:root	_
 
 # Sent_ID = 3
 # text = Tit tak o'titobuxik tu?
 # text_eng = Did he also find flowers?
-1	Tit	dit	NOUN	_	_	3	obl	3:obl	_
-2	tak	tak	ADV	_	_	3	advmod	3:advmod	_
-3	o'titobuxik	dobuxik	VERB	_	Aspect=Perf|Number=Sing|Person[subj]=3|	0	root	0:root	_
-4	tu	tu	PART	_	_	3	dep	3:dep	_
-5	?	?	PUNCT	_	_	3	punct	3:punct	_
+1	Tit	dit	NOUN	n	_	3	obl	3:obl	_
+2	tak	tak	ADV	adv	_	3	advmod	3:advmod	_
+3	o'titobuxik	dobuxik	VERB	vt	Aspect=Perf|Number=Sing|Person[subj]=3|	0	root	0:root	_
+4	tu	tu	PART	qpart	_	3	dep	3:dep	_
+5	?	?	PUNCT	punct	_	3	punct	3:punct	_
 
 # Sent_ID = 4
 # text = Ka'ũma
 # text_eng = no!
+1	 Ka'ũma	ka'ũma	INTJ	intj 	_	_	_	_	_
+2	 !	!	Punct	punct 	_	1	punct	1:punct	_
 
 # Sent_ID = 5
 # text = Akoba du opop ajojot xe?
 # text_eng = Are the bananas near grandpa?
 # ****** Here it is necessary to define if opopo is an auxiliary verb/copula or av full verb *********
-1	Akoba	akoba	NOUN	_	_	3	nsubj	3:nsubj	_
-2	du	tu	PART	_	_	1	dep	1:dep	_
-3	opop	opop	VERB	_	_	_	_	_	_
-4	ajojot	ajojot	NOUN	_	_	3	obl	3:obl	_
-5	xe	xe	ADP	_	_	4	case	4:case	_
-6	?	?	PUNCT	_	_	3	punct	3:punct	_
+1	Akoba	akoba	NOUN	n	_	3	nsubj	3:nsubj	_
+2	du	tu	PART	part	_	1	dep	1:dep	_
+3	opop	opop	VERB	v	_	_	_	_	_
+4	ajojot	ajojot	NOUN	n	_	3	obl	3:obl	_
+5	xe	xe	ADP	posp	_	4	case	4:case	_
+6	?	?	PUNCT	punct	_	3	punct	3:punct	_
 
 # Sent_ID = 6
 # text = Ka'ũma
 # text_eng = no!
+1	 Ka'ũma	ka'ũma	INTJ	intj 	_	_	_	_	_
+2	 !	!	Punct	punct 	_	1	punct	1:punct	_
 
 # Sent_ID = 7
 # text = Tawe oajẽm iku be
 # text_eng = The capuchin monkey came/arrived to/at the slash
-1	Tawe	tawe	NOUN	_	_	2	obl	2:obl	_
-2	oajẽm	ajẽm	VERB	_	Asp=Perf|Person[subj]=3	0	root	0:root	_
-3	iku	ku	NOUN	_	_	2	obl	2:obl	_
-4	be	be	ADP	_	_	3	case	3:case	_
+1	Tawe	tawe	NOUN	n	_	2	obl	2:obl	_
+2	oajẽm	ajẽm	VERB	vt	Asp=Perf|Person[subj]=3	0	root	0:root	_
+3	iku	ku	NOUN	n	_	2	obl	2:obl	_
+4	be	be	ADP	posp	_	3	case	3:case	_
 
 # Sent_ID = 8
 # text = Jexat o'tobuxik iku be
-# text_eng = He found food in the slash
-1	Jexat	xat	NOUN	_	_	2	obl	2:obl	_
-2	otobuxik	dobuxik	VERB	_	Asp=Perf|Person[subj]=3	0	root	0:root	_
-3	iku	ku	NOUN	_	_	2	obl	2:obl	_
-4	be	be	ADP	_	_	3	case	3:case	_
+# text_eng = He found food it in the slash
+1	Jexat	xat	NOUN	n	_	2	obl	2:obl	_
+2	otobuxik	dobuxik	VERB	v	Asp=Perf|Person[subj]=3	0	root	0:root	_
+3	iku	ku	NOUN	n	_	2	obl	2:obl	_
+4	be	be	ADP	posp	_	3	case	3:case	_
 
 # Sent_ID = 9
 # text = Xa iku xe
 # Text_eng = The pequi tree is/lies near the slash
-1	Xa	xa	NOUN	_	_	2	nsubj	2:nsubj	_
-2	iku	ku	NOUN	_	_	_	_	_	_
-3	xe	xe	ADP	_	_	2	case	2:case	_
+1	Xa	xa	NOUN	n	_	2	nsubj	2:nsubj	_
+2	iku	ku	NOUN	n	_	_	_	_	_
+3	xe	xe	ADP	posp	_	2	case	2:case	_
 
 # SENT_ID = 10
 # text = Tawe oajẽm xa xe
 # text_portuguese = O macaco-prego chegou perto do pequizeiro
 # text_eng = The capuchin monkey came/arrived to/at the pequi tree
 # sent_structure = 
-1	Tawe	tawe	Noun	_	_	2	obl	2:obl	_
-2	oajẽm	ajẽm	VERB	_	_	0	root	0:root	_
-3	xa	xa	NOUN	_	_	2	obl	2:obl	_
-4	xe	xe	ADP	_	_	3	case	3:case	_
+1	Tawe	tawe	Noun	n	_	2	obl	2:obl	_
+2	oajẽm	ajẽm	VERB	v	Asp=Perf|Person[subj]=3	0	root	0:root	_
+3	xa	xa	NOUN	n	_	2	obl	2:obl	_
+4	xe	xe	ADP	posp	_	3	case	3:case	_
 
 # SENT_ID = 11
 # text = 	Tawe oajẽm ka xe
