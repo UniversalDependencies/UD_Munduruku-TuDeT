@@ -51,6 +51,9 @@ This is an overview only. For more detailed discussion and examples, see the lis
 
 ### Verbal Features
 
+* kake AUX	v:ex
+* opop	AUX	aux
+
 * Verbs have a lexical [Aspect](), either imperfective (`Imp`) or perfective (`Perf`). A few verbs are biaspectual and they lack the `Aspect`
   feature. Some imperfective verbs could be further classified as iteratives but they are not marked as such (although UD provides `Aspect=Iter`).
   * The `Aspect` feature should be also used with the corresponding derived nouns and adjectives (participles), if they have the
