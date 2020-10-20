@@ -12,7 +12,6 @@ UD_Munduruku-TuDeT is a collection of annotated sentences in Mundurukú. Togethe
 
 ## Text sources
 
-&#x1F535; **Mundurukú texts**:<br/>
 * *Mõnjoroko ã'õ - Cartilha Mundurukú 2, 3 and 5*. SIL, 1965; 
 * *Aypapayũ'ũm'ũm ekawẽn*, SIL, 1977.
 
