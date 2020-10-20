@@ -18,6 +18,7 @@ udver: '2'
 
 This is an overview only. For more detailed discussion and examples, see the list of [Mundurukú POS tags](pos/index.html) and [Mundurukú features](feat/index.html).
 
-* Tupinambá uses all 16 universal POS categories, that is, all but one ADJ (adjective).
-* Since Mundurukú is as omnipredicative language, the referential, marker (a  ̴ ∅) is treated as Case (Case=Ref) in the treebank, despite its function, which is nothing like that of nominal cases.
+* Mundurukú uses 16 ofthe 17 universal POS categories. ADJ is not used since there is no separate class of adjectives. Stative-verbs and adjectives behave alike, in a way that is not possible to distinguish them morphologically (I am ugly / I have uglyness; ugly boy / boy with uglyness).
+
+
 
