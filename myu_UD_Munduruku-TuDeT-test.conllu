@@ -86,30 +86,30 @@
 # text_portuguese = O macaco-prego chegou perto do terrano do chefe
 # Text_eng = The capuchin monkey came/arrived to/at the chief's land
 # sent_structure = SV
-1	Tawe	_	Noun	_	_	2	obl	2:obl	_
-2	oajẽm	_	VERB	_	_	0	root	0:root	_
-3	ka	_	NOUN	_	_	2	obl	2:obl	_
-4	xe	_	ADP	_	_	3	case	3:case	_
+1	Tawe	tawe	Noun	n	_	2	obl	2:obl	_
+2	oajẽm	ajẽm	VERB	vi	Asp=Perf|Person[subj]=3	0	root	0:root	_
+3	ka	ka	NOUN	n	_	2	obl	2:obl	_
+4	xe	xe	ADP	pp	_	3	case	3:case	_
 
 # SENT_ID = 12
 # text = Toxaw oajẽm ka be
 # text_portuguese = O chefe chegou ao lugar onde estava o macaco-prego
 # text_eng = The chief came/arrived to/at the place where the capuchin monkey was
 # sent_structure = SV
-1	Toxaw	_	Noun	_	_	2	obl	2:obl	_
-2	oajẽm	_	VERB	_	_	0	root	0:root	_
-3	ka	_	NOUN	_	_	2	obl	2:obl	_
-4	be	_	ADP	_	_	3	case	3:case	_
+1	Toxaw	toxaw	Noun	n	_	2	obl	2:obl	_
+2	oajẽm	ajẽm	VERB	v	Asp=Perf|Person[subj]=3	0	root	0:root	_
+3	ka	ka	NOUN	n	_	2	obl	2:obl	_
+4	be	be	ADP	pp	_	3	case	3:case	_
 
 # SENT_ID = 13
 # text = Toxaw dak jexat o'tobuxik
 # text_portuguese = O chefe também achou a comida
 # text_eng = The chief also found the food
 # sent_structure = SOV
-1	Toxaw	_	Noun	_	_	4	obl	4:obl	_
-2	dak	_	ADV	_	_	4	advmod	4:advmod	_
-3	jexat	xat	NOUN	_	_	4	obl	4:obl	_
-4	o'tobuxik	dobuxik	VERB	_	_	0	root	0:root	_
+1	Toxaw	toxaw	Noun	n	_	4	obl	4:obl	_
+2	dak	dak	ADV	adv	_	4	advmod	4:advmod	_
+3	jexat	xat	NOUN	n	_	4	obl	4:obl	_
+4	o'tobuxik	dobuxik	VERB	vt	Asp=Perf|Person[subj]=3	0	root	0:root	_
 
 # SENT_ID = 14
 # text = Toxaw tawe o'tobuxik
