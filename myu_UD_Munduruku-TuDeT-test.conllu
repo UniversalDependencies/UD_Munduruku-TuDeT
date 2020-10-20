@@ -205,10 +205,10 @@
 # text_portuguese = Quem achou o macaco-prego?
 # text_eng = Who found the capuchin monkey?
 # sent_structure = SOV
-1	Abu	abu	PRON	_	_	3	obl	3:obl	_
-2	tawe	tawe	NOUN	_	_	3	obl	3:obl	_
-3	o'tobuxik	dobuxik	VERB	_	_	0	root	0:root	_
-4	?	?	PUNCT	_	_	3	punct	3:punct	_
+1	Abu	abu	PRON	pro	_	3	obl	3:obl	_
+2	tawe	tawe	NOUN	n	_	3	obl	3:obl	_
+3	o'tobuxik	dobuxik	VERB	vt	Asp=Perf|Person[subj]=3	0	root	0:root	_
+4	?	?	PUNCT	punct	_	3	punct	3:punct	_
 
 # SENT_ID = 24
 # text = Abu awi o'tobuxik?
@@ -489,21 +489,15 @@
 1	I'it	'it	NOUN
 2	ixet	xet	VERB
 
-# SENT_ID = 52
-# text = Wa'e
-# text_portuguese = A cuia
-# text_eng = The gourd
-# sent_structure = 
-1	Wa'e	wa'e	NOUN
 
 # SENT_ID = 53
 # text = Ixi wa'e kug̃.
 # text_portuguese = A mãe tem uma cuia.
 # text_eng = The mother has a gourd. 
 # sent_structure = 
-1	Ixi	ixi	NOUN
-2	wa'e	wa'e	NOUN
-3	kug̃
+1	Ixi	ixi	NOUN	n	_	3	nsubj	3:nsubj	_
+2	wa'e	wa'e	NOUN	n	_	3	obj	3:obj	_
+3	kug̃	kug̃	VERB	vx	_	0	root	0:root	_
 
 # SENT_ID = 54
 # text = Wa'e ibubut, ixi bubut.
@@ -518,26 +512,30 @@
 
 # SENT_ID = 55
 # text = Wexik'a kake wa'e be. 
-# text_portuguese = E da mãe. (? wrong?)
-# text_eng = And the mother. (? wrong?), kake = there is
+# text_portuguese = Há batata-doce na cuia.
+# text_eng = There is sweet-potatoe in the gourd
 # sent_structure = 
-1	Wexik'a	wexik'a	NOUN
-2	kake	kake
-3	wa'e	wa'e	NOUN
-4	be	be	ADP
+1-2	Wexik'a	_	_	_	_	_	_	_	_
+1	Wexik	wexik	NOUN	n	_	0	root	0:root	_
+2	 'a	'a	NOUN	cl	_	1	nmod	1:nmod	_
+3	kake	kake	AUX	v:ex	_	1	cop	1:cop	_
+4	wa'e	wa'e	NOUN	n	_	1	obl	1:obl	_
+5	be	be	ADP	pp	_	4	case	4:case	_
 
 # SENT_ID = 56
 # text = Ixat'a kake wa'e be, uk'a be. 
-# text_portuguese = Tem batatas-doces na cuia.Tem comida na cuia.
-# text_eng = There are sweet potatoes in the bowl (gourd?). There is food in the bowl (gourd?).
+# text_portuguese = Tem comida na cuia, em casa.
+# text_eng = There is food in the gourd, at home.
 # sent_structure = 
-1	Ixat'a	xat'a	NOUN
-2	kake	kake
-3	wa'e	wa'e	NOUN
-4	be	be	ADP
-5	,	,	PUNCT
-6	uk'a	uk'a	NOUN
-7	be	be	ADP
+1-2	Ixat'a	_	_	_	_	_	_	_	_
+1	Ixat	xat	NOUN	n	_	0	root	0:root	_
+2	'a	'a	NOUN	cl	_	1	nmod	1:nmod	_
+3	kake	kake	AUX	v:ex	_	1	cop	1:cop	_
+4	wa'e	wa'e	NOUN	_	_	1	obl	1:obl	_
+5	be	be	ADP	pp	_	4	case	4:case	_
+6	,	,	PUNCT	punct	_	1	punct	1:punct	_
+7	uk'a	uk'a	NOUN	n	_	1	obl	1:obl	_
+8	be	be	ADP	pp	_	7	case	7:case	_
 
 
 # SENT_ID = 57
@@ -545,9 +543,9 @@
 # text_portuguese = A cuia está na casa.
 # text_eng = The gourd is/lies in the house. 
 # sent_structure = 
-1	Wa'e	wa'e	NOUN
-2	uk'a	uk'a	NOUN
-3	be	be	ADP
-4	opop
+1	Wa'e	wa'e	NOUN	n	_	0	root	_	_
+2	uk'a	uk'a	NOUN	n	_	1	obl	_	_
+3	be	be	ADP	pp	_	2	case	_	_
+4	opop	opop	AUX	aux	_	1	cop	_	_
 
 
