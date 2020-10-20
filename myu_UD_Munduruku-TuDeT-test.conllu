@@ -116,19 +116,19 @@
 # text_portuguese = O chefe também achou o macaco-prego
 # text_eng = The chief found the capuchin monkey
 # sent_structure = SOV
-1	Toxaw	_	Noun	_	_	3	obl	3:obl	_
-2	tawe	_	Noun	_	_	3	obl	3:obl	_
-3	o'tobuxik	dobuxik	VERB	_	_	0	root	0:root	_
+1	Toxaw	toxaw	Noun	n	_	3	obl	3:obl	_
+2	tawe	tawe	Noun	n	_	3	obl	3:obl	_
+3	o'tobuxik	dobuxik	VERB	vt	Asp=Perf|Person[subj]=3	0	root	0:root	_
 
 # SENT_ID = 15
 # text = Xa xe tawe o'tobuxik
 # text_portuguese = Ele achou o macaco-prego pero do pequizeiro.
 # text_eng = He found the capuchin monkey near the pequi tree
 # sent_structure = OV
-1	Xa	_	NOUN	_	_	4	obl	4:obl	_
-2	xe	_	ADP	_	_	_	_	_	_
-3	tawe	_	Noun	_	_	4	obl	4:obl	_
-4	o'tobuxik	dobuxik	VERB	_	_	0	root	0:root	_
+1	Xa	xa	NOUN	n	_	4	obl	4:obl	_
+2	xe	xe	ADP	pp	_	1	case	1:case	_
+3	tawe	tawe	Noun	n	_	4	obl	4:obl	_
+4	o'tobuxik	dobuxik	VERB	vt	Asp=Perf|Person[subj]=3	0	root	0:root	_
 
 # SENT_ID = 16
 # comment = unsure about dependencies 
@@ -136,23 +136,23 @@
 # text_portuguese = A irmã quer uma agulha.
 # text_eng = The sister wants a needle
 # sent_structure = SO
-1	Ikibit	ikibit	NOUN	_	_	0	root	0:root	_
-2	awi	awi	NOUN	_	_	3	_	3	_
-3	kay	kay	ADP	_	_	1	_	1	_
+1	Ikibit	ikibit	NOUN	n	_	0	root	_	_
+2	awi	awi	NOUN	n	_	1	nmod	_	_
+3	kay	kay	ADP	pp	_	2	case	_	_
 
 # SENT_ID = 17
 # text = Awawa oajẽm ika be, jekibit ka be
 # text_portuguese = Vovo chegou ao terreno da irma.
 # text_eng = The grandmother came/arrived at the sister's land. 
 # sent_structure = SV(O?)
-1	Awawa	awawa	NOUN	_	_	2	obl	_	_
-2	oajẽm	ajẽm	VERB	_	_	0	root	_	_
-3	ika	ika	NOUN	_	_	2	obl	_	_
-4	be	be	ADP	_	_	3	case	_	_
-5	,	,	PUNCT	_	_	2	punct	_	_
-6	jekibit	_	NOUN	_	_	7	nmod	_	_
-7	ka	ka	NOUN	_	_	3	appos	_	_
-8	be	be	ADP	_	_	7	case	_	_
+1	Awawa	awawa	NOUN	n	_	2	obl	2:obl	_
+2	oajẽm	ajẽm	VERB	vi	Asp=Perf|Person[subj]=3	0	root	0:root	_
+3	ika	ika	NOUN	n	_	2	obl	2:obl	_
+4	be	be	ADP	pp	_	3	case	3:case	_
+5	,	,	PUNCT	punct	_	2	punct	2:punct	_
+6	jekibit	_	NOUN	n	_	7	nmod	7:nmod	_
+7	ka	ka	NOUN	n	_	3	appos	3:appos	_
+8	be	be	ADP	pp	_	7	case	7:case	_
 
 # SENT_ID = 18
 # comment = unsure about translation, unsure whether bubut is a verb
@@ -160,45 +160,45 @@
 # text_portuguese = A agulha e da vovo.
 # text_eng = The needle belongs to (?) the grandmother.
 # sent_structure = OSV
-1	Awi	_	NOUN	_	_	3	obj	3:obj	_
-2	awawa	_	NOUN	_	_	3	subj	3:subj	_
-3	bubut	_	VERB	_	_	0	root	0:root	_
+1	Awi	awi	NOUN	n	_	3	nsubj	3:nsubj	_
+2	awawa	awawa	NOUN	n	_	3	nmod	3:nmod	_
+3	bubut	bubut	NOUN	n	_	_	_	_	_
 
 # SENT_ID = 19
 # text = Ite awi o'tobuxik
 # text_portuguese = Ela achou a agulha. 
 # text_eng = She found the needle. 
 # sent_structure = SOV 
-1	Ite	_	PRON	_	_	3	obl	3:obl	_
-2	awi	_	NOUN	_	_	3	obl	3:obl	_
-3	o'tobuxik	_	VERB	_	_	0	root	0:root	_
+1	Ite	ite	PRON	pro	_	3	obl	3:obl	_
+2	awi	awi	NOUN	n	_	3	obl	3:obl	_
+3	o'tobuxik	dobuxik	VERB	vt	Asp=Perf|Person[subj]=3	0	root	0:root	_
 
 # SENT_ID = 20
 # text = Awawa o'tobuxik
 # text_portuguese = Vovo achou. 
 # text_eng = The grandmother found (it?)
 # sent_structure = SV
-1	Awawa	_	NOUN	_	_	2	obl	2:obl	_
-2	o'tobuxik	_	VERB	_	_	0	root	0:root	_
+1	Awawa	awawa	NOUN	n	_	2	obl	2:obl	_
+2	o'tobuxik	dobuxik	VERB	vt	Asp=Perf|Person[subj]=3	0	root	0:root	_
 
 # SENT_ID = 21
 # text = Awi o'tobuxik
 # text_portuguese = Ela achou a agulha. 
 # text_eng = She found the needle. 
 # sent_structure = OV
-1	Awi	_	NOUN	_	_	2	obl	2:obl	_
-2	o'tobuxik	_	VERB	_	_	0	root	0:root	_
+1	Awi	awi	NOUN	n	_	2	obl	2:obl	_
+2	o'tobuxik	dobuxik	VERB	vt	_	0	root	0:root	_
 
 # SENT_ID = 22
 # text = Toxaw tawe o'tobuxik tu?
 # text_portuguese = O chefe achou o macaco-prego?
 # text_eng = Did the chief find the capuchin monkey?
 # sent_structure = 
-1	Toxaw	_	NOUN	_	_	3	obl	3:obl	_
-2	tawe	_	NOUN	_	_	3	obl	3:obl	_
-3	o'tobuxik	_	VERB	_	_	0	root	0:root	_
-4	tu	_	PART	_	_	3	dep	3:dep	_
-5	?	_	PUNCT	_	_	3	punct	3:punct	_
+1	Toxaw	toxaw	NOUN	n	_	3	obl	3:obl	_
+2	tawe	tawe	NOUN	n	_	3	obl	3:obl	_
+3	o'tobuxik	dobuxik	VERB	vt	Asp=Perf|Person[subj]=3	0	root	0:root	_
+4	tu	tu	PART	ptcl	_	3	dep	3:dep	_
+5	?	?	PUNCT	punct	_	3	punct	3:punct	_
 
 # SENT_ID = 23
 # text = Abu tawe o'tobuxik?
