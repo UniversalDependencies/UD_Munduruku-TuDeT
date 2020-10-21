@@ -303,7 +303,7 @@
 # text_eng = He found the food. 
 # sent_structure = 
 1	Jexat	xat	NOUN	_	_	2	obl	2:obl	_
-2	o'tobuxik	dobuxik	VERB	_	Asp=Perf|Person[subj]=3	0	root	0:root	_
+2	o'tobuxik	dobuxik	VERB	vt	Asp=Perf|Person[subj]=3	0	root	0:root	_
 
 # SENT_ID = 34
 # text = Tawe ixat, toxaw xat 
@@ -418,67 +418,61 @@
 # text_portuguese = A mãe está em casa.
 # text_eng = The mother is at home
 # sent_structure = 
-1-2	Ixi	_	NOUN	_	_	_	_	_	_	_
-1	i	i	_	_	_	_	_	_	_
-2	xi	xi	_	_	_	_	_	_	_
-3-4	uk'a	_	_	_	_	_	_	_	_
-3	uk	_	NOUN	_	_	_	_	_	_
-4	'a	_	NOUN	_	_	2	clf	2:clf	_
-5	be	be	ADP	_	_	2	case	2:case	_
+1	Ixi	_	NOUN	n	_	2	nsubj	2:nsubj	_
+2-3	uk'a	_	_	_	_	_	_	_	_
+2	uk	_	NOUN	n	_	0	root	0:root	_
+3	'a	_	NOUN	cl	_	2	clf	2:clf	_
+4	be	be	ADP	pp	_	2	case	2:case	_
 
 # SENT_ID = 45
 # text = I'it tak uk'a be.
 # text_portuguese = O filho também esta em casa. 
 # text_eng = The son is also at home. (in the house)
 # sent_structure = 
-1	I'it	'it	NOUN
-2	tak	tak	ADV	_
-3	uk'a	uk'a	NOUN
-4	be	be	ADP
+1	I'it	'it	NOUN	n	_	3	nsubj	_	_
+2	tak	tak	ADV	adv	_	3	advmod	_	_
+3	uk'a	uk'a	NOUN	n	_	0	root	_	_
+4	be	be	ADP	pp	_	3	case	_	_
 
 # SENT_ID = 46
 # text = Toxaw oexe.
 # text_portuguese = O chefe chegou a casa. 
 # text_eng = The chief arrived at/ came home. 
 # sent_structure = 
-1	Toxaw	toxaw	NOUN
-2	oexe	xe	VERB
+1	Toxaw	toxaw	NOUN	n	_	2	obl	2:obl	_
+2	oexe	xe	VERB	vi	Asp=Perf|Person[subj]=3	0	root	0:root	_
 
 # SENT_ID = 47
 # text = I'it wa du?
 # text_portuguese = O filho esta chorando?
 # text_eng = Is the son crying?
 # sent_structure = 
-1	I'it	'it	NOUN
-2	wa
-3	du
-4	?	?	PUNCT
-
-# SENT_ID = 48
-# text = Ka'ũma.
-# text_portuguese = Nao.
-# text_eng = 
-# sent_structure = 
-1	Ka'ũma
+1	I'it	'it	NOUN	n	_	2	nsubj	2:nsubj	_
+2	wa	wa	VERB	vx	_	0	root	0:root	_
+3	du	du	PART	pcl	_	2	discourse	2:discourse	_
+4	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
 # SENT_ID = 49
 # text = I'it ixet.
 # text_portuguese = O filho esta dormindo. 
 # text_eng = The son is sleeping. 
 # sent_structure = 
-1	I'it	'it	NOUN
-2	ixet	xet	VERB
+1	Toxaw	toxaw	NOUN	n	_	2	obl	2:obl	_
+2	oexe	xe	VERB	vi	Asp=Perf|Person[subj]=	0	root	0:root	_
 
 # SENT_ID = 50
 # text = Toxaw i'it o'tobuxik uk'a be.
 # text_portuguese = O chefe achou o filho em casa. 
 # text_eng = The chief found the son at home / in the house. 
 # sent_structure = 
-1	Toxaw	toxaw	noun
-2	i'it	'it	NOUN
-3	o'tobuxik	dobuxik	VERB
-4	uk'a	uk'a	NOUN
-5	be	be	ADP
+1	Toxaw	_	NOUN	n	_	3	obl	3:obl	_
+2	i'it	_	NOUN	n	_	3	obl	3:obl	_
+3	o'tobuxik	dobuxik	VERB	v	_	0	root	0:root	_
+4-5	uk'a	_	_	_	_	_	_	_	_
+4	uk	uk	NOUN	n	_	3	obl	3:obl	_
+5	'a	'a	NOUN	cl	_	4	nmod	4:nmod	_
+6	be	be	ADP	pp	_	4	case	4:case	_
+7	.	.	PUNCT	punct	_	3	punct	3:punct	_
 
 
 # SENT_ID = 51
@@ -486,8 +480,8 @@
 # text_portuguese = O filho esta dormindo. 
 # text_eng = The son is sleeping. 
 # sent_structure = 
-1	I'it	'it	NOUN
-2	ixet	xet	VERB
+1	I'it	'it	NOUN	n	_	2	nsubj	_	_
+2	ixet	xet	VERB	v:st	_	0	root	_	_
 
 
 # SENT_ID = 53
