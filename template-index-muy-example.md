@@ -36,7 +36,8 @@ are tagged cl in the XPOS column.
 * Some lexical roots can not easily be assigned to a  specific lexical category. This is the case with *kake* and *opop*. 
 These are tagged as AUX in the UPOS, and v:ex (existential verb) and aux respectively in the XPOS.
 * Another way to express existential predication is through the reduplication of a noun with the vowel *e* replacing
-the original vowel *xat* 'food' *xaxet* 'there is food'.
+the original vowel *xat* 'food' *xaxet* 'there is food'. These nouns receive a marked Redup=ex (reduplication existential) in
+the FEATS column.
 
 ### Verbal Features
 
