@@ -382,7 +382,7 @@
 # text_eng = The grandmother arrived/came to her slash.  
 # sent_structure = 
 1	Awawa	awawa	NOUN	n	_	4	obl	4:obl	_
-2	jeku	ku	NOUN	n	_	4	obl	4:obl	_
+2	jeku	ku	NOUN	n _	4	obl	4:obl	_
 3	be	be	ADP	pp	_	2	case	2:case	_
 4	oajẽm	ajẽm	VERB	vi	Asp=Imp|Person[subj]=3	0	root	0:root	_
 
