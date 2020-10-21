@@ -381,20 +381,21 @@
 # text_portuguese = Vovo chegou a roca.
 # text_eng = The grandmother arrived/came to her slash.  
 # sent_structure = 
-1	Awawa	awawa	NOUN	n	_	4	obl	4:obl	_
-2	jeku	ku	NOUN	n _	4	obl	4:obl	_
-3	be	be	ADP	pp	_	2	case	2:case	_
-4	oajẽm	ajẽm	VERB	vi	Asp=Imp|Person[subj]=3	0	root	0:root	_
+1	Awawa	awawa	NOUN	n	_	4	obl	_	_
+2	jeku	ku	NOUN	n	_	4	obl	_	_
+3	be	be	ADP	pp	_	2	case	_	_
+4	oajẽm	ajẽm	VERB	vi	Asp=Imp|Person[subj]=3	0	root	_	_
 
 # SENT_ID = 42
 # text = Akoba iku be opop.
 # text_portuguese = As bananas estao na roca. 
 # text_eng = The bananas lay in her slash. 
 # sent_structure = 
-1	Akoba	akoba	NOUN	n	_	2	nmod	2:nmod	_
-2	iku	ku	NOUN	nmod_	0	root	0:root	_
-3	be	be	ADP	pp	_	2	case	2:case	_
-4	opop	opop	AUX	aux	_	2	cop	2:cop	_
+1	Akoba	_	NOUN	n	_	0	root	0:root	_
+2	iku	_	NOUN	n	_	1	nmod	1:nmod	_
+3	be	_	ADP	pp	_	2	case	2:case	_
+4	opop	_	AUX	aux	_	1	aux	1:aux	_
+5	.	_	PUNCT	punct	_	1	punct	1:punct	_
 
 # SENT_ID = 43
 # text = Tit tak iku be opop, awawa ku be.
