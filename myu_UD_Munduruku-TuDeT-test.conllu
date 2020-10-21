@@ -392,7 +392,7 @@
 # text_eng = The bananas lay in her slash. 
 # sent_structure = 
 1	Akoba	akoba	NOUN	n	_	2	nmod	2:nmod	_
-2	iku	ku	NOUN  n	_	0	root	0:root	_
+2	iku	ku	NOUN n _	0	root	0:root	_
 3	be	be	ADP	pp	_	2	case	2:case	_
 4	opop	opop	AUX	aux	_	2	cop	2:cop	_
 
