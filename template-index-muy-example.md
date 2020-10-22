@@ -28,10 +28,9 @@ Stative-verbs and adjectives behave alike, in a way that is not possible to dist
 
 * Nominal words ([NOUN](), [PROPN]() and [PRON]()) are not marked for [Gender](), and are optionally marked for [Number](). 
 * Mundurukú classifiers are real nouns. Gomes (2006) speaks of nouns in classifier function. Nouns (NOUN) in this function 
-are tagged cl in the XPOS column. 
+are tagged cl in the XPOS column. The features of the cl tags are their basic meanings, e.g. *'a* Class=Round. 
 
 ### Existential predication
-* n Redup=ex
 
 * Some lexical roots can not easily be assigned to a  specific lexical category. This is the case with *kake* and *opop*. 
 These are tagged as AUX in the UPOS, and v:ex (existential verb) and aux respectively in the XPOS.
@@ -41,13 +40,11 @@ the FEATS column.
 
 ### Verbal Features
 
-
-
 * Verbs have a lexical [Aspect](): imperfective (`Imp`), perfective (`Perf`), iterative (`Iter`). 
 
 
 
 
-### Pronouns, Determiners, Quantifiers
+### Pronouns, Quantifiers
 
 
