@@ -5,132 +5,131 @@
 # sent_id = 1
 # text = Karosakaybu daje o'g̃uju, tacup puye ip.
 # text_por = Karosakaybu virou as pessoas porcos grandes porque estavam guardando bóia só para elas.
-1	Karosakaybu	Karosakaybu	PROPN	_	_	3	obl	3:obl	_
-2	daje	daje	NOUN	_	_	3	obl	3:obl	_
-3	o'g̃uju	ju	VERB	_	Asp=Perf|Number=Sing|Person=1	0	root	0:root	_
-4	,	,	PUNCT	_	_	3	punct	3:punct	_
-5	tacup	_	VERB	_	_	6	mark	6:mark	_
-6	puye	puye	SCONJ	_	_	3	advcl	3:advcl	_
-7	ip	ip	PART	_	_	5	nsubj	5:nsubj	_
-8	.	.	PUNCT	_	_	5	punct	5:punct	_
+1	Karosakaybu	Karosakaybu	PROPN	pn	_	3	obl	3:obl	_
+2	daje	daje	NOUN	n	_	3	obl	3:obl	_
+3	o'g̃uju	ju	VERB	vt	Asp=Perf|Number=Sing|Person=3|Voice=Cau	0	root	0:root	_
+4	,	,	PUNCT	punct	_	3	punct	3:punct	punct
+5	tacup	tacup	VERB	v	_	6	mark	6:mark	_
+6	puye	puye	SCONJ	sc	_	3	advcl	3:advcl	_
+7	ip	ip	PART	pcl	_	5	nsubj	5:nsubj	_
+8	.	.	PUNCT	punct	_	5	punct	5:punct	punct
 
 # sent_id = 2
-# Tapu! i'e'em jekpot pe. Boyũkayku wuyxan ejat -- exipiyũ kay -- daje'in.
+# Tapu! i'e'em jekpot pe. Boyũkayku wuyxan ejat __ exipiyũ kay __ daje'in.
 # Rapaz, ele disse para o filho dele. Vai buscar bóia para nós.
-1	Tapu	tapu	NOUN	_	_	_	_	_	_
-2	!	_	PUNCT	_	_	_	_	_	_
-3	i'e'em	'e	VERB	_	_	_	_	_	_
-4	jekpot	jekpot	NOUN	_	_	3	iobj	3:iobj	_
-5	pe	pe	ADP	_	_	4	dep	4:dep	_
-6	.	_	PUNCT	_	_	_	_	_	_
+1	Tapu	tapu	NOUN	n	_	_	_	_	_
+2	!	_	PUNCT	punct	_	_	_	_	_
+3	i'e'em	'e	VERB	v	_	_	_	_	_
+4	jekpot	jekpot	NOUN	n	_	3	iobj	3:iobj	_
+5	pe	pe	ADP	pp	_	4	dep	4:dep	_
+6	.	.	PUNCT	punct	_	_	_	_	_
 7	Boyũkayku	_	_	_	_	_	_	_	_
 8	wuyxan	_	_	_	_	_	_	_	_
-9	ejat	jat	VERB	_	_	_	_	_	_
-10	-	_	_	_	_	_	_	_	_
-11	exipiyũ	_	NOUN	_	_	_	_	_	_
-12	kay	kay	ADP	_	_	11	dep	11:dep	_
-13	-	_	_	_	_	_	_	_	_
-14	daje'in	daje'in	NOUN	_	_	9	obj	9:obj	_
-15	.	_	PUNCT	_	_	_	_	_	_
+9	ejat	jat	VERB	v	_	_	_	_	_
+10	_	_	_	_	_	_	_	_	_
+11	exipiyũ	_	NOUN	n	_	_	_	_	_
+12	kay	kay	ADP	pp	_	11	dep	11:dep	_
+13	_	_	_	_	_	_	_	_	_
+14	daje'in	daje'in	NOUN	n	_	9	obj	9:obj	_
+15	.	.	PUNCT	punct	_	_	_	_	_
 
 # sent_id = 3
 # Hm hm. Cucum. Jay.
 # Sim.Foi. Chegou.
 1	Hm	_	_	_	_	_	_	_	_
 2	hm	_	_	_	_	_	_	_	_
-3	.	_	PUNCT	_	_	_	_	_	_
-4	Cucum	cu	VERB	_	_	_	_	_	_
-5	.	_	PUNCT	_	_	_	_	_	_
-6	Jay	jay	VERB	_	_	_	_	_	_
-7	.	_	PUNCT	_	_	_	_	_	_
+3	.	.	PUNCT	punct	_	_	_	_	_
+4	Cucum	cu	VERB	v	_	_	_	_	_
+5	.	.	PUNCT	punct	_	_	_	_	_
+6	Jay	jay	VERB	v	_	_	_	_	_
+7	.	.	PUNCT	punct	_	_	_	_	_
 
 # sent_id = 4
 # text = Ajũg̃, daje'in. 
 # text_port = Titia, me dá carne de porco.
-1	Ajũg̃	_	NOUN	_	_	_	_	_	_
-2	,	_	PUNCT	_	_	_	_	_	_
-3	daje'in	_	NOUN	_	_	_	_	_	_
+1	Ajũg̃	_	NOUN	n	_	_	_	_	_
+2	,	_	PUNCT	punct	_	_	_	_	_
+3	daje'in	_	NOUN	n	_	_	_	_	_
 
 # sent_id = 5
 # text = Juku. Iũmũm ip. Pũg̃'in, i'e'em ajojoyũ'ũm'ũm.
 # text_port = Aqui está. Davam. Só um pouco, diziam os velhos antigos.
 1	Juku	_	ADV	_	_	_	_	_	_
-2	.	_	PUNCT	_	_	_	_	_	_
-3	Iũmũm	ũm	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	punct	_	_	_	_	_
+3	Iũmũm	ũm	VERB	v	_	_	_	_	_
 4	ip	ip	PART	_	_	3	dep	3:dep	_
-5	.	_	PUNCT	_	_	_	_	_	_
+5	.	.	PUNCT	punct	_	_	_	_	_
 6	Pũg̃'in	_	_	_	_	_	_	_	_
-7	,	_	PUNCT	_	_	_	_	_	_
-8	i'e'em	'e	VERB	_	_	_	_	_	_
-9	ajojoyũ'ũm'ũm	_	NOUN	_	_	8	nsubj	8:nsubj	_
+7	,	_	PUNCT	punct	_	_	_	_	_
+8	i'e'em	'e	VERB	v	_	_	_	_	_
+9	ajojoyũ'ũm'ũm	_	NOUN	n	_	8	nsubj	8:nsubj	_
 
 # sent_id = 6
 # text = Xiiih. Ibocen ma nuynuy. Ipot acã cucum, i'e'em. Aripit. Jepitpin.
 # text_port = (Karosakaybu) ficava lá sentado. Só o filho dele, dizem. Voltou.
 1	Xiiih	_	_	_	_	_	_	_	_
-2	.	_	PUNCT	_	_	_	_	_	_
+2	.	.	PUNCT	punct	_	_	_	_	_
 3	Ibocen	_	ADV	_	_	5	_	5	_
 4	ma	_	PART	_	_	_	_	_	_
-5	nuynuy	nuynuy	VERB	_	_	_	_	_	_
-6	.	_	PUNCT	_	_	_	_	_	_
-7	Ipot	pot	NOUN	_	_	9	nsubj	9:nsubj	_
+5	nuynuy	nuynuy	VERB	v	_	_	_	_	_
+6	.	.	PUNCT	punct	_	_	_	_	_
+7	Ipot	pot	NOUN	n	_	9	nsubj	9:nsubj	_
 8	acã	_	ADV	_	_	_	_	_	_
-9	cucum	cu	VERB	_	_	_	_	_	_
-10	,	_	PUNCT	_	_	_	_	_	_
-11	i'e'em	_	VERB	_	_	_	_	_	_
-12	.	_	PUNCT	_	_	_	_	_	_
+9	cucum	cu	VERB	v	_	_	_	_	_
+10	,	_	PUNCT	punct	_	_	_	_	_
+11	i'e'em	_	VERB	v	_	_	_	_	_
+12	.	.	PUNCT	punct	_	_	_	_	_
 13	Aripit	_	_	_	_	_	_	_	_
-14	.	_	PUNCT	_	_	_	_	_	_
+14	.	.	PUNCT	punct	_	_	_	_	_
 15	Jepitpin	_	_	_	_	_	_	_	_
-16	.	_	PUNCT	_	_	_	_	_	_
+16	.	.	PUNCT	punct	_	_	_	_	_
 
 # sent_id = 7
 # text = Juku, bay, i'e'em. 
 # text_port = Está aqui, meu pai, ele disse.
 1	Juku	juku	ADV	_	_	3	vocative	3:vocative	_
-2	,	,	PUNCT	_	_	_	_	_	_
-3	bay	bay	NOUN	_	_	_	_	_	_
-4	,	,	PUNCT	_	_	_	_	_	_
-5	i'e'em	'e	VERB	_	_	_	_	_	_
-6	.	.	PUNCT	_	_	5	punct	5:punct	_
+2	,	,	PUNCT	punct	_	_	_	_	_
+3	bay	bay	NOUN	n	_	_	_	_	_
+4	,	,	PUNCT	punct	_	_	_	_	_
+5	i'e'em	'e	VERB	v	_	_	_	_	_
+6	.	.	PUNCT	punct	_	5	punct	5:PUNCT	punct
 
 # sent_id = 8
 # text = G̃asũ ip i'o'om. Pereh. Ibocewi ip o'xet. Kuyaje jeorokorog̃ ip. Pa'ũm pa'ũm. 
 # text_port = Eles comiam. Acabaram de comer. Daí dormiam. No outro dia iam caçar de novo.
 1	G̃asũ	g̃as̃u	ADV	_	_	3	advcl	3:advcl	_
 2	ip	ip	PART	_	_	3	nsubj	3:nsubj	_
-3	i'o'om	'o	VERB	_	_	_	_	_	_
-4	.	.	PUNCT	_	_	3	punct	3:punct	_
-5	Pereh	pereh	VERB	_	_	_	_	_	_
-6	.	.	PUNCT	_	_	5	punct	5:punct	_
+3	i'o'om	'o	VERB	v	_	_	_	_	_
+4	.	.	PUNCT	punct	_	3	punct	3:PUNCT	punct
+5	Pereh	pereh	VERB	v	_	_	_	_	_
+6	.	.	PUNCT	punct	_	5	punct	5:PUNCT	punct
 7	Ibocewi	_	ADV	_	_	9	advcl	9:advcl	_
 8	ip	ip	PART	_	_	9	nsubj	9:nsubj	_
-9	o'xet	xet	VERB	_	_	_	_	_	_
-10	.	.	PUNCT	_	_	9	punct	9:punct	_
+9	o'xet	xet	VERB	v	_	_	_	_	_
+10	.	.	PUNCT	punct	_	9	punct	9:PUNCT	punct
 11	Kuyaje	kuyaje	ADV	_	_	12	advcl	12:advcl	_
-12	jeorokorog̃	jeorog̃	VERB	_	_	_	_	_	_
+12	jeorokorog̃	jeorog̃	VERB	v	_	_	_	_	_
 13	ip	ip	_	_	_	12	nsubj	12:nsubj	_
-14	.	.	PUNCT	_	_	12	punct	12:punct	_
-15	Pa'ũm	pa'ũm	VERB	_	_	_	_	_	_
-16	pa'ũm	pa'ũm	VERB	_	_	15	dep	15:dep	_
-17	.	_	PUNCT	_	_	15	punct	15:punct	_
+14	.	.	PUNCT	punct	_	12	punct	12:PUNCT	punct
+15	Pa'ũm	pa'ũm	VERB	v	_	_	_	_	_
+16	pa'ũm	pa'ũm	VERB	v	_	15	dep	15:dep	_
+17	.	.	PUNCT	punct	_	15	punct	15:PUNCT	punct
 
 # sent_id = 9
-# text = Ixe jekukum - Karosakaybu - ware-muco wũywũy jekpot xan, xiri aokakam jekpot xan. 
+# text = Ixe jekukum _ Karosakaybu _ ware_muco wũywũy jekpot xan, xiri aokakam jekpot xan. 
 # text_port = Karosakaybu ia flechar juriti para comida do filho dele e matar inhambu para comida do filho.
 1	Ixe	_	PRON	_	_	7	nsubj	7:nsubj	_
 2	jekukum	_	AUX	_	_	7	aux	7:aux	_
-3	,	,	PUNCT	_	_	4	punct	4:punct	_
+3	,	,	PUNCT	punct	_	4	punct	4:PUNCT	punct
 4	Karosakaybu	_	PROPN	_	_	1	appos	1:appos	_
-5	,	,	PUNCT	_	_	4	punct	4:punct	_
-6	ware-muco	_	NOUN	_	_	7	obj	7:obj	_
-7	wũywũy	_	VERB	_	_	_	_	_	_
-8	jekpot	_	NOUN	_	_	9	nmod	9:nmod	_
-9	xan	_	NOUN	_	_	_	_	_	_
-10	,	_	PUNCT	_	_	7	punct	7:punct	_
-11	xiri	_	NOUN	_	_	12	obj	12:obj	_
-12	aokakam	_	VERB	_	_	7	conj	7:conj	_
-13	jekpot	_	NOUN	_	_	14	nmod	14:nmod	_
-14	xan	_	NOUN	_	_	_	_	_	_
-15	.	_	PUNCT	_	_	12	punct	12:punct	_
-
+5	,	,	PUNCT	punct	_	4	punct	4:PUNCT	punct
+6	ware_muco	_	NOUN	n	_	7	obj	7:obj	_
+7	wũywũy	_	VERB	v	_	_	_	_	_
+8	jekpot	_	NOUN	n	_	9	nmod	9:nmod	_
+9	xan	_	NOUN	n	_	_	_	_	_
+10	,	_	PUNCT	punct	_	7	punct	7:PUNCT	punct
+11	xiri	_	NOUN	n	_	12	obj	12:obj	_
+12	aokakam	_	VERB	v	_	7	conj	7:conj	_
+13	jekpot	_	NOUN	n	_	14	nmod	14:nmod	_
+14	xan	_	NOUN	n	_	_	_	_	_
+15	.	.	PUNCT	punct	_	12	punct	12:PUNCT	punct
