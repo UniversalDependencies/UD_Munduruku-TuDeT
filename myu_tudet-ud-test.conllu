@@ -75,7 +75,7 @@
 # text = Tawe oajẽm xa xe
 # text_portuguese = O macaco-prego chegou perto do pequizeiro
 # text_eng = The capuchin monkey came/arrived to/at the pequi tree
-1	Tawe	tawe	Noun	n	_	2	obl	2:obl	_
+1	Tawe	tawe	NOUN	n	_	2	obl	2:obl	_
 2	oajẽm	ajẽm	VERB	v	Aspect=Perf|Person=3	0	root	0:root	_
 3	xa	xa	NOUN	n	_	2	obl	2:obl	_
 4	xe	xe	ADP	pp	_	3	case	3:case	_
@@ -85,7 +85,7 @@
 # text_portuguese = O macaco-prego chegou perto do terrano do chefe
 # Text_eng = The capuchin monkey came/arrived to/at the chief's land
 # sent_structure = SV
-1	Tawe	tawe	Noun	n	_	2	obl	2:obl	_
+1	Tawe	tawe	NOUN	n	_	2	obl	2:obl	_
 2	oajẽm	ajẽm	VERB	vi	Aspect=Perf|Person=3	0	root	0:root	_
 3	ka	ka	NOUN	n	_	2	obl	2:obl	_
 4	xe	xe	ADP	pp	_	3	case	3:case	_
@@ -95,7 +95,7 @@
 # text_portuguese = O chefe chegou ao lugar onde estava o macaco-prego
 # text_eng = The chief came/arrived to/at the place where the capuchin monkey was
 # sent_structure = SV
-1	Toxaw	toxaw	Noun	n	_	2	obl	2:obl	_
+1	Toxaw	toxaw	NOUN	n	_	2	obl	2:obl	_
 2	oajẽm	ajẽm	VERB	v	Aspect=Perf|Person=3	0	root	0:root	_
 3	ka	ka	NOUN	n	_	2	obl	2:obl	_
 4	be	be	ADP	pp	_	3	case	3:case	_
@@ -104,7 +104,7 @@
 # text = Toxaw dak jexat o'tobuxik
 # text_portuguese = O chefe também achou a comida
 # text_eng = The chief also found the food
-1	Toxaw	toxaw	Noun	n	_	4	obl	4:obl	_
+1	Toxaw	toxaw	NOUN	n	_	4	obl	4:obl	_
 2	dak	dak	ADV	adv	_	4	advmod	4:advmod	_
 3	jexat	xat	NOUN	n	_	4	obl	4:obl	_
 4	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=3	0	root	0:root	_
@@ -113,8 +113,8 @@
 # text = Toxaw tawe o'tobuxik
 # text_portuguese = O chefe também achou o macaco-prego
 # text_eng = The chief found the capuchin monkey
-1	Toxaw	toxaw	Noun	n	_	3	obl	3:obl	_
-2	tawe	tawe	Noun	n	_	3	obl	3:obl	_
+1	Toxaw	toxaw	NOUN	n	_	3	obl	3:obl	_
+2	tawe	tawe	NOUN	n	_	3	obl	3:obl	_
 3	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=3	0	root	0:root	_
 
 # sent_id = 15
@@ -123,7 +123,7 @@
 # text_eng = He found the capuchin monkey near the pequi tree
 1	Xa	xa	NOUN	n	_	4	obl	4:obl	_
 2	xe	xe	ADP	pp	_	1	case	1:case	_
-3	tawe	tawe	Noun	n	_	4	obl	4:obl	_
+3	tawe	tawe	NOUN	n	_	4	obl	4:obl	_
 4	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=3	0	root	0:root	_
 
 # sent_id = 16
