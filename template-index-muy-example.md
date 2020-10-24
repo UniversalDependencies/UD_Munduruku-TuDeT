@@ -31,11 +31,9 @@ Stative-verbs and possessed nouns behave alike, in a way that is not possible to
 
 * Nominal words ([NOUN](), [PROPN]() and [PRON]()) are not marked for [Gender](), and are optionally marked for [Number](). 
 * Another way to express existential predication is through the reduplication of a noun with the vowel *e* replacing
-the original vowel *xat* 'food' *xaxet* 'there is food'. These nouns receive a marked Redup=Ex (reduplication existential) in
-the FEATS column.
+the original vowel *xat* 'food' *xaxet* 'there is food'. These nouns receive a marked Redup=Ex (reduplication existential) in the FEATS column.
 * Mundurukú classifiers are real nouns. Gomes (2006) speaks of nouns in classifier function. Nouns (NOUN) in this function 
-are tagged cl in the XPOS column. The features of the cl tags are their basic meanings, e.g. *'a* Class=Round. 
-
+are tagged cl in the XPOS column.  
 
 
 ### Verbal Features
@@ -47,6 +45,7 @@ These are tagged as [AUX]() in the [UPOS](), and v:ex (existential verb) and aux
 * [Person](https://universaldependencies.org/u/feat/Person.html) can have the value [1](), [2](), and [3]().
 * The feature [Evident]() can take the following values in: 
 * [Clusivity]() can have both values, []() and []().
+* Some 'words' which are difficult to assign to a lexical/syntactical category are assined the relation [cop](https://universaldependencies.org/u/dep/cop.html)
 
 
 
