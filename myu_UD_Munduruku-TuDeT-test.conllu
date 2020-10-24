@@ -60,7 +60,7 @@
 # text = Jexat o'tobuxik iku be
 # text_eng = He found food it in the slash
 1	Jexat	xat	NOUN	n	_	2	obl	2:obl	_
-2	otobuxik	dobuxik	VERB	v	Aspect=Perf|Person[subj]=3	0	root	0:root	_
+2	o'tobuxik	dobuxik	VERB	v	Aspect=Perf|Person[subj]=3	0	root	0:root	_
 3	iku	ku	NOUN	n	_	2	obl	2:obl	_
 4	be	be	ADP	pp	_	3	case	3:case	_
 
