@@ -221,10 +221,10 @@
 # text_portuguese = Quem quer agulha?
 # text_eng = Who wants a needle?
 # sent_structure = SO(V?)
-1	Abu	abu	PRON	pro	_	0	root	0:root	_
-2	awi	awi	NOUN	n	_	3	_	3	_
-3	kay	kay	ADP	pp	_	1	_	1	_
-4	?	?	PUNCT	punct	_	1	punct	1:punct	_
+1	Abu	abu	PRON	pro	_	2	nsubj	2:nsubj	_
+2	awi	awi	NOUN	n	_	0	root	0:root	_
+3	kay	kay	ADP	pp	_	2	case	2:case	_
+4	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
 # sent_id = 27
 # text = Abu o'titobuxik ?
