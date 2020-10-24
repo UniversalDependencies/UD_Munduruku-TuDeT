@@ -30,7 +30,7 @@
 # text = Ka'ũma !
 # text_eng = no!
 1	Ka'ũma	ka'ũma	INTJ	intj	_	0	root	0:root	_
-2	!	!	Punct	punct	_	1	punct	1:punct	_
+2	!	!	PUNCT	punct	_	1	punct	1:punct	_
 
 # sent_id = 5
 # text = Akoba du opop ajojot xe ?
@@ -46,7 +46,7 @@
 # text = Ka'ũma !
 # text_eng = no!
 1	Ka'ũma	ka'ũma	INTJ	intj	_	0	root	0:root	_
-2	!	!	Punct	punct 	_	1	punct	1:punct	_
+2	!	!	PUNCT	punct 	_	1	punct	1:punct	_
 
 # sent_id = 7
 # text = Tawe oajẽm iku be
