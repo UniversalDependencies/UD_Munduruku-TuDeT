@@ -28,8 +28,8 @@
 # Sent_ID = 4
 # text = Ka'ũma
 # text_eng = no!
-1	 Ka'ũma	ka'ũma	INTJ	intj 	_	_	_	_	_
-2	 !	!	Punct	punct 	_	1	punct	1:punct	_
+1	Ka'ũma	ka'ũma	INTJ	intj 	_	_	_	_	_
+2	!	!	Punct	punct 	_	1	punct	1:punct	_
 
 # Sent_ID = 5
 # text = Akoba du opop ajojot xe?
@@ -45,8 +45,8 @@
 # Sent_ID = 6
 # text = Ka'ũma
 # text_eng = no!
-1	 Ka'ũma	ka'ũma	INTJ	intj 	_	_	_	_	_
-2	 !	!	Punct	punct 	_	1	punct	1:punct	_
+1	Ka'ũma	ka'ũma	INTJ	intj 	_	_	_	_	_
+2	!	!	Punct	punct 	_	1	punct	1:punct	_
 
 # Sent_ID = 7
 # text = Tawe oajẽm iku be
@@ -312,7 +312,7 @@
 # sent_structure = 
 1	Tawe	tawe	NOUN	n	_	2	nsubj	2:nsubj	_
 2	ixat	xat	NOUN	n	_	0	root	0:root	_
-3	 , 	,	PUNCT	punct	_	2	punct	2:punct	_
+3	, 	,	PUNCT	punct	_	2	punct	2:punct	_
 4	toxaw	toxaw	NOUN	n	_	5	nmod	5:nmod	_
 5	xat	xat	NOUN	n	_	2	appos	2:appos	_
 
@@ -509,7 +509,7 @@
 # sent_structure = 
 1-2	Wexik'a	_	_	_	_	_	_	_	_
 1	Wexik	wexik	NOUN	n	_	0	root	0:root	_
-2	 'a	'a	NOUN	cl	Class=Round	1	nmod	1:nmod	_
+2	'a	'a	NOUN	cl	Class=Round	1	nmod	1:nmod	_
 3	kake	kake	AUX	aux	_	1	cop	1:cop	_
 4	wa'e	wa'e	NOUN	n	_	1	obl	1:obl	_
 5	be	be	ADP	pp	_	4	case	4:case	_
