@@ -1,4 +1,4 @@
-![TuLeD](mapNimu2.png)
+![TuLeD](not-to-release/mapNimu2.png)
 # Summary
 
 UD_Munduruku-TuDeT is a collection of annotated sentences in Mundurukú. Together with [UD_Akuntsu-TuDeT](https://github.com/UniversalDependencies/UD_Akuntsu-TuDeT) and [UD_Tupinamba-TuDeT](https://github.com/UniversalDependencies/UD_Tupinamba-TuDeT), UD_Munduruku-TuDeT is part of the [TuLaR](https://tular.org) project.
