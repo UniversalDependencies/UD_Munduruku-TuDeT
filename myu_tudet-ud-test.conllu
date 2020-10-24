@@ -17,8 +17,8 @@
 2	o'tobuxik	dobuxik	VERB	v	Aspectect=Perf|Number=sing|Person[subj]=3|	0	root	0:root	_
 
 # Sent_ID = 3
-# text = Tit tak o'titobuxik tu?
-# text_eng = Did he also find flowers?
+# text = Tit tak o'titobuxik tu ?
+# text_eng = Did he also find flowers ?
 1	Tit	dit	NOUN	n	_	3	obl	3:obl	_
 2	tak	tak	ADV	adv	_	3	advmod	3:advmod	_
 3	o'titobuxik	dobuxik	VERB	vt	Aspectect=Perf|Number=Sing|Person[subj]=3|	0	root	0:root	_
@@ -28,11 +28,11 @@
 # Sent_ID = 4
 # text = Ka'ũma
 # text_eng = no!
-1	Ka'ũma	ka'ũma	INTJ	intj 	_	_	_	_	_
-2	!	!	Punct	punct 	_	1	punct	1:punct	_
+1	Ka'ũma	ka'ũma	INTJ	intj	_	_	_	_	_
+2	!	!	Punct	punct	_	1	punct	1:punct	_
 
 # Sent_ID = 5
-# text = Akoba du opop ajojot xe?
+# text = Akoba du opop ajojot xe ?
 # text_eng = Are the bananas near grandpa?
 # ****** Here it is necessary to define if opopo is an auxiliary verb/copula or av full verb *********
 1	Akoba	akoba	NOUN	n	_	3	nsubj	3:nsubj	_
@@ -45,7 +45,7 @@
 # Sent_ID = 6
 # text = Ka'ũma
 # text_eng = no!
-1	Ka'ũma	ka'ũma	INTJ	intj 	_	_	_	_	_
+1	Ka'ũma	ka'ũma	INTJ	intj	_	_	_	_	_
 2	!	!	Punct	punct 	_	1	punct	1:punct	_
 
 # Sent_ID = 7
@@ -190,7 +190,7 @@
 2	o'tobuxik	dobuxik	VERB	vt	_	0	root	0:root	_
 
 # SENT_ID = 22
-# text = Toxaw tawe o'tobuxik tu?
+# text = Toxaw tawe o'tobuxik tu ?
 # text_portuguese = O chefe achou o macaco-prego?
 # text_eng = Did the chief find the capuchin monkey?
 # sent_structure = 
@@ -201,7 +201,7 @@
 5	?	?	PUNCT	punct	_	3	punct	3:punct	_
 
 # SENT_ID = 23
-# text = Abu tawe o'tobuxik?
+# text = Abu tawe o'tobuxik ?
 # text_portuguese = Quem achou o macaco-prego?
 # text_eng = Who found the capuchin monkey?
 # sent_structure = SOV
@@ -211,7 +211,7 @@
 4	?	?	PUNCT	punct	_	3	punct	3:punct	_
 
 # SENT_ID = 24
-# text = Abu awi o'tobuxik?
+# text = Abu awi o'tobuxik ?
 # text_portuguese = Quem achou a agulha?
 # text_eng = Who found the needle?
 # sent_structure = SOV
@@ -221,7 +221,7 @@
 4	?	?	PUNCT	punct	_	3	punct	3:punct	_
 
 # SENT_ID = 25
-# text = Abu jexat o'tobuxik?
+# text = Abu jexat o'tobuxik ?
 # text_portuguese = Quem achou a comida?
 # text_eng = Who found the food?
 # sent_structure = SOV
@@ -231,7 +231,7 @@
 4	?	?	PUNCT	punct	_	3	punct	3:punct	_
 
 # SENT_ID = 26
-# text = Abu awi kay?
+# text = Abu awi kay ? 
 # text_portuguese = Quem quer agulha?
 # text_eng = Who wants a needle?
 # sent_structure = SO(V?)
@@ -241,7 +241,7 @@
 4	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
 # SENT_ID = 27
-# text = Abu o'titobuxik?
+# text = Abu o'titobuxik ?
 # text_portuguese = Quem achou as flôres?
 # text_eng = Who found the flowers? 
 # sent_structure = 
@@ -443,7 +443,7 @@
 2	oexe	xe	VERB	vi	Aspect=Perf|Person[subj]=3	0	root	0:root	_
 
 # SENT_ID = 47
-# text = I'it wa du?
+# text = I'it wa du ?
 # text_portuguese = O filho esta chorando?
 # text_eng = Is the son crying?
 # sent_structure = 
