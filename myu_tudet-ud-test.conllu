@@ -171,13 +171,10 @@
 1	Awawa	awawa	NOUN	n	_	2	obl	2:obl	_
 2	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=3	0	root	0:root	_
 
-1	Awi	awi	NOUN	n	_	2	obl	2:obl	_
-2	o'tobuxik	dobuxik	VERB	vt	_	0	root	0:root	_
 # sent_id = 22
 # text = Toxaw tawe o'tobuxik tu ?
 # text_portuguese = O chefe achou o macaco-prego?
 # text_eng = Did the chief find the capuchin monkey?
-# sent_structure = 
 1	Toxaw	toxaw	NOUN	n	_	3	obl	3:obl	_
 2	tawe	tawe	NOUN	n	_	3	obl	3:obl	_
 3	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=3	0	root	0:root	_
