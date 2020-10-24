@@ -2,7 +2,7 @@ layout: base
 title: 'Munduruku UD'
 udver: '2'
 
-# UD for LANGUAGE <span class="flagspan"><img class="flag" src="../../flags/svg/AQ.svg" /></span>
+# UD for LANGUAGE <span class="flagspan"><img class="flag" src="../../flags/svg/BR.svg" /></span>
 
 
 # Mundurukú 
@@ -33,22 +33,27 @@ Stative-verbs and possessed nouns behave alike, in a way that is not possible to
 * Mundurukú classifiers are real nouns. Gomes (2006) speaks of nouns in classifier function. Nouns (NOUN) in this function 
 are tagged cl in the XPOS column. The features of the cl tags are their basic meanings, e.g. *'a* Class=Round. 
 * Another way to express existential predication is through the reduplication of a noun with the vowel *e* replacing
-the original vowel *xat* 'food' *xaxet* 'there is food'. These nouns receive a marked Redup=ex (reduplication existential) in
+the original vowel *xat* 'food' *xaxet* 'there is food'. These nouns receive a marked Redup=Ex (reduplication existential) in
 the FEATS column.
 
 ### Verbal Features
 
 * Verbs have a lexical [Aspect](): imperfective (`Imp`), perfective (`Perf`), iterative (`Iter`). 
 * Some lexical roots can not easily be assigned to a  specific lexical category. This is the case with *kake* and *opop*. 
-These are tagged as AUX in the UPOS, and v:ex (existential verb) and aux respectively in the XPOS.
-
+These are tagged as [AUX]() in the [UPOS](), and v:ex (existential verb) and aux respectively in the XPOS.
+* Particles or reduplication mark [Aspect]() or [Tense]().
+* [Person](https://universaldependencies.org/u/feat/Person.html) can have the value [1](), [2](), and [3]().
+* The feature [Evident]() can take the following values in: 
+* [Clusivity]() can have both values, []() and []().
 
 
 
 
 ## Syntax
 
-*
+* [aux]()
+* [cop]()
+
 
 ---
 **Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
