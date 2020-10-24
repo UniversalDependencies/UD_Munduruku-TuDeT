@@ -509,8 +509,7 @@
 # sent_id = 57 Vol 5 p39-2
 # text = ag̃okatkat o'ju puybit aokam
 # text_portuguese = Os homens foram matar caça
-# text_eng = The men went to kill the hunt
-# sent_structure = 
+# text_eng = The men went to kill the hunt 
 1	ag̃okatkat	ag̃okatkat	NOUN	n	_	2	obl	2:obl	_
 2	o'ju	cu	VERB	vi	_	0	root	0:root	_
 3	puybit	puybit	NOUN	n	_	4	obj	4:obj	_
@@ -520,7 +519,6 @@
 # text = oexexe ip uk'a be puybit kukug̃
 # text_portuguese = Eles chegaram em casa com caça
 # text_eng = They arrived home with a hunted thing
-# sent_structure = 
 1	oexexe	exexe	VERB	vi	Aspect=Perf|Number=Plur|Person=3	0	root	0:root	_
 2	ip	ip	PART	pcl	_	1	dep	1:dep	_
 3-4	uk'a	_	_	_	_	_	_	_	_
@@ -529,3 +527,4 @@
 5	be	be	ADP	pp	_	3	case	3:case	_
 6	puybit	puybit	NOUN	n	_	7	obj	7:obj	_
 7	kukug̃	kukug̃	VERB	vt	Aspect=Imp|Number=Plur|Person=3	1	dep	1:dep	_
+
