@@ -420,13 +420,6 @@
 3	du	du	PART	pcl	_	2	discourse	2:discourse	_
 4	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
-# sent_id = 48
-# text = I'it ixet
-# text_portuguese = O filho esta dormindo. 
-# text_eng = The son is sleeping. 
-1	Toxaw	toxaw	NOUN	n	_	2	obl	2:obl	_
-2	oexe	xe	VERB	vi	Aspect=Perf|Person=3	0	root	0:root	_
-
 # sent_id = 49
 # text = Toxaw i'it o'tobuxik uk'a be .
 # text_portuguese = O chefe achou o filho em casa. 
