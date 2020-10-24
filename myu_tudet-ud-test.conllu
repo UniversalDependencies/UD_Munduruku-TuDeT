@@ -250,7 +250,7 @@
 3	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
 # SENT_ID = 28
-# text = Awawa awi o'tobuxik jekibit ka be.
+# text = Awawa awi o'tobuxik jekibit ka be .
 # text_portuguese = Vovó achou uma agulha no terreno da irmã.
 # text_eng = The grandmother found a needle on her sister's land. 
 # sent_structure = 
@@ -262,7 +262,7 @@
 6	be	be	ADP	pp	_	3	_	3	_
 
 # SENT_ID = 29
-# text = Oexe awawa. 
+# text = Oexe awawa . 
 # text_portuguese = Vovó chegou em casa.
 # text_eng = The grandmother arrived home. 
 # sent_structure = 
@@ -271,7 +271,7 @@
 2	awawa	awawa	NOUN	n	_	1	obl	1:obl	_
 
 # SENT_ID = 30
-# text = Toxaw dak oexe.
+# text = Toxaw dak oexe .
 # text_portuguese = O chefe tambem chegou em casa.
 # text_eng = The chief has/owns also a house. (?)
 # sent_structure = 
@@ -280,7 +280,7 @@
 3	oexe	xe	VERB	v	_	0	root	0:root	_
 
 # SENT_ID = 31
-# text = Awawa tawe kay.
+# text = Awawa tawe kay .
 # text_portuguese = Vovó quer o macaco-prego.
 # text_eng = The grandmother wants the capuchin monkey. 
 # sent_structure = 
@@ -289,7 +289,7 @@
 3	kay	kay	ADP	pp	_	2	case	2:case	_	
 
 # SENT_ID = 32
-# text = Toxaw tawe o'tobuxik.
+# text = Toxaw tawe o'tobuxik .
 # text_portuguese = O chefe achou o macaco-prego.
 # text_eng = The chief found the capuchin monkey. 
 # sent_structure = 
@@ -298,7 +298,7 @@
 3	o'tobuxik	dobuxik	VERB	v	Aspect=Perf|Person[subj]=3	0	root	0:root	_
 
 # SENT_ID = 33
-# text = Jexat o'tobuxik. 
+# text = Jexat o'tobuxik . 
 # text_portuguese = Êle achou, a comida.
 # text_eng = He found the food. 
 # sent_structure = 
@@ -317,7 +317,7 @@
 5	xat	xat	NOUN	n	_	2	appos	2:appos	_
 
 # SENT_ID = 35
-# text = Awawa ixaxet.
+# text = Awawa ixaxet .
 # text_portuguese = Vovó tem comida. 
 # text_eng = The grandmother has food. 
 # sent_structure = 
@@ -327,14 +327,14 @@
 # SENT_ID = 36
 # text = Awawa ixiwe kay.
 # text_portuguese = Vovo quer embira.
-# text_eng = The grandmother wants an embira plant. 
+# text_eng = The grandmother wants an embira plant . 
 # sent_structure = 
 1	Awawa	awawa	NOUN	n	_	0	root	0:root	_
 2	ixiwe	ixiwe	NOUN	n	_	1	nmod	1:nmod	_
 3	kay	kay	ADP	pp	_	2	case	2:case	_
 
 # SENT_ID = 37
-# text = Ixiwe ako xe.
+# text = Ixiwe ako xe .
 # text_portuguese = A embira esta perto da bananeira.
 # text_eng = The embira plant is close to the banana tree.
 # sent_structure = 
@@ -343,7 +343,7 @@
 3	xe	xe	ADP	pp	_	2	case	_	_
 
 # SENT_ID = 38
-# text = Awawa cum ako xe.
+# text = Awawa cum ako xe .
 # text_portuguese = Vovó vai perto da bananeira.
 # text_eng = Grandma goes near the banana tree.
 # sent_structure = 
@@ -353,7 +353,7 @@
 4	xe	xe	ADP	pp	_	3	case	3:case	_
 
 # SENT_ID = 39
-# text = Ixiwe o'tobuxik ako xe.
+# text = Ixiwe o'tobuxik ako xe .
 # text_portuguese = Ela achou embira perto da bananeira. 
 # text_eng = She found the embira plant close to the banana tree. 
 # sent_structure = 
@@ -363,7 +363,7 @@
 4	xe	xe	ADP	pp	_	3	case	3:case	_
 
 # SENT_ID = 40
-# text = Awawa akoba kay. Cum jeku be.
+# text = Awawa akoba kay . Cum jeku be .
 # text_portuguese = Vovo quer umas bananas. 
 # text_eng = Grandma wants some bananas.
 # sent_structure = 
@@ -377,7 +377,7 @@
 8	.	.	PUNCT	punct	_	5	punct	_	_
 
 # SENT_ID = 41
-# text = Awawa jeku be oajẽm.
+# text = Awawa jeku be oajẽm .
 # text_portuguese = Vovo chegou a roca.
 # text_eng = The grandmother arrived/came to her slash.  
 # sent_structure = 
@@ -387,7 +387,7 @@
 4	oajẽm	ajẽm	VERB	vi	Aspect=Imp|Person[subj]=3	0	root	_	_
 
 # SENT_ID = 42
-# text = Akoba iku be opop.
+# text = Akoba iku be opop .
 # text_portuguese = As bananas estao na roca. 
 # text_eng = The bananas lay in her slash. 
 # sent_structure = 
@@ -398,7 +398,7 @@
 5	.	.	PUNCT	punct	_	1	punct	1:punct	_
 
 # SENT_ID = 43
-# text = Tit tak iku be opop , awawa ku be.
+# text = Tit tak iku be opop , awawa ku be .
 # text_portuguese = A flor também esta na roca -- na roca da vovo. 
 # text_eng = The flower lies also in her slash -- in the grandmother's slash. 
 # sent_structure = 
@@ -414,7 +414,7 @@
 10	.	.	PUNCT	punct	_	3	punct	3:punct	_
 
 # SENT_ID = 44
-# text = Ixi uk'a be.
+# text = Ixi uk'a be .
 # text_portuguese = A mãe está em casa.
 # text_eng = The mother is at home
 # sent_structure = 
@@ -425,7 +425,7 @@
 4	be	be	ADP	pp	_	2	case	2:case	_
 
 # SENT_ID = 45
-# text = I'it tak uk'a be.
+# text = I'it tak uk'a be .
 # text_portuguese = O filho também esta em casa. 
 # text_eng = The son is also at home. (in the house)
 # sent_structure = 
@@ -435,7 +435,7 @@
 4	be	be	ADP	pp	_	3	case	_	_
 
 # SENT_ID = 46
-# text = Toxaw oexe.
+# text = Toxaw oexe .
 # text_portuguese = O chefe chegou a casa. 
 # text_eng = The chief arrived at/ came home. 
 # sent_structure = 
@@ -453,7 +453,7 @@
 4	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
 # SENT_ID = 49
-# text = I'it ixet.
+# text = I'it ixet .
 # text_portuguese = O filho esta dormindo. 
 # text_eng = The son is sleeping. 
 # sent_structure = 
@@ -461,7 +461,7 @@
 2	oexe	xe	VERB	vi	Aspect=Perf|Person[subj]=3	0	root	0:root	_
 
 # SENT_ID = 50
-# text = Toxaw i'it o'tobuxik uk'a be.
+# text = Toxaw i'it o'tobuxik uk'a be .
 # text_portuguese = O chefe achou o filho em casa. 
 # text_eng = The chief found the son at home / in the house. 
 # sent_structure = 
@@ -475,7 +475,7 @@
 7	.	.	PUNCT	punct	_	3	punct	3:punct	_
 
 # SENT_ID = 51
-# text = I'it ixet.
+# text = I'it ixet .
 # text_portuguese = O filho esta dormindo. 
 # text_eng = The son is sleeping. 
 # sent_structure = 
@@ -483,7 +483,7 @@
 2	ixet	xet	VERB	v:st	_	0	root	_	_
 
 # SENT_ID = 53
-# text = Ixi wa'e kug̃.
+# text = Ixi wa'e kug̃ .
 # text_portuguese = A mãe tem uma cuia.
 # text_eng = The mother has a gourd. 
 # sent_structure = 
@@ -492,7 +492,7 @@
 3	kug̃	kug̃	VERB	vx	_	0	root	0:root	_
 
 # SENT_ID = 54
-# text = Wa'e ibubut , ixi bubut.
+# text = Wa'e ibubut , ixi bubut .
 # text_portuguese = A cuia e dela.
 # text_eng = The gourd is hers. 
 # sent_structure = 
@@ -503,7 +503,7 @@
 5	bubut	bubut	NOUN	n	_	2	appos	2:appos	_
 
 # SENT_ID = 55
-# text = Wexik'a kake wa'e be. 
+# text = Wexik'a kake wa'e be . 
 # text_portuguese = Há batata-doce na cuia.
 # text_eng = There is sweet-potatoe in the gourd
 # sent_structure = 
@@ -515,7 +515,7 @@
 5	be	be	ADP	pp	_	4	case	4:case	_
 
 # SENT_ID = 56
-# text = Ixat'a kake wa'e be , uk'a be. 
+# text = Ixat'a kake wa'e be , uk'a be . 
 # text_portuguese = Tem comida na cuia, em casa.
 # text_eng = There is food in the gourd, at home.
 # sent_structure = 
@@ -530,7 +530,7 @@
 8	be	be	ADP	pp	_	7	case	7:case	_
 
 # SENT_ID = 57
-# text = Wa'e uk'a be. 
+# text = Wa'e uk'a be . 
 # text_portuguese = A cuia está na casa.
 # text_eng = The gourd is/lies in the house. 
 # sent_structure = 
@@ -539,7 +539,7 @@
 3	be	be	ADP	pp	_	2	case	_	_
 4	opop	opop	AUX	aux	_	1	cop	_	_
 
-# SETN_ID = Vol 5 p39-1
+# SEN_ID = Vol 5 p39-1
 # text = puybit ka'ũmg̃u o'e
 # text_portuguese = Não há comida
 # text_eng = There is no food
@@ -549,7 +549,7 @@
 3	,	,	PUNCT	punct	_	1	punct	1:punct	_
 4	o'e	'e	VERB	vi	Aspect=Perf|Evident=Nfh|Person[subj]=3	1	dep	1:dep	_
 
-# SETN_ID = Vol 5 p39-2
+# SENT_ID = Vol 5 p39-2
 # text = ag̃okatkat o'ju puybit aokam
 # text_portuguese = Os homens foram matar caça
 # text_eng = The men went to kill the hunt
@@ -559,7 +559,7 @@
 3	puybit	puybit	NOUN	n	_	4	obj	4:obj	_
 4	aokam	aoka	VERB	vt	Aspect=Imp|Person[subj]=3	2	ccomp	2:ccomp	_
 
-# SETN_ID = Vol 5 p39-3
+# SENT_ID = Vol 5 p39-3
 # text = oexexe ip uk'a be puybit kukug̃
 # text_portuguese = Eles chegaram em casa com caça
 # text_eng = They arrived home with a hunted thing
