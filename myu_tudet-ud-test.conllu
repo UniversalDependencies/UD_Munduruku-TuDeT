@@ -149,11 +149,11 @@
 
 # sent_id = 18
 # text = Awi awawa bubut
-# text_portuguese = A agulha e da vovo.
+# text_portuguese = A agulha é da vovo.
 # text_eng = The needle belongs to (?) the grandmother.
 1	Awi	awi	NOUN	n	_	3	nsubj	3:nsubj	_
 2	awawa	awawa	NOUN	n	_	3	nmod	3:nmod	_
-3	bubut	bubut	NOUN	n	_	_	_	_	_
+3	bubut	bubut	AUX	aux	_	2	cop	2:cop	_
 
 # sent_id = 19
 # text = Ite awi o'tobuxik
