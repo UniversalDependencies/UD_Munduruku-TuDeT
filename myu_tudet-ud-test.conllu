@@ -29,7 +29,7 @@
 # sent_id = 4
 # text = Ka'ũma !
 # text_eng = no!
-1	Ka'ũma	ka'ũma	INTJ	intj	_	_	_	_	_
+1	Ka'ũma	ka'ũma	INTJ	intj	_	0	root	0:root	_
 2	!	!	Punct	punct	_	1	punct	1:punct	_
 
 # sent_id = 5
@@ -45,7 +45,7 @@
 # sent_id = 6
 # text = Ka'ũma !
 # text_eng = no!
-1	Ka'ũma	ka'ũma	INTJ	intj	_	_	_	_	_
+1	Ka'ũma	ka'ũma	INTJ	intj	_	0	root	0:root	_
 2	!	!	Punct	punct 	_	1	punct	1:punct	_
 
 # sent_id = 7
