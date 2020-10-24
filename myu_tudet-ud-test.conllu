@@ -68,7 +68,7 @@
 # text = Xa iku xe
 # Text_eng = The pequi tree is/lies near the slash
 1	Xa	xa	NOUN	n	_	2	nsubj	2:nsubj	_
-2	iku	ku	NOUN	n	_	_	_	_	_
+2	iku	ku	NOUN	n	_	0	root	0:root	_
 3	xe	xe	ADP	pp	_	2	case	2:case	_
 
 # sent_id = 10
