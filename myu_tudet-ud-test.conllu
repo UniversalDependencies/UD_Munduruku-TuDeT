@@ -515,7 +515,7 @@
 3	puybit	puybit	NOUN	n	_	4	obj	4:obj	_
 4	aokam	aoka	VERB	vt	Aspect=Imp|Person=3	2	ccomp	2:ccomp	_
 
-# sent_id = 58 Vol 5 p39-3
+# sent_id =58 Vol 5 p39-3
 # text = oexexe ip uk'a be puybit kukug̃
 # text_portuguese = Eles chegaram em casa com caça
 # text_eng = They arrived home with a hunted thing
@@ -527,4 +527,3 @@
 5	be	be	ADP	pp	_	3	case	3:case	_
 6	puybit	puybit	NOUN	n	_	7	obj	7:obj	_
 7	kukug̃	kukug̃	VERB	vt	Aspect=Imp|Number=Plur|Person=3	1	dep	1:dep	_
-
