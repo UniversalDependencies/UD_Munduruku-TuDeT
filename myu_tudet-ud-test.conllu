@@ -197,7 +197,7 @@
 1	Toxaw	toxaw	NOUN	n	_	3	obl	3:obl	_
 2	tawe	tawe	NOUN	n	_	3	obl	3:obl	_
 3	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person[subj]=3	0	root	0:root	_
-4	tu	tu	PART	ptcl	_	3	dep	3:dep	_
+4	tu	tu	PART	pcl	_	3	dep	3:dep	_
 5	?	?	PUNCT	punct	_	3	punct	3:punct	_
 
 # SENT_ID = 23
@@ -215,51 +215,51 @@
 # text_portuguese = Quem achou a agulha?
 # text_eng = Who found the needle?
 # sent_structure = SOV
-1	Abu	abu	PRON	_	_	3	obl	3:obl	_
-2	awi	awi	NOUN	_	_	3	obl	3:obl	_
-3	o'tobuxik	dobuxik	VERB	_	_	0	root	0:root	_
-4	?	?	PUNCT	_	_	3	punct	3:punct	_
+1	Abu	abu	PRON	pro	_	3	obl	3:obl	_
+2	awi	awi	NOUN	n	_	3	obl	3:obl	_
+3	o'tobuxik	dobuxik	VERB	v	_	0	root	0:root	_
+4	?	?	PUNCT	punct	_	3	punct	3:punct	_
 
 # SENT_ID = 25
 # text = Abu jexat o'tobuxik?
 # text_portuguese = Quem achou a comida?
 # text_eng = Who found the food?
 # sent_structure = SOV
-1	Abu	abu	PRON	_	_	3	obl	3:obl	_
-2	jexat	xat	NOUN	_	_	3	obl	3:obl	_
-3	o'tobuxik	dobuxik	VERB	_	_	0	root	0:root	_
-4	?	?	PUNCT	_	_	3	punct	3:punct	_
+1	Abu	abu	PRON	pro	_	3	obl	3:obl	_
+2	jexat	xat	NOUN	n	_	3	obl	3:obl	_
+3	o'tobuxik	dobuxik	VERB	v	_	0	root	0:root	_
+4	?	?	PUNCT	punct	_	3	punct	3:punct	_
 
 # SENT_ID = 26
 # text = Abu awi kay?
 # text_portuguese = Quem quer agulha?
 # text_eng = Who wants a needle?
 # sent_structure = SO(V?)
-1	Abu	abu	PRON	_	_	0	root	0:root	_
-2	awi	awi	NOUN	_	_	3	_	3	_
-3	kay	kay	ADP	_	_	1	_	1	_
-4	?	?	PUNCT	_	_	1	punct	1:punct	_
+1	Abu	abu	PRON	pro	_	0	root	0:root	_
+2	awi	awi	NOUN	n	_	3	_	3	_
+3	kay	kay	ADP	pp	_	1	_	1	_
+4	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
 # SENT_ID = 27
 # text = Abu o'titobuxik?
 # text_portuguese = Quem achou as flôres?
 # text_eng = Who found the flowers? 
 # sent_structure = 
-1	Abu	abu	PRON	_	_	2	obl	2:obl	_
-2	o'titobuxik	dobuxik	VERB	_	_	0	root	0:root	_
-3	?	?	PUNCT	_	_	2	punct	2:punct	_
+1	Abu	abu	PRON	pro	_	2	obl	2:obl	_
+2	o'titobuxik	dobuxik	VERB	v	_	0	root	0:root	_
+3	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
 # SENT_ID = 28
 # text = Awawa awi o'tobuxik jekibit ka be.
 # text_portuguese = Vovó achou uma agulha no terreno da irmã.
 # text_eng = The grandmother found a needle on her sister's land. 
 # sent_structure = 
-1	Awawa	awawa	NOUN	_	_	3	obl	3:obl	_
-2	awi	awi	NOUN	_	_	3	obl	3:obl	_
-3	o'tobuxik	dobuxik	VERB	_	Aspect=Perf|Person[subj]=3	0	root	0:root	_
-4	jekibit	jekibit	NOUN	_	_	5	_	5	_
-5	ka	ka	NOUN	_	_	6	_	6	_
-6	be	be	ADP	_	_	3	_	3	_
+1	Awawa	awawa	NOUN	n	_	3	obl	3:obl	_
+2	awi	awi	NOUN	n	_	3	obl	3:obl	_
+3	o'tobuxik	dobuxik	VERB	v	Aspect=Perf|Person[subj]=3	0	root	0:root	_
+4	jekibit	jekibit	NOUN	n	_	5	_	5	_
+5	ka	ka	NOUN	n	_	6	_	6	_
+6	be	be	ADP	pp	_	3	_	3	_
 
 # SENT_ID = 29
 # text = Oexe awawa. 
@@ -267,42 +267,42 @@
 # text_eng = The grandmother arrived home. 
 # sent_structure = 
 # where is house in here? 
-1	Oexe	xe	VERB	_	Aspect=Perf|Person[subj]=3	0	root	0:root	_
-2	awawa	awawa	NOUN	_	_	1	obl	1:obl	_
+1	Oexe	xe	VERB	v	Aspect=Perf|Person[subj]=3	0	root	0:root	_
+2	awawa	awawa	NOUN	n	_	1	obl	1:obl	_
 
 # SENT_ID = 30
 # text = Toxaw dak oexe.
 # text_portuguese = O chefe tambem chegou em casa.
 # text_eng = The chief has/owns also a house. (?)
 # sent_structure = 
-1	Toxaw	toxaw	NOUN	_	_	3	obl	3:obl	_
-2	dak	dak	ADV	_	_	3	advmod	3:advmod	_
-3	oexe	xe	VERB	_	_	0	root	0:root	_
+1	Toxaw	toxaw	NOUN	n	_	3	obl	3:obl	_
+2	dak	dak	ADV	adv	_	3	advmod	3:advmod	_
+3	oexe	xe	VERB	v	_	0	root	0:root	_
 
 # SENT_ID = 31
 # text = Awawa tawe kay.
 # text_portuguese = Vovó quer o macaco-prego.
 # text_eng = The grandmother wants the capuchin monkey. 
 # sent_structure = 
-1	Awawa	awawa	NOUN	_	_	0	root	0:root	_
-2	tawe	tawe	NOUN	_	_	1	nmod	1:nmod	_
-3	kay	kay	ADP	_	_	2	case	2:case	_	
+1	Awawa	awawa	NOUN	n	_	0	root	0:root	_
+2	tawe	tawe	NOUN	n	_	1	nmod	1:nmod	_
+3	kay	kay	ADP	pp	_	2	case	2:case	_	
 
 # SENT_ID = 32
 # text = Toxaw tawe o'tobuxik.
 # text_portuguese = O chefe achou o macaco-prego.
 # text_eng = The chief found the capuchin monkey. 
 # sent_structure = 
-1	Toxaw	toxaw	NOUN	_	_	3	obl	3:obl	_
-2	tawe	tawe	NOUN	_	_	3	obl	3:obl	_
-3	o'tobuxik	dobuxik	VERB	_	Aspect=Perf|Person[subj]=3	0	root	0:root	_
+1	Toxaw	toxaw	NOUN	n	_	3	obl	3:obl	_
+2	tawe	tawe	NOUN	n	_	3	obl	3:obl	_
+3	o'tobuxik	dobuxik	VERB	v	Aspect=Perf|Person[subj]=3	0	root	0:root	_
 
 # SENT_ID = 33
 # text = Jexat o'tobuxik. 
 # text_portuguese = Êle achou, a comida.
 # text_eng = He found the food. 
 # sent_structure = 
-1	Jexat	xat	NOUN	_	_	2	obl	2:obl	_
+1	Jexat	xat	NOUN	n	_	2	obl	2:obl	_
 2	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person[subj]=3	0	root	0:root	_
 
 # SENT_ID = 34
@@ -322,7 +322,7 @@
 # text_eng = The grandmother has food. 
 # sent_structure = 
 1	Awawa	awawa	NOUN	n	_	2	nsubj	2:nsubj	_
-2	ixaxet	xat	NOUN	n	Redup=ex	0	root	0:root	_
+2	ixaxet	xat	NOUN	n	Redup=Ex	0	root	0:root	_
 
 # SENT_ID = 36
 # text = Awawa ixiwe kay.
@@ -330,7 +330,7 @@
 # text_eng = The grandmother wants an embira plant. 
 # sent_structure = 
 1	Awawa	awawa	NOUN	n	_	0	root	0:root	_
-2	ixiwe	_	NOUN	n	_	1	nmod	1:nmod	_
+2	ixiwe	ixiwe	NOUN	n	_	1	nmod	1:nmod	_
 3	kay	kay	ADP	pp	_	2	case	2:case	_
 
 # SENT_ID = 37
@@ -391,11 +391,11 @@
 # text_portuguese = As bananas estao na roca. 
 # text_eng = The bananas lay in her slash. 
 # sent_structure = 
-1	Akoba	_	NOUN	n	_	0	root	0:root	_
-2	iku	_	NOUN	n	_	1	nmod	1:nmod	_
-3	be	_	ADP	pp	_	2	case	2:case	_
-4	opop	_	AUX	aux	_	1	aux	1:aux	_
-5	.	_	PUNCT	punct	_	1	punct	1:punct	_
+1	Akoba	Akoba	NOUN	n	_	0	root	0:root	_
+2	iku	iku	NOUN	n	_	1	nmod	1:nmod	_
+3	be	be	ADP	pp	_	2	case	2:case	_
+4	opop	opop	AUX	aux	_	1	aux	1:aux	_
+5	.	.	PUNCT	punct	_	1	punct	1:punct	_
 
 # SENT_ID = 43
 # text = Tit tak iku be opop, awawa ku be.
@@ -418,10 +418,10 @@
 # text_portuguese = A mãe está em casa.
 # text_eng = The mother is at home
 # sent_structure = 
-1	Ixi	_	NOUN	n	_	2	nsubj	2:nsubj	_
+1	Ixi	ixi	NOUN	n	_	2	nsubj	2:nsubj	_
 2-3	uk'a	_	_	_	_	_	_	_	_
-2	uk	_	NOUN	n	_	0	root	0:root	_
-3	'a	_	NOUN	cl	_	2	clf	2:clf	_
+2	uk	uk	NOUN	n	_	0	root	0:root	_
+3	'a	'a	NOUN	cl	_	2	clf	2:clf	_
 4	be	be	ADP	pp	_	2	case	2:case	_
 
 # SENT_ID = 45
@@ -465,8 +465,8 @@
 # text_portuguese = O chefe achou o filho em casa. 
 # text_eng = The chief found the son at home / in the house. 
 # sent_structure = 
-1	Toxaw	_	NOUN	n	_	3	obl	3:obl	_
-2	i'it	_	NOUN	n	_	3	obl	3:obl	_
+1	Toxaw	toxaw	NOUN	n	_	3	obl	3:obl	_
+2	i'it	i'it	NOUN	n	_	3	obl	3:obl	_
 3	o'tobuxik	dobuxik	VERB	v	_	0	root	0:root	_
 4-5	uk'a	_	_	_	_	_	_	_	_
 4	uk	uk	NOUN	n	_	3	obl	3:obl	_
@@ -523,7 +523,7 @@
 1	Ixat	xat	NOUN	n	_	0	root	0:root	_
 2	'a	'a	NOUN	cl	Class=Round	1	nmod	1:nmod	_
 3	kake	kake	AUX	aux	_	1	cop	1:cop	_
-4	wa'e	wa'e	NOUN	_	_	1	obl	1:obl	_
+4	wa'e	wa'e	NOUN	n	_	1	obl	1:obl	_
 5	be	be	ADP	pp	_	4	case	4:case	_
 6	,	,	PUNCT	punct	_	1	punct	1:punct	_
 7	uk'a	uk'a	NOUN	n	_	1	obl	1:obl	_
@@ -564,7 +564,7 @@
 # text_portuguese = Eles chegaram em casa com caça
 # text_eng = They arrived home with a hunted thing
 # sent_structure = 
-1	oexexe	_	VERB	vi	Aspect=Perf|Number=Plur|Person[subj]=3	0	root	0:root	_
+1	oexexe	exexe	VERB	vi	Aspect=Perf|Number=Plur|Person[subj]=3	0	root	0:root	_
 2	ip	ip	PART	pcl	_	1	dep	1:dep	_
 3-4	uk'a	_	_	_	_	_	_	_	_
 3	uk	uk	NOUN	n	_	1	obj	1:obj	_
