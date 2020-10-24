@@ -35,7 +35,6 @@
 # sent_id = 5
 # text = Akoba du opop ajojot xe ?
 # text_eng = Are the bananas near grandpa?
-# ****** Here it is necessary to define if opopo is an auxiliary verb/copula or av full verb *********
 1	Akoba	akoba	NOUN	n	_	3	nsubj	3:nsubj	_
 2	du	tu	PART	pcl	_	1	dep	1:dep	_
 3	opop	opop	VERB	v	_	_	_	_	_
@@ -76,7 +75,6 @@
 # text = Tawe oajẽm xa xe
 # text_portuguese = O macaco-prego chegou perto do pequizeiro
 # text_eng = The capuchin monkey came/arrived to/at the pequi tree
-# sent_structure = 
 1	Tawe	tawe	Noun	n	_	2	obl	2:obl	_
 2	oajẽm	ajẽm	VERB	v	Aspect=Perf|Person=3	0	root	0:root	_
 3	xa	xa	NOUN	n	_	2	obl	2:obl	_
@@ -106,7 +104,6 @@
 # text = Toxaw dak jexat o'tobuxik
 # text_portuguese = O chefe também achou a comida
 # text_eng = The chief also found the food
-# sent_structure = SOV
 1	Toxaw	toxaw	Noun	n	_	4	obl	4:obl	_
 2	dak	dak	ADV	adv	_	4	advmod	4:advmod	_
 3	jexat	xat	NOUN	n	_	4	obl	4:obl	_
@@ -116,7 +113,6 @@
 # text = Toxaw tawe o'tobuxik
 # text_portuguese = O chefe também achou o macaco-prego
 # text_eng = The chief found the capuchin monkey
-# sent_structure = SOV
 1	Toxaw	toxaw	Noun	n	_	3	obl	3:obl	_
 2	tawe	tawe	Noun	n	_	3	obl	3:obl	_
 3	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=3	0	root	0:root	_
@@ -125,18 +121,15 @@
 # text = Xa xe tawe o'tobuxik
 # text_portuguese = Ele achou o macaco-prego pero do pequizeiro.
 # text_eng = He found the capuchin monkey near the pequi tree
-# sent_structure = OV
 1	Xa	xa	NOUN	n	_	4	obl	4:obl	_
 2	xe	xe	ADP	pp	_	1	case	1:case	_
 3	tawe	tawe	Noun	n	_	4	obl	4:obl	_
 4	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=3	0	root	0:root	_
 
 # sent_id = 16
-# comment = unsure about dependencies 
 # text = Ikibit awi kay			
 # text_portuguese = A irmã quer uma agulha.
 # text_eng = The sister wants a needle
-# sent_structure = SO
 1	Ikibit	ikibit	NOUN	n	_	0	root	_	_
 2	awi	awi	NOUN	n	_	1	nmod	_	_
 3	kay	kay	ADP	pp	_	2	case	_	_
@@ -145,7 +138,6 @@
 # text = Awawa oajẽm ika be , jekibit ka be
 # text_portuguese = Vovo chegou ao terreno da irma.
 # text_eng = The grandmother came/arrived at the sister's land. 
-# sent_structure = SV(O?)
 1	Awawa	awawa	NOUN	n	_	2	obl	2:obl	_
 2	oajẽm	ajẽm	VERB	vi	Aspect=Perf|Person=3	0	root	0:root	_
 3	ika	ika	NOUN	n	_	2	obl	2:obl	_
@@ -156,11 +148,9 @@
 8	be	be	ADP	pp	_	7	case	7:case	_
 
 # sent_id = 18
-# comment = unsure about translation , unsure whether bubut is a verb
 # text = Awi awawa bubut
 # text_portuguese = A agulha e da vovo.
 # text_eng = The needle belongs to (?) the grandmother.
-# sent_structure = OSV
 1	Awi	awi	NOUN	n	_	3	nsubj	3:nsubj	_
 2	awawa	awawa	NOUN	n	_	3	nmod	3:nmod	_
 3	bubut	bubut	NOUN	n	_	_	_	_	_
@@ -169,7 +159,6 @@
 # text = Ite awi o'tobuxik
 # text_portuguese = Ela achou a agulha. 
 # text_eng = She found the needle. 
-# sent_structure = SOV 
 1	Ite	ite	PRON	pro	_	3	obl	3:obl	_
 2	awi	awi	NOUN	n	_	3	obl	3:obl	_
 3	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=3	0	root	0:root	_
@@ -186,10 +175,9 @@
 # text = Awi o'tobuxik
 # text_portuguese = Ela achou a agulha. 
 # text_eng = She found the needle. 
-# sent_structure = OV
+
 1	Awi	awi	NOUN	n	_	2	obl	2:obl	_
 2	o'tobuxik	dobuxik	VERB	vt	_	0	root	0:root	_
-
 # sent_id = 22
 # text = Toxaw tawe o'tobuxik tu ?
 # text_portuguese = O chefe achou o macaco-prego?
@@ -205,7 +193,6 @@
 # text = Abu tawe o'tobuxik ?
 # text_portuguese = Quem achou o macaco-prego?
 # text_eng = Who found the capuchin monkey?
-# sent_structure = SOV
 1	Abu	abu	PRON	pro	_	3	obl	3:obl	_
 2	tawe	tawe	NOUN	n	_	3	obl	3:obl	_
 3	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=3	0	root	0:root	_
@@ -215,7 +202,6 @@
 # text = Abu awi o'tobuxik ?
 # text_portuguese = Quem achou a agulha?
 # text_eng = Who found the needle?
-# sent_structure = SOV
 1	Abu	abu	PRON	pro	_	3	obl	3:obl	_
 2	awi	awi	NOUN	n	_	3	obl	3:obl	_
 3	o'tobuxik	dobuxik	VERB	v	_	0	root	0:root	_
@@ -225,7 +211,6 @@
 # text = Abu jexat o'tobuxik ?
 # text_portuguese = Quem achou a comida?
 # text_eng = Who found the food?
-# sent_structure = SOV
 1	Abu	abu	PRON	pro	_	3	obl	3:obl	_
 2	jexat	xat	NOUN	n	_	3	obl	3:obl	_
 3	o'tobuxik	dobuxik	VERB	v	_	0	root	0:root	_
