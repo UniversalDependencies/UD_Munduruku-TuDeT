@@ -15,14 +15,14 @@
 # text = jexat o'tobuxik
 # text_eng = He found food
 1	jexat	xat	NOUN	n	Poss=Yes	2	obl	2:obl	_
-2	o'tobuxik	dobuxik	VERB	v	Aspectect=Perf|Number=sing|Person=3|	0	root	0:root	_
+2	o'tobuxik	dobuxik	VERB	v	Aspect=Perf|Number=sing|Person=3|	0	root	0:root	_
 
 # sent_id = 3
 # text = Tit tak o'titobuxik tu ?
 # text_eng = Did he also find flowers ?
 1	Tit	dit	NOUN	n	_	3	obl	3:obl	_
 2	tak	tak	ADV	adv	_	3	advmod	3:advmod	_
-3	o'titobuxik	dobuxik	VERB	vt	Aspectect=Perf|Number=Sing|Person=3|	0	root	0:root	_
+3	o'titobuxik	dobuxik	VERB	vt	Aspect=Perf|Number=Sing|Person=3|	0	root	0:root	_
 4	tu	tu	PART	qpart	_	3	dep	3:dep	_
 5	?	?	PUNCT	punct	_	3	punct	3:punct	_
 
@@ -69,7 +69,7 @@
 # text = Xa iku xe
 # Text_eng = The pequi tree is/lies near the slash
 1	Xa	xa	NOUN	n	_	2	nsubj	2:nsubj	_
-2	iku	ku	NOUN	n	_	0	root	0:root	_
+2	iku	ku	NOUN	n	_	_	_	_	_
 3	xe	xe	ADP	pp	_	2	case	2:case	_
 
 # sent_id = 10
@@ -137,9 +137,9 @@
 # text_portuguese = A irmã quer uma agulha.
 # text_eng = The sister wants a needle
 # sent_structure = SO
-1	Ikibit	ikibit	NOUN	n	_	0	root	0:root	_
-2	awi	awi	NOUN	n	_	1	nmod	1:nmod	_
-3	kay	kay	ADP	pp	_	2	case	2:case	_
+1	Ikibit	ikibit	NOUN	n	_	0	root	_	_
+2	awi	awi	NOUN	n	_	1	nmod	_	_
+3	kay	kay	ADP	pp	_	2	case	_	_
 
 # sent_id = 17
 # text = Awawa oajẽm ika be , jekibit ka be
@@ -163,7 +163,7 @@
 # sent_structure = OSV
 1	Awi	awi	NOUN	n	_	3	nsubj	3:nsubj	_
 2	awawa	awawa	NOUN	n	_	3	nmod	3:nmod	_
-3	bubut	bubut	NOUN	n	_	0	root	0:root	_
+3	bubut	bubut	NOUN	n	_	_	_	_	_
 
 # sent_id = 19
 # text = Ite awi o'tobuxik
@@ -237,8 +237,8 @@
 # text_eng = Who wants a needle?
 # sent_structure = SO(V?)
 1	Abu	abu	PRON	pro	_	0	root	0:root	_
-2	awi	awi	NOUN	n	_	3	nmod	3:nmod	_
-3	kay	kay	ADP	pp	_	1	obl	1:obl	_
+2	awi	awi	NOUN	n	_	3	_	3	_
+3	kay	kay	ADP	pp	_	1	_	1	_
 4	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
 # sent_id = 27
@@ -258,9 +258,9 @@
 1	Awawa	awawa	NOUN	n	_	3	obl	3:obl	_
 2	awi	awi	NOUN	n	_	3	obl	3:obl	_
 3	o'tobuxik	dobuxik	VERB	v	Aspect=Perf|Person=3	0	root	0:root	_
-4	jekibit	jekibit	NOUN	n	_	5	nmod	5:nmod	_
-5	ka	ka	NOUN	n	_	3	obj	3:obj	_
-6	be	be	ADP	pp	_	5	case	5:case	_
+4	jekibit	jekibit	NOUN	n	_	5	_	5	_
+5	ka	ka	NOUN	n	_	6	_	6	_
+6	be	be	ADP	pp	_	3	_	3	_
 
 # sent_id = 29
 # text = Oexe awawa 
@@ -339,9 +339,9 @@
 # text_portuguese = A embira esta perto da bananeira.
 # text_eng = The embira plant is close to the banana tree.
 # sent_structure = 
-1	Ixiwe	ixiwe	NOUN	n	_	0	root	0:root	_
-2	ako	ako	NOUN	n	_	1	nmod	1:nmod	_
-3	xe	xe	ADP	pp	_	2	case	2:case	_
+1	Ixiwe	ixiwe	NOUN	n	_	0	root	_	_
+2	ako	ako	NOUN	n	_	1	nmod	_	_
+3	xe	xe	ADP	pp	_	2	case	_	_
 
 # sent_id = 38
 # text = Awawa cum ako xe
@@ -349,7 +349,7 @@
 # text_eng = Grandma goes near the banana tree.
 # sent_structure = 
 1	Awawa	awawa	NOUN	n	_	2	nsubj	2:nsubj	_
-2	cum	cu	VERB	vi	Aspectect=Imp	0	root	0:root	_
+2	cum	cu	VERB	vi	Aspect=Imp	0	root	0:root	_
 3	ako	ako	NOUN	n	_	2	obl	2:obl	_
 4	xe	xe	ADP	pp	_	3	case	3:case	_
 
@@ -368,23 +368,23 @@
 # text_portuguese = Vovo quer umas bananas. 
 # text_eng = Grandma wants some bananas.
 # sent_structure = 
-1	Awawa	awawa	NOUN	n	_	5	nsubj	5:nsubj	_
-2	akoba	akoba	NOUN	n	_	1	nmod	1:nmod	_
-3	kay	kay	ADP	pp	_	2	case	2:case	_
-4	.	.	PUNCT	punct	_	3	punct	3:punct	_
-5	cum	cu	VERB	vi	Aspectect=Imp	0	root	0:root	_
-6	jeku	jeku	NOUN	n	Reflex=Yes	5	obl	5:obl	_
-7	be	be	ADP	pp	_	6	case	6:case	_
+1	Awawa	awawa	NOUN	n	_	5	nsubj	_	_
+2	akoba	akoba	NOUN	n	_	1	nmod	_	_
+3	kay	kay	ADP	pp	_	2	case	_	_
+4	.	.	PUNCT	punct	_	3	punct	_	_
+5	cum	cu	VERB	vi	Aspect=Imp	0	root	_	_
+6	jeku	jeku	NOUN	n	Reflex=Yes	5	obl	_	_
+7	be	be	ADP	pp	_	6	case	_	_
 
 # sent_id = 41
 # text = Awawa jeku be oajẽm
 # text_portuguese = Vovo chegou a roca.
 # text_eng = The grandmother arrived/came to her slash.  
 # sent_structure = 
-1	Awawa	awawa	NOUN	n	_	4	obl	4:obl	_
-2	jeku	ku	NOUN	n	_	4	obl	4:obl	_
-3	be	be	ADP	pp	_	2	case	2:case	_
-4	oajẽm	ajẽm	VERB	vi	Aspect=Imp|Person=3	0	root	0:root	_
+1	Awawa	awawa	NOUN	n	_	4	obl	_	_
+2	jeku	ku	NOUN	n	_	4	obl	_	_
+3	be	be	ADP	pp	_	2	case	_	_
+4	oajẽm	ajẽm	VERB	vi	Aspect=Imp|Person=3	0	root	_	_
 
 # sent_id = 42
 # text = Akoba iku be opop .
@@ -429,10 +429,10 @@
 # text_portuguese = O filho também esta em casa. 
 # text_eng = The son is also at home. (in the house)
 # sent_structure = 
-1	I'it	'it	NOUN	n	_	3	nsubj	3:nsubj	_
-2	tak	tak	ADV	adv	_	3	advmod	3:advmod	_
-3	uk'a	uk'a	NOUN	n	_	0	root	0:root	_
-4	be	be	ADP	pp	_	3	case	3:case	_
+1	I'it	'it	NOUN	n	_	3	nsubj	_	_
+2	tak	tak	ADV	adv	_	3	advmod	_	_
+3	uk'a	uk'a	NOUN	n	_	0	root	_	_
+4	be	be	ADP	pp	_	3	case	_	_
 
 # sent_id = 46
 # text = Toxaw oexe
@@ -479,8 +479,8 @@
 # text_portuguese = O filho esta dormindo. 
 # text_eng = The son is sleeping. 
 # sent_structure = 
-1	I'it	'it	NOUN	n	_	2	nsubj	2:nsubj	_
-2	ixet	xet	VERB	v:st	_	0	root	0:root	_
+1	I'it	'it	NOUN	n	_	2	nsubj	_	_
+2	ixet	xet	VERB	v:st	_	0	root	_	_
 
 # sent_id = 51
 # text = Ixi wa'e kug̃
@@ -534,10 +534,10 @@
 # text_portuguese = A cuia está na casa.
 # text_eng = The gourd is/lies in the house. 
 # sent_structure = 
-1	Wa'e	wa'e	NOUN	n	_	0	root	0:root	_
-2	uk'a	uk'a	NOUN	n	_	1	obl	1:obl	_
-3	be	be	ADP	pp	_	2	case	2:case	_
-4	opop	opop	AUX	aux	_	1	cop	1:cop	_
+1	Wa'e	wa'e	NOUN	n	_	0	root	_	_
+2	uk'a	uk'a	NOUN	n	_	1	obl	_	_
+3	be	be	ADP	pp	_	2	case	_	_
+4	opop	opop	AUX	aux	_	1	cop	_	_
 
 # sent_id = 56 Vol 5 p39-1
 # text = puybit ka'ũmg̃u o'e
