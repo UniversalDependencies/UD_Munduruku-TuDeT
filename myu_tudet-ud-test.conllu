@@ -141,7 +141,7 @@
 3	kay	kay	ADP	pp	_	2	case	_	_
 
 # SENT_ID = 17
-# text = Awawa oajẽm ika be, jekibit ka be
+# text = Awawa oajẽm ika be , jekibit ka be
 # text_portuguese = Vovo chegou ao terreno da irma.
 # text_eng = The grandmother came/arrived at the sister's land. 
 # sent_structure = SV(O?)
@@ -155,7 +155,7 @@
 8	be	be	ADP	pp	_	7	case	7:case	_
 
 # SENT_ID = 18
-# comment = unsure about translation, unsure whether bubut is a verb
+# comment = unsure about translation , unsure whether bubut is a verb
 # text = Awi awawa bubut
 # text_portuguese = A agulha e da vovo.
 # text_eng = The needle belongs to (?) the grandmother.
@@ -306,7 +306,7 @@
 2	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person[subj]=3	0	root	0:root	_
 
 # SENT_ID = 34
-# text = Tawe ixat, toxaw xat 
+# text = Tawe ixat , toxaw xat 
 # text_portuguese = O chefe come macaco-prego.
 # text_eng = The chief eats the capuchin monkey. 
 # sent_structure = 
@@ -398,7 +398,7 @@
 5	.	.	PUNCT	punct	_	1	punct	1:punct	_
 
 # SENT_ID = 43
-# text = Tit tak iku be opop, awawa ku be.
+# text = Tit tak iku be opop , awawa ku be.
 # text_portuguese = A flor também esta na roca -- na roca da vovo. 
 # text_eng = The flower lies also in her slash -- in the grandmother's slash. 
 # sent_structure = 
@@ -492,7 +492,7 @@
 3	kug̃	kug̃	VERB	vx	_	0	root	0:root	_
 
 # SENT_ID = 54
-# text = Wa'e ibubut, ixi bubut.
+# text = Wa'e ibubut , ixi bubut.
 # text_portuguese = A cuia e dela.
 # text_eng = The gourd is hers. 
 # sent_structure = 
@@ -515,7 +515,7 @@
 5	be	be	ADP	pp	_	4	case	4:case	_
 
 # SENT_ID = 56
-# text = Ixat'a kake wa'e be, uk'a be. 
+# text = Ixat'a kake wa'e be , uk'a be. 
 # text_portuguese = Tem comida na cuia, em casa.
 # text_eng = There is food in the gourd, at home.
 # sent_structure = 
