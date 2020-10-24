@@ -250,7 +250,7 @@
 3	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
 # sent_id = 28
-# text = Awawa awi o'tobuxik jekibit ka be .
+# text = Awawa awi o'tobuxik jekibit ka be
 # text_portuguese = Vovó achou uma agulha no terreno da irmã.
 # text_eng = The grandmother found a needle on her sister's land. 
 # sent_structure = 
@@ -262,7 +262,7 @@
 6	be	be	ADP	pp	_	3	_	3	_
 
 # sent_id = 29
-# text = Oexe awawa . 
+# text = Oexe awawa 
 # text_portuguese = Vovó chegou em casa.
 # text_eng = The grandmother arrived home. 
 # sent_structure = 
@@ -271,7 +271,7 @@
 2	awawa	awawa	NOUN	n	_	1	obl	1:obl	_
 
 # sent_id = 30
-# text = Toxaw dak oexe .
+# text = Toxaw dak oexe
 # text_portuguese = O chefe tambem chegou em casa.
 # text_eng = The chief has/owns also a house. (?)
 # sent_structure = 
@@ -280,7 +280,7 @@
 3	oexe	xe	VERB	v	_	0	root	0:root	_
 
 # sent_id = 31
-# text = Awawa tawe kay .
+# text = Awawa tawe kay
 # text_portuguese = Vovó quer o macaco-prego.
 # text_eng = The grandmother wants the capuchin monkey. 
 # sent_structure = 
@@ -298,7 +298,7 @@
 3	o'tobuxik	dobuxik	VERB	v	Aspect=Perf|Person=3	0	root	0:root	_
 
 # sent_id = 33
-# text = Jexat o'tobuxik . 
+# text = Jexat o'tobuxik  
 # text_portuguese = Êle achou, a comida.
 # text_eng = He found the food. 
 # sent_structure = 
@@ -317,7 +317,7 @@
 5	xat	xat	NOUN	n	_	2	appos	2:appos	_
 
 # sent_id = 35
-# text = Awawa ixaxet .
+# text = Awawa ixaxet
 # text_portuguese = Vovó tem comida. 
 # text_eng = The grandmother has food. 
 # sent_structure = 
@@ -325,7 +325,7 @@
 2	ixaxet	xat	NOUN	n	Redup=Ex	0	root	0:root	_
 
 # sent_id = 36
-# text = Awawa ixiwe kay.
+# text = Awawa ixiwe kay
 # text_portuguese = Vovo quer embira.
 # text_eng = The grandmother wants an embira plant . 
 # sent_structure = 
@@ -334,7 +334,7 @@
 3	kay	kay	ADP	pp	_	2	case	2:case	_
 
 # sent_id = 37
-# text = Ixiwe ako xe .
+# text = Ixiwe ako xe
 # text_portuguese = A embira esta perto da bananeira.
 # text_eng = The embira plant is close to the banana tree.
 # sent_structure = 
@@ -343,7 +343,7 @@
 3	xe	xe	ADP	pp	_	2	case	_	_
 
 # sent_id = 38
-# text = Awawa cum ako xe .
+# text = Awawa cum ako xe
 # text_portuguese = Vovó vai perto da bananeira.
 # text_eng = Grandma goes near the banana tree.
 # sent_structure = 
@@ -353,7 +353,7 @@
 4	xe	xe	ADP	pp	_	3	case	3:case	_
 
 # sent_id = 39
-# text = Ixiwe o'tobuxik ako xe .
+# text = Ixiwe o'tobuxik ako xe
 # text_portuguese = Ela achou embira perto da bananeira. 
 # text_eng = She found the embira plant close to the banana tree. 
 # sent_structure = 
@@ -377,7 +377,7 @@
 8	.	.	PUNCT	punct	_	5	punct	_	_
 
 # sent_id = 41
-# text = Awawa jeku be oajẽm .
+# text = Awawa jeku be oajẽm
 # text_portuguese = Vovo chegou a roca.
 # text_eng = The grandmother arrived/came to her slash.  
 # sent_structure = 
@@ -414,7 +414,7 @@
 10	.	.	PUNCT	punct	_	3	punct	3:punct	_
 
 # sent_id = 44
-# text = Ixi uk'a be .
+# text = Ixi uk'a be
 # text_portuguese = A mãe está em casa.
 # text_eng = The mother is at home
 # sent_structure = 
@@ -425,7 +425,7 @@
 4	be	be	ADP	pp	_	2	case	2:case	_
 
 # sent_id = 45
-# text = I'it tak uk'a be .
+# text = I'it tak uk'a be
 # text_portuguese = O filho também esta em casa. 
 # text_eng = The son is also at home. (in the house)
 # sent_structure = 
@@ -435,7 +435,7 @@
 4	be	be	ADP	pp	_	3	case	_	_
 
 # sent_id = 46
-# text = Toxaw oexe .
+# text = Toxaw oexe
 # text_portuguese = O chefe chegou a casa. 
 # text_eng = The chief arrived at/ came home. 
 # sent_structure = 
@@ -453,7 +453,7 @@
 4	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
 # sent_id = 49
-# text = I'it ixet .
+# text = I'it ixet
 # text_portuguese = O filho esta dormindo. 
 # text_eng = The son is sleeping. 
 # sent_structure = 
@@ -475,7 +475,7 @@
 7	.	.	PUNCT	punct	_	3	punct	3:punct	_
 
 # sent_id = 51
-# text = I'it ixet .
+# text = I'it ixet
 # text_portuguese = O filho esta dormindo. 
 # text_eng = The son is sleeping. 
 # sent_structure = 
@@ -483,7 +483,7 @@
 2	ixet	xet	VERB	v:st	_	0	root	_	_
 
 # sent_id = 53
-# text = Ixi wa'e kug̃ .
+# text = Ixi wa'e kug̃
 # text_portuguese = A mãe tem uma cuia.
 # text_eng = The mother has a gourd. 
 # sent_structure = 
@@ -492,7 +492,7 @@
 3	kug̃	kug̃	VERB	vx	_	0	root	0:root	_
 
 # sent_id = 54
-# text = Wa'e ibubut , ixi bubut .
+# text = Wa'e ibubut , ixi bubut
 # text_portuguese = A cuia e dela.
 # text_eng = The gourd is hers. 
 # sent_structure = 
@@ -503,7 +503,7 @@
 5	bubut	bubut	NOUN	n	_	2	appos	2:appos	_
 
 # sent_id = 55
-# text = Wexik'a kake wa'e be . 
+# text = Wexik'a kake wa'e be
 # text_portuguese = Há batata-doce na cuia.
 # text_eng = There is sweet-potatoe in the gourd
 # sent_structure = 
@@ -515,7 +515,7 @@
 5	be	be	ADP	pp	_	4	case	4:case	_
 
 # sent_id = 56
-# text = Ixat'a kake wa'e be , uk'a be . 
+# text = Ixat'a kake wa'e be , uk'a be 
 # text_portuguese = Tem comida na cuia, em casa.
 # text_eng = There is food in the gourd, at home.
 # sent_structure = 
