@@ -37,7 +37,7 @@
 # text_eng = Are the bananas near grandpa?
 1	Akoba	akoba	NOUN	n	_	3	nsubj	3:nsubj	_
 2	du	tu	PART	pcl	_	1	dep	1:dep	_
-3	opop	opop	VERB	v	_	_	_	_	_
+3	opop	opop	VERB	v	_	0	root	0:root	_
 4	ajojot	ajojot	NOUN	n	_	3	obl	3:obl	_
 5	xe	xe	ADP	pp	_	4	case	4:case	_
 6	?	?	PUNCT	punct	_	3	punct	3:punct	_
