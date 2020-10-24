@@ -1,7 +1,8 @@
 # document_source = Mõnjoroko ã'õ - Cartilha Mundurukú 2. SIL, 1965.
 # document_title = Mundurukú_text_2
 # document_authorship =  transcribed and annotated by Fabrício F Gerardi and Eva Huber
-# document_reference = 
+# document_reference = ?
+
 # sent_id = 1
 # text = Ajojot jeokobe be cum
 # text_eng =  Grandpa goes in the canoe
@@ -36,7 +37,7 @@
 # text_eng = Are the bananas near grandpa?
 # ****** Here it is necessary to define if opopo is an auxiliary verb/copula or av full verb *********
 1	Akoba	akoba	NOUN	n	_	3	nsubj	3:nsubj	_
-2	du	tu	PART	part	_	1	dep	1:dep	_
+2	du	tu	PART	pcl	_	1	dep	1:dep	_
 3	opop	opop	VERB	v	_	_	_	_	_
 4	ajojot	ajojot	NOUN	n	_	3	obl	3:obl	_
 5	xe	xe	ADP	pp	_	4	case	4:case	_
@@ -571,4 +572,3 @@
 5	be	be	ADP	pp	_	3	case	3:case	_
 6	puybit	puybit	NOUN	n	_	7	obj	7:obj	_
 7	kukug̃	kukug̃	VERB	vt	Aspect=Imp|Number=Plur|Person=3	1	dep	1:dep	_
-
