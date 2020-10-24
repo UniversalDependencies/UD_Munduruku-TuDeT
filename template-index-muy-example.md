@@ -30,11 +30,13 @@ Stative-verbs and possessed nouns behave alike, in a way that is not possible to
 ### Nominal Features
 
 * Nominal words ([NOUN](), [PROPN]() and [PRON]()) are not marked for [Gender](), and are optionally marked for [Number](). 
-* Mundurukú classifiers are real nouns. Gomes (2006) speaks of nouns in classifier function. Nouns (NOUN) in this function 
-are tagged cl in the XPOS column. The features of the cl tags are their basic meanings, e.g. *'a* Class=Round. 
 * Another way to express existential predication is through the reduplication of a noun with the vowel *e* replacing
 the original vowel *xat* 'food' *xaxet* 'there is food'. These nouns receive a marked Redup=Ex (reduplication existential) in
 the FEATS column.
+* Mundurukú classifiers are real nouns. Gomes (2006) speaks of nouns in classifier function. Nouns (NOUN) in this function 
+are tagged cl in the XPOS column. The features of the cl tags are their basic meanings, e.g. *'a* Class=Round. 
+
+
 
 ### Verbal Features
 
