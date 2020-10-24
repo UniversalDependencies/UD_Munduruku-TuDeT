@@ -22,7 +22,7 @@
 # text_eng = Did he also find flowers ?
 1	Tit	dit	NOUN	n	_	3	obl	3:obl	_
 2	tak	tak	ADV	adv	_	3	advmod	3:advmod	_
-3	o'titobuxik	dobuxik	VERB	vt	Aspect=Perf|Number=Sing|Person=3|	0	root	0:root	_
+3	o'titobuxik	dobuxik	VERB	vt	Aspect=Perf|Number=Sing|Person=3	0	root	0:root	_
 4	tu	tu	PART	qpart	_	3	dep	3:dep	_
 5	?	?	PUNCT	punct	_	3	punct	3:punct	_
 
