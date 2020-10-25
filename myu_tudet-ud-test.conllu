@@ -509,7 +509,7 @@
 
 # sent_id = 59
 # text = Daje ade o'yaoka ip pima, puybit kuka o'e ade
-# text_portuguese = Quando eles matam muito porco, tem muita bóia
+# text_portuguese = Quando eles matam muito porco, tem muita bóia vol5 p40
 # text_eng = There is a lot of food, when they kill (a) pig(s)
 1	Daje	daje	NOUN	n	_	3	obl	3:obl	_
 2	ade	ade	PRON	pro	_	1	nmod	1:nmod	_
