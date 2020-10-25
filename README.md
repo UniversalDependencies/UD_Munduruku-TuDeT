@@ -17,7 +17,7 @@ UD_Munduruku-TuDeT is a collection of annotated sentences in Mundurukú. Togethe
 
 # Acknowledgments
 
-...
+The development of the treebank is supported by the by European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. [834050](https://uni-tuebingen.de/fakultaeten/philosophische-fakultaet/fachbereiche/neuphilologie/seminar-fuer-sprachwissenschaft/arbeitsbereiche/allg-sprachwissenschaft/projekte/crosslingference/)).
 
 ## References
 
