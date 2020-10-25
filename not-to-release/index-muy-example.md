@@ -50,14 +50,12 @@ These are tagged as [AUX](https://universaldependencies.org/u/pos/AUX_.html) in 
 
 ## Syntax
 
-As a head-marking language, arguments, actor for vi and actor and undergoer for vt, are cross-referenced on the predicate most of the time, exceptions depend on the verbal [aspect](https://universaldependencies.org/u/feat/Aspect.html).
+As a head-marking language, arguments, [nsubj](https://universaldependencies.org/u/dep/nsubj.html) for vi and [nsubj]() and [obj](https://universaldependencies.org/u/dep/obj.html) for vt, are cross-referenced on the predicate most of the time, exceptions depend on the verbal [aspect](https://universaldependencies.org/u/feat/Aspect.html). NPs semantically related to the core arguments are [obl](https://universaldependencies.org/u/dep/obl.html).
 
 ### Non-verbal clauses
 
 Mundurukú has some lexemes that function as copular elements in non-verbal clauses for existentia and locational predicates. Examples are: *opop*, *kug̃*, and *kake*.
 
-* [aux]()
-* [cop]()
 
 
 ---
