@@ -1,6 +1,6 @@
 # Summary
 
-UD_Munduruku-TuDeT is a collection of annotated sentences in Mundurukú. Together with [UD_Akuntsu-TuDeT](https://github.com/UniversalDependencies/UD_Akuntsu-TuDeT) and [UD_Tupinamba-TuDeT](https://github.com/UniversalDependencies/UD_Tupinamba-TuDeT), UD_Munduruku-TuDeT is part of the [TuLaR](https://tular.org) project.
+UD_Munduruku-TuDeT is a collection of annotated sentences in [Mundurukú](http://www.endangeredlanguages.com/lang/2981). Together with [UD_Akuntsu-TuDeT](https://github.com/UniversalDependencies/UD_Akuntsu-TuDeT) and [UD_Tupinamba-TuDeT](https://github.com/UniversalDependencies/UD_Tupinamba-TuDeT), UD_Munduruku-TuDeT is part of the [TuLaR](https://tular.org) project.
 
 
 
@@ -21,8 +21,11 @@ UD_Munduruku-TuDeT is a collection of annotated sentences in Mundurukú. Togethe
 
 ## References
 
-* (citation)
+* Crofts, M. (2004). Aspectos da língua Mundurukú. SIL-Cuiabá (MT). 2<sup>a</sup> edição.
 
+* Ferraz Gerardi, F. (2020) Mundurukú notes. Unpublished manuscript (ongoing work). Tübingen. 
+
+* Gomes, D. M. (2006). Estudo morfológico e sintático da língua Mundurukú (Tupí). PhD thesis. Universidade de Brasília.
 
 # Changelog
 
