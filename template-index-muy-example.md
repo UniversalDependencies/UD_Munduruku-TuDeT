@@ -5,8 +5,6 @@ udver: '2'
 # UD for LANGUAGE <span class="flagspan"><img class="flag" src="../../flags/svg/BR.svg" /></span>
 
 
-# Mundurukú 
-
 ## Tokenization and Word Segmentation
 
 * In general, words are delimited by whitespace characters. Description of exceptions follows.
