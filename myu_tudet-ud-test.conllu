@@ -141,7 +141,7 @@
 # text_eng = The needle belongs to (?) the grandmother.
 1	Awi	awi	NOUN	n	_	0	root	0:root	_
 2	awawa	awawa	NOUN	n	_	1	nmod	1:nmod	_
-3	bubut	bubut	AUX	cop	_	1	aux	1:aux	_
+3	bubut	bubut	VERB	cop	_	1	aux	1:aux	_
 
 # sent_id = 19
 # text = Ite awi o'tobuxik
