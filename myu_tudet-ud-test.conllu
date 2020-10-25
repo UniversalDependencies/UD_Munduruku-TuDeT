@@ -319,7 +319,7 @@
 4	xe	xe	ADP	pp	_	3	case	3:case	_
 
 # sent_id = 40
-# text = Cum jeku be
+# text = cum jeku be
 # text_portuguese = Está na roça.
 # text_eng = He is in the slah.
 1	cum	cu	VERB	vi	Aspect=Imp	0	root	0:root	_
