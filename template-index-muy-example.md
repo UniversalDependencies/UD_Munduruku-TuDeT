@@ -40,7 +40,7 @@ are tagged cl in the XPOS column.
 
 * Verbs have a lexical [Aspect](): imperfective (`Imp`), perfective (`Perf`), iterative (`Iter`). 
 * Some lexical roots can not easily be assigned to a  specific lexical category. This is the case with *kake* and *opop*. 
-These are tagged as [AUX]() in the [UPOS](), and v:ex (existential verb) and aux respectively in the XPOS.
+These are tagged as [AUX](https://universaldependencies.org/u/pos/AUX_.html) in the [UPOS](), and v:ex (existential verb) and aux respectively in the XPOS.
 * Particles or reduplication mark [Aspect]() or [Tense]().
 * [Person](https://universaldependencies.org/u/feat/Person.html) can have the value [1](), [2](), and [3]().
 * The feature [Evident]() can take the following values in: 
