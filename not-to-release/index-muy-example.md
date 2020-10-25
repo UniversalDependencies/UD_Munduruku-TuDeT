@@ -56,6 +56,11 @@ As a head-marking language, arguments, [nsubj](https://universaldependencies.org
 
 Mundurukú has some lexemes that function as [copula](https://universaldependencies.org/u/dep/cop.html) in non-verbal clauses for existentia and locational predicates. Examples are: *opop*, *kug̃*, and *kake*.
 
+~~~ sdparse
+Akoba iku be opop
+cop(iku, opop)
+~~~
+
 
 
 ---
