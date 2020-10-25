@@ -44,7 +44,7 @@ These are tagged as [AUX](https://universaldependencies.org/u/pos/AUX_.html) in 
 * [Person](https://universaldependencies.org/u/feat/Person.html) can have the value [1](), [2](), and [3]().
 * The feature [Evident](https://universaldependencies.org/u/feat/Evident.html) can take the following values in: 
 * [Clusivity](https://universaldependencies.org/u/feat/Clusivity.html) is also distinguished.
-* There are three values of the Voice feature: Act, Mid Pass. All other verb forms have Voice=Act.
+* There are three values for the [Voice](https://universaldependencies.org/u/feat/Voice.html) feature: Act, Mid Pass. All other verb forms have Voice=Act.
 
 
 
