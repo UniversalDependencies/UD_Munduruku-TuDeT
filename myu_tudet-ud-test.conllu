@@ -279,7 +279,7 @@
 # text_eng = The grandmother has food. 
 # sent_structure = 
 1	Awawa	awawa	NOUN	n	_	2	nsubj	2:nsubj	_
-2	ixaxet	xat	NOUN	n	Redup=Ex	0	root	0:root	_
+2	ixaxet	xat	NOUN	n	_	0	root	0:root	_
 
 # sent_id = 36
 # text = Awawa ixiwe kay
@@ -320,7 +320,7 @@
 
 # sent_id = 40
 # text = Cum jeku be
-# text_portuguese = Está na roça. 
+# text_portuguese = Está na roça.
 # text_eng = He is in the slah.
 1	cum	cu	VERB	vi	Aspect=Imp	0	root	0:root	_
 2	jeku	jeku	NOUN	n	Reflex=Yes	1	obl	1:obl	_
