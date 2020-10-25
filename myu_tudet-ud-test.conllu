@@ -2,6 +2,7 @@
 # document_title = Mundurukú_text_2
 # document_authorship =  transcribed and annotated by Fabrício F Gerardi and Eva Huber
 
+
 # sent_id = 1
 # text = Ajojot jekobe be cum
 # text_eng =  Grandpa goes in the canoe
@@ -30,15 +31,6 @@
 # text_eng = no!
 1	Ka'ũma	ka'ũma	INTJ	intj	_	0	root	0:root	_
 2	!	!	PUNCT	punct	_	1	punct	1:punct	_
-
-# sent_id = 5
-# text = Akoba du opop ajojot xe ?
-# text_eng = Are the bananas near grandpa?
-1	Akoba	Akoba	NOUN	n	_	4	nsubj	4:nsubj	_
-2	iku	iku	NOUN	n	_	1	nmod	1:nmod	_
-3	be	be	ADP	pp	_	2	case	2:case	_
-4	opop	opop	VERB	cop	_	0	root	0:root	_
-5	.	.	PUNCT	punct	_	4	punct	4:punct	_
 
 # sent_id = 6
 # text = Ka'ũma !
@@ -135,7 +127,7 @@
 # sent_id = 17
 # text = Awawa oajẽm ika be , jekibit ka be
 # text_portuguese = Vovo chegou ao terreno da irma.
-# text_eng = The grandmother came/arrived at the sister's land. 
+# text_eng = The grandmother came/arrived at the sister's land.
 1	Awawa	awawa	NOUN	n	_	2	obl	2:obl	_
 2	oajẽm	ajẽm	VERB	vi	Aspect=Perf|Person=3	0	root	0:root	_
 3	ika	ika	NOUN	n	_	2	obl	2:obl	_
@@ -487,7 +479,7 @@
 3	be	be	ADP	pp	_	2	case	2:case	_
 4	opop	opop	VERB	cop	_	0	root	0:root	_
 
-# sent_id = 56 
+# sent_id = 56
 # text = puybit ka'ũmg̃u o'e
 # text_portuguese = Não há comida Vol 5 p39-1
 # text_eng = There is no food
@@ -496,7 +488,7 @@
 3	,	,	PUNCT	punct	_	1	punct	_	_
 4	o'e	'e	VERB	vi	Aspect=Perf|Evident=Nfh|Person=3	1	dep	_	_
 
-# sent_id = 57 
+# sent_id = 57
 # text = ag̃okatkat o'ju puybit aokam
 # text_portuguese = Os homens foram matar caça Vol 5 p39-2
 # text_eng = The men went to kill the hunt 
