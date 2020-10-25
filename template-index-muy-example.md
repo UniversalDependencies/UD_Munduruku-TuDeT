@@ -2,7 +2,7 @@ layout: base
 title: 'Munduruku UD'
 udver: '2'
 
-# UD for LANGUAGE <span class="flagspan"><img class="flag" src="../../flags/svg/BR.svg" /></span>
+# UD for Munduruku <span class="flagspan"><img class="flag" src="../../flags/svg/BR.svg" /></span>
 
 
 ## Tokenization and Word Segmentation
