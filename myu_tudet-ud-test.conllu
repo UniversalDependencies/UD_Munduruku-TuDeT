@@ -476,13 +476,13 @@
 # text_eng = There is food in the gourd, at home.
 # sent_structure = 
 1-2	Ixat'a	_	_	_	_	_	_	_	_
-1	Ixat	xat	NOUN	n	_	0	root	0:root	_
+1	Ixat	xat	NOUN	n	_	3	nsubj	3:nsubj	_
 2	'a	'a	NOUN	cl	_	1	nmod	1:nmod	_
-3	kake	kake	AUX	aux	_	1	cop	1:cop	_
-4	wa'e	wa'e	NOUN	n	_	1	obl	1:obl	_
+3	kake	kake	VERB	cop	_	0	root	0:root	_
+4	wa'e	wa'e	NOUN	n	_	1	nmod	1:nmod	_
 5	be	be	ADP	pp	_	4	case	4:case	_
-6	,	,	PUNCT	punct	_	1	punct	1:punct	_
-7	uk'a	uk'a	NOUN	n	_	1	obl	1:obl	_
+6	,	,	PUNCT	punct	_	3	punct	3:punct	_
+7	uk'a	uk'a	NOUN	n	_	1	nmod	1:nmod	_
 8	be	be	ADP	pp	_	7	case	7:case	_
 
 # sent_id = 55
