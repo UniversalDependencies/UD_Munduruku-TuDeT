@@ -357,11 +357,11 @@
 # text_portuguese = As bananas estao na roca. 
 # text_eng = The bananas lay in her slash. 
 # sent_structure = 
-1	Akoba	Akoba	NOUN	n	_	0	root	0:root	_
+1	Akoba	Akoba	NOUN	n	_	4	nsubj	4:nsubj	_
 2	iku	iku	NOUN	n	_	1	nmod	1:nmod	_
 3	be	be	ADP	pp	_	2	case	2:case	_
-4	opop	opop	AUX	aux	_	1	aux	1:aux	_
-5	.	.	PUNCT	punct	_	1	punct	1:punct	_
+4	opop	opop	VERB	cop	_	0	root	0:root	_
+5	.	.	PUNCT	punct	_	4	punct	4:punct	_
 
 # sent_id = 43
 # text = Tit tak iku be opop , awawa ku be .
@@ -464,10 +464,10 @@
 # text_eng = There is sweet-potatoe in the gourd
 # sent_structure = 
 1-2	Wexik'a	_	_	_	_	_	_	_	_
-1	Wexik	wexik	NOUN	n	_	0	root	0:root	_
+1	Wexik	wexik	NOUN	n	_	3	nsubj	3:nsubj	_
 2	'a	'a	NOUN	cl	_	1	nmod	1:nmod	_
-3	kake	kake	AUX	aux	_	1	cop	1:cop	_
-4	wa'e	wa'e	NOUN	n	_	1	obl	1:obl	_
+3	kake	kake	VERB	cop	_	0	root	0:root	_
+4	wa'e	wa'e	NOUN	n	_	1	nmod	1:nmod	_
 5	be	be	ADP	pp	_	4	case	4:case	_
 
 # sent_id = 54
