@@ -329,12 +329,12 @@
 4	xe	xe	ADP	pp	_	3	case	3:case	_
 
 # sent_id = 40
-# text = Awawa akoba kay . Cum jeku be
-# text_portuguese = Vovo quer umas bananas. 
-# text_eng = Grandma wants some bananas.
-1	cum	cu	VERB	vi	Aspect=Imp	0	root	_	_
-2	jeku	jeku	NOUN	n	Reflex=Yes	5	obl	_	_
-3	be	be	ADP	pp	_	6	case	_	_
+# text = Cum jeku be
+# text_portuguese = Está na roça. 
+# text_eng = He is in the slah.
+1	cum	cu	VERB	vi	Aspect=Imp	0	root	0:root	_
+2	jeku	jeku	NOUN	n	Reflex=Yes	1	obl	1:obl	_
+3	be	be	ADP	pp	_	2	case	2:case	_
 
 # sent_id = 41
 # text = Awawa jeku be oajẽm
