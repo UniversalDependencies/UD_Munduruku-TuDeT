@@ -140,8 +140,8 @@
 # text_portuguese = A agulha é da vovo.
 # text_eng = The needle belongs to (?) the grandmother.
 1	Awi	awi	NOUN	n	_	0	root	0:root	_
-2	awawa	awawa	NOUN	n	_	1	nsubj	1:nsubj	_
-3	bubut	bubut	VERB	cop	_	1	cop	1:cop	_
+2	awawa	awawa	NOUN	n	_	1	nmod	1:nmod	_
+3	bubut	bubut	AUX	cop	_	1	aux	1:aux	_
 
 # sent_id = 19
 # text = Ite awi o'tobuxik
@@ -257,7 +257,7 @@
 
 # sent_id = 33
 # text = Jexat o'tobuxik
-# text_portuguese = Êle achou, a comida.
+# text_portuguese = Ele achou, a comida.
 # text_eng = He found the food. 
 1	Jexat	xat	NOUN	n	_	2	obl	2:obl	_
 2	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=3	0	root	0:root	_
