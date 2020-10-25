@@ -323,7 +323,6 @@
 # text = Ixiwe o'tobuxik ako xe
 # text_portuguese = Ela achou embira perto da bananeira. 
 # text_eng = She found the embira plant close to the banana tree. 
-# sent_structure = 
 1	Ixiwe	ixiwe	NOUN	n	_	2	obl	2:obl	_
 2	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=3	0	root	0:root	_
 3	ako	ako	NOUN	n	_	2	obl	2:obl	_
@@ -333,20 +332,14 @@
 # text = Awawa akoba kay . Cum jeku be
 # text_portuguese = Vovo quer umas bananas. 
 # text_eng = Grandma wants some bananas.
-# sent_structure = 
-1	Awawa	awawa	NOUN	n	_	5	nsubj	_	_
-2	akoba	akoba	NOUN	n	_	1	nmod	_	_
-3	kay	kay	ADP	pp	_	2	case	_	_
-4	.	.	PUNCT	punct	_	3	punct	_	_
-5	cum	cu	VERB	vi	Aspect=Imp	0	root	_	_
-6	jeku	jeku	NOUN	n	Reflex=Yes	5	obl	_	_
-7	be	be	ADP	pp	_	6	case	_	_
+1	cum	cu	VERB	vi	Aspect=Imp	0	root	_	_
+2	jeku	jeku	NOUN	n	Reflex=Yes	5	obl	_	_
+3	be	be	ADP	pp	_	6	case	_	_
 
 # sent_id = 41
 # text = Awawa jeku be oajẽm
 # text_portuguese = Vovo chegou a roca.
 # text_eng = The grandmother arrived/came to her slash.  
-# sent_structure = 
 1	Awawa	awawa	NOUN	n	_	4	obl	_	_
 2	jeku	ku	NOUN	n	_	4	obl	_	_
 3	be	be	ADP	pp	_	2	case	_	_
@@ -356,7 +349,6 @@
 # text = Akoba iku be opop .
 # text_portuguese = As bananas estao na roca. 
 # text_eng = The bananas lay in her slash. 
-# sent_structure = 
 1	Akoba	Akoba	NOUN	n	_	4	nsubj	4:nsubj	_
 2	iku	iku	NOUN	n	_	1	nmod	1:nmod	_
 3	be	be	ADP	pp	_	2	case	2:case	_
