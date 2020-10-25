@@ -207,7 +207,7 @@
 4	?	?	PUNCT	punct	_	3	punct	3:punct	_
 
 # sent_id = 26
-# text = Abu awi kay ? 
+# text = Abu awi kay ?
 # text_portuguese = Quem quer agulha?
 # text_eng = Who wants a needle?
 1	Abu	abu	PRON	pro	_	2	nsubj	2:nsubj	_
@@ -235,7 +235,7 @@
 6	be	be	ADP	pp	_	5	case	5:case	_
 
 # sent_id = 29
-# text = Oexe awawa 
+# text = Oexe awawa
 # text_portuguese = Vovó chegou em casa.
 # text_eng = The grandmother arrived home. 
 1	Oexe	xe	VERB	v	Aspect=Perf|Person=3	0	root	0:root	_
@@ -273,7 +273,7 @@
 2	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=3	0	root	0:root	_
 
 # sent_id = 34
-# text = Tawe ixat , toxaw xat 
+# text = Tawe ixat , toxaw xat
 # text_portuguese = O chefe come macaco-prego.
 # text_eng = The chief eats the capuchin monkey. 
 # sent_structure = 
