@@ -139,9 +139,9 @@
 # text = Awi awawa bubut
 # text_portuguese = A agulha é da vovo.
 # text_eng = The needle belongs to (?) the grandmother.
-1	Awi	awi	NOUN	n	_	0	root	0:root	_
+1	Awi	awi	NOUN	n	_	3	nsubj	3:nsubj	_
 2	awawa	awawa	NOUN	n	_	1	nmod	1:nmod	_
-3	bubut	bubut	VERB	cop	_	1	aux	1:aux	_
+3	bubut	bubut	VERB	cop	_	0	root	0:root	_
 
 # sent_id = 19
 # text = Ite awi o'tobuxik
