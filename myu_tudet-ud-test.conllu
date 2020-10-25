@@ -20,7 +20,7 @@
 # text_eng = Did he also find flowers ?
 1	Tit	dit	NOUN	n	_	3	obl	3:obl	_
 2	tak	tak	ADV	adv	_	3	advmod	3:advmod	_
-3	o'titobuxik	dobuxik	VERB	vt	Aspect=Perf|Number=Sing|Person=3	0	root	0:root	_
+3	o'titobuxik	dobuxik	VERB	vt	Aspect=Perf|Number=Sing|Person=33	0	root	0:root	_
 4	tu	tu	PART	qpart	_	3	dep	3:dep	_
 5	?	?	PUNCT	punct	_	3	punct	3:punct	_
 
@@ -40,7 +40,7 @@
 # text = Tawe oajẽm iku be
 # text_eng = The capuchin monkey came/arrived to/at the slash
 1	Tawe	tawe	NOUN	n	_	2	obl	2:obl	_
-2	oajẽm	ajẽm	VERB	vt	Aspect=Perf|Person=3	0	root	0:root	_
+2	oajẽm	ajẽm	VERB	vi	Aspect=Perf|Person=3	0	root	0:root	_
 3	iku	ku	NOUN	n	_	2	obl	2:obl	_
 4	be	be	ADP	pp	_	3	case	3:case	_
 
@@ -95,7 +95,7 @@
 1	Toxaw	toxaw	NOUN	n	_	4	obl	4:obl	_
 2	dak	dak	ADV	adv	_	4	advmod	4:advmod	_
 3	jexat	xat	NOUN	n	_	4	obl	4:obl	_
-4	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=3	0	root	0:root	_
+4	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=33	0	root	0:root	_
 
 # sent_id = 14
 # text = Toxaw tawe o'tobuxik
@@ -103,7 +103,7 @@
 # text_eng = The chief found the capuchin monkey
 1	Toxaw	toxaw	NOUN	n	_	3	obl	3:obl	_
 2	tawe	tawe	NOUN	n	_	3	obl	3:obl	_
-3	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=3	0	root	0:root	_
+3	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=33	0	root	0:root	_
 
 # sent_id = 15
 # text = Xa xe tawe o'tobuxik
@@ -112,7 +112,7 @@
 1	Xa	xa	NOUN	n	_	4	obl	4:obl	_
 2	xe	xe	ADP	pp	_	1	case	1:case	_
 3	tawe	tawe	NOUN	n	_	4	obl	4:obl	_
-4	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=3	0	root	0:root	_
+4	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=33	0	root	0:root	_
 
 # sent_id = 16
 # text = Ikibit awi kay
