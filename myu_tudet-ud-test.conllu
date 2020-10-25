@@ -130,7 +130,7 @@
 2	oajẽm	ajẽm	VERB	vi	Aspect=Perf|Person=3	0	root	0:root	_
 3	ika	ika	NOUN	n	_	2	obl	2:obl	_
 4	be	be	ADP	pp	_	3	case	3:case	_
-5	,	,	PUNCT	punct	_	2	punct	2:punct	_
+5	,	,	PUNCT	punct	_	4	punct	4:punct	_
 6	jekibit	_	NOUN	n	_	7	nmod	7:nmod	_
 7	ka	ka	NOUN	n	_	3	appos	3:appos	_
 8	be	be	ADP	pp	_	7	case	7:case	_
