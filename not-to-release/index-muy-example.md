@@ -54,13 +54,13 @@ As a head-marking language, arguments, [nsubj](https://universaldependencies.org
 
 ### Non-verbal clauses
 
-Mundurukú has some lexemes that function as [copula](https://universaldependencies.org/u/dep/cop.html) in non-verbal clauses for existentia and locational predicates. Examples are: *opop*, *kug̃*, and *kake*.
+Mundurukú has some lexemes that function as [copula](https://universaldependencies.org/u/dep/cop.html) in non-verbal clauses for existentia and locational predicates. Examples are: *opop*, *kug̃*, and *kake*. These copular elements are not treated as the
+head of a clause, but rather the dependent of a lexical predicate
 
 ~~~ sdparse
-Akoba iku be opop
-cop(iku, opop)
+Bill is an honest man
+cop(man, is)
 ~~~
-
 
 
 ---
