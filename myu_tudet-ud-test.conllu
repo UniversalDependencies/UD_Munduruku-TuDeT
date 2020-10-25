@@ -1,8 +1,6 @@
 # document_source = Mõnjoroko ã'õ - Cartilha Mundurukú 2. SIL, 1965.
 # document_title = Mundurukú_text_2
 # document_authorship =  transcribed and annotated by Fabrício F Gerardi and Eva Huber
-
-
 # sent_id = 1
 # text = Ajojot jekobe be cum
 # text_eng =  Grandpa goes in the canoe
@@ -143,7 +141,7 @@
 # text_eng = The needle belongs to (?) the grandmother.
 1	Awi	awi	NOUN	n	_	0	root	0:root	_
 2	awawa	awawa	NOUN	n	_	1	nsubj	1:nsubj	_
-3	bubut	bubut	VERB	cop	_	1	cop	1:cop	_
+3	bubut	bubut	AUX	cop	_	1	cop	1:cop	_
 
 # sent_id = 19
 # text = Ite awi o'tobuxik
@@ -271,7 +269,7 @@
 # sent_structure = 
 1	Tawe	tawe	NOUN	n	_	2	nsubj	2:nsubj	_
 2	ixat	xat	NOUN	n	_	0	root	0:root	_
-3 , ,	PUNCT	punct	_	2	punct	2:punct	_
+3	,	,	PUNCT	punct	_	2	punct	2:punct	_
 4	toxaw	toxaw	NOUN	n	_	5	nmod	5:nmod	_
 5	xat	xat	NOUN	n	_	2	appos	2:appos	_
 
