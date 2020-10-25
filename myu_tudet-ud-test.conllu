@@ -279,7 +279,7 @@
 # text_eng = The grandmother has food. 
 # sent_structure = 
 1	Awawa	awawa	NOUN	n	_	2	nsubj	2:nsubj	_
-2	ixaxet	xat	NOUN	n	_	0	root	0:root	_
+2	ixaxet	xat	NOUN	n	Red=Ex	0	root	0:root	_
 
 # sent_id = 36
 # text = Awawa ixiwe kay
