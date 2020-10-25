@@ -151,7 +151,7 @@
 # text_eng = The needle belongs to (?) the grandmother.
 1	Awi	awi	NOUN	n	_	0	root	0:root	_
 2	awawa	awawa	NOUN	n	_	1	nsubj	1:nsubj	_
-3	bubut	bubut	AUX	aux	_	1	cop	1:cop	_
+3	bubut	bubut	VERB	cop	_	1	cop	1:cop	_
 
 # sent_id = 19
 # text = Ite awi o'tobuxik
@@ -266,7 +266,7 @@
 3	o'tobuxik	dobuxik	VERB	v	Aspect=Perf|Person=3	0	root	0:root	_
 
 # sent_id = 33
-# text = Jexat o'tobuxik  
+# text = Jexat o'tobuxik
 # text_portuguese = Êle achou, a comida.
 # text_eng = He found the food. 
 1	Jexat	xat	NOUN	n	_	2	obl	2:obl	_
@@ -505,9 +505,9 @@
 3	puybit	puybit	NOUN	n	_	4	obj	4:obj	_
 4	aokam	aoka	VERB	vt	Aspect=Imp|Person=3	2	ccomp	2:ccomp	_
 
-# sent_id =58Vol 5 p39-3
+# sent_id =58
 # text = oexexe ip uk'a be puybit kukug̃
-# text_portuguese = Eles chegaram em casa com caça
+# text_portuguese = Eles chegaram em casa com caça Vol 5 p39-3
 # text_eng = They arrived home with a hunted thing
 1	oexexe	exexe	VERB	vi	Aspect=Perf|Number=Plur|Person=3	0	root	0:root	_
 2	ip	ip	PART	pcl	_	1	dep	1:dep	_
@@ -517,4 +517,3 @@
 5	be	be	ADP	pp	_	3	case	3:case	_
 6	puybit	puybit	NOUN	n	_	7	obj	7:obj	_
 7	kukug̃	kukug̃	VERB	vt	Aspect=Imp|Number=Plur|Person=3	1	dep	1:dep	_
-
