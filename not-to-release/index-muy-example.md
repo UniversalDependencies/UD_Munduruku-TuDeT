@@ -11,8 +11,6 @@ udver: '2'
 
 * In general, words are delimited by whitespace characters. Description of exceptions follows.
 * According to typographical rules, many punctuation marks are attached to a neighboring word. We always tokenize them as separate tokens (words);
-* There is no separate class of adjectives in Mundurukú.
-
 
 
 ## Morphology
@@ -41,18 +39,22 @@ are tagged cl in the XPOS column.
 * Verbs have a lexical [Aspect](): imperfective (`Imp`), perfective (`Perf`), iterative (`Iter`). 
 * Some lexical roots can not easily be assigned to a  specific lexical category. This is the case with *kake* and *opop*. 
 These are tagged as [AUX](https://universaldependencies.org/u/pos/AUX_.html) in the [UPOS](), and v:ex (existential verb) and aux respectively in the XPOS.
-* Particles or reduplication mark [Aspect]() or [Tense]().
+* Particles or reduplication mark [Aspect](https://universaldependencies.org/u/feat/Aspect.html) or [Tense](https://universaldependencies.org/u/feat/Tense.html).
 * [Person](https://universaldependencies.org/u/feat/Person.html) can have the value [1](), [2](), and [3]().
-* The feature [Evident]() can take the following values in: 
-* [Clusivity]() can have both values, []() and []().
-* Some 'words' which are difficult to assign to a lexical/syntactical category are assined the relation [cop](https://universaldependencies.org/u/dep/cop.html)
+* The feature [Evident](https://universaldependencies.org/u/feat/Evident.html) can take the following values in: 
+* [Clusivity](https://universaldependencies.org/u/feat/Clusivity.html) is also distinguished.
+
 
 
 
 
 ## Syntax
 
-As a head-marking language, arguments, actor for vi and actor and undergoer for vt, are cross-referenced on the predicate most of the time, exceptions depend on the verbal aspect.
+As a head-marking language, arguments, actor for vi and actor and undergoer for vt, are cross-referenced on the predicate most of the time, exceptions depend on the verbal [aspect](https://universaldependencies.org/u/feat/Aspect.html).
+
+### Non-verbal clauses
+
+Mundurukú has some lexemes that function as copular elements in non-verbal clauses for existentia and locational predicates.
 
 * [aux]()
 * [cop]()
