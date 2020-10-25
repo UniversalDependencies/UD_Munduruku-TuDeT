@@ -54,7 +54,7 @@ As a head-marking language, arguments, [nsubj](https://universaldependencies.org
 
 ### Non-verbal clauses
 
-Mundurukú has some lexemes that function as copular elements in non-verbal clauses for existentia and locational predicates. Examples are: *opop*, *kug̃*, and *kake*.
+Mundurukú has some lexemes that function as [copula](https://universaldependencies.org/u/dep/cop.html) in non-verbal clauses for existentia and locational predicates. Examples are: *opop*, *kug̃*, and *kake*.
 
 
 
