@@ -1,6 +1,8 @@
+---
 layout: base
-title: 'Munduruku UD'
+title:  'Swedish UD'
 udver: '2'
+---
 
 # UD for Munduruku <span class="flagspan"><img class="flag" src="../../flags/svg/BR.svg" /></span>
 
@@ -49,6 +51,8 @@ These are tagged as [AUX](https://universaldependencies.org/u/pos/AUX_.html) in 
 
 
 ## Syntax
+
+As a head-marking language, arguments, actor for vi and actor and undergoer for vt, are cross-referenced on the predicate most of the time, exceptions depend on the verbal aspect.
 
 * [aux]()
 * [cop]()
