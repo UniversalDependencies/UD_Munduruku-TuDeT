@@ -519,6 +519,18 @@
 6	,	,	PUNCT	punct	_	3	punct	3:punct	_
 7	puybit	puybit	NOUN	n	_	0	root	0:root	_
 8	kuka	kuka	X	x	_	7	dep	7:dep	_
-9	o'e	'e	VERB	v	_	7	dep	7:dep	_
+9	o'e	'e	VERB	v	Evident=Nfh	7	dep	7:dep	_
 10	ade	ade	PRON	pro	_	7	nmod	7:nmod	_
+
+# sent_id = 60
+# text = Soat bekitkit ibeg̃beg̃ o'e ade puybit puye
+# text_portuguese = Todas as crian ças ficaram satisfeitas por causa de muita comida.
+# text_eng = All children were/became satisfied because of so much food
+1	Soat	Soat	PRON	_	_	2	nmod	_	_
+2	bekitkit	bekitkit	NOUN	n	_	0	root	_	_
+3	ibeg̃beg̃	beg̃beg̃	ADJ	_	_	2	amod	_	_
+4	o'e	'e	VERB	v	Evident=Nfh	2	dep	_	_
+5	ade	ade	PRON	pro	_	6	nmod	_	_
+6	puybit	puybit	NOUN	n	_	2	advcl	_	_
+7	puye	puye	ADP	_	_	6	case	_	_
 
