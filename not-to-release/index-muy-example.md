@@ -54,7 +54,7 @@ As a head-marking language, arguments, actor for vi and actor and undergoer for 
 
 ### Non-verbal clauses
 
-Mundurukú has some lexemes that function as copular elements in non-verbal clauses for existentia and locational predicates.
+Mundurukú has some lexemes that function as copular elements in non-verbal clauses for existentia and locational predicates. Examples are: *opop*, *kug̃*, and *kake*.
 
 * [aux]()
 * [cop]()
