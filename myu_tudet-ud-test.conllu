@@ -463,7 +463,7 @@
 5	be	be	ADP	pp	_	4	case	4:case	_
 
 # sent_id = 54
-# text = Ixat'a kake wa'e be , uk'a be 
+# text = Ixat'a kake wa'e be , uk'a be
 # text_portuguese = Tem comida na cuia, em casa.
 # text_eng = There is food in the gourd, at home.
 # sent_structure = 
@@ -478,7 +478,7 @@
 8	be	be	ADP	pp	_	7	case	7:case	_
 
 # sent_id = 55
-# text = Wa'e uk'a be opop 
+# text = Wa'e uk'a be opop
 # text_portuguese = A cuia está na casa.
 # text_eng = The gourd is/lies in the house. 
 # sent_structure = 
@@ -487,18 +487,18 @@
 3	be	be	ADP	pp	_	2	case	2:case	_
 4	opop	opop	VERB	cop	_	0	root	0:root	_
 
-# sent_id = 56 Vol 5 p39-1
+# sent_id = 56 
 # text = puybit ka'ũmg̃u o'e
-# text_portuguese = Não há comida
+# text_portuguese = Não há comida Vol 5 p39-1
 # text_eng = There is no food
 1	puybit	puybit	NOUN	n	_	0	root	0:root	_
 2	ka'ũmg̃u	ka'ũmg̃u	AUX	aux	_	1	cop	1:cop	_
 3	,	,	PUNCT	punct	_	1	punct	1:punct	_
 4	o'e	'e	VERB	vi	Aspect=Perf|Evident=Nfh|Person=3	1	dep	1:dep	_
 
-# sent_id = 57 Vol 5 p39-2
+# sent_id = 57 
 # text = ag̃okatkat o'ju puybit aokam
-# text_portuguese = Os homens foram matar caça
+# text_portuguese = Os homens foram matar caça Vol 5 p39-2
 # text_eng = The men went to kill the hunt 
 1	ag̃okatkat	ag̃okatkat	NOUN	n	_	2	obl	2:obl	_
 2	o'ju	cu	VERB	vi	_	0	root	0:root	_
