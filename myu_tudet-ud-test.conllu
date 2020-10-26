@@ -546,3 +546,16 @@
 6	daxa	daxa	NOUN	n	_	5	obj	5:obj	_
 7	xe	xe	ADP	pp	_	6	case	6:case	_
 
+# sent_id = 100
+# text = Karosakaybu daje o'g̃uju , tacup puye ip .
+# text_port = Karosakaybu virou as pessoas porcos grandes porque estavam guardando bóia só para elas
+# text_eng = K transformed people in pigs, becaus they were stealing food
+1	Karosakaybu	Karosakaybu	PROPN	pn	_	3	obl	3:obl	_
+2	daje	daje	NOUN	n	_	3	obl	3:obl	_
+3	o'g̃uju	ju	VERB	vt	Asp=Perf|Number=Sing|Person=3|Voice=Cau	0	root	0:root	_
+4	,	,	PUNCT	punct	_	3	punct	3:punct	punct
+5	tacup	tacup	VERB	v	_	3	advcl	3:advcl	_
+6	puye	puye	SCONJ	sc	_	5	mark	5:mark	_
+7	ip	ip	PART	pcl	_	5	nsubj	5:nsubj	_
+8	.	.	PUNCT	punct	_	5	punct	5:punct	punct
+
