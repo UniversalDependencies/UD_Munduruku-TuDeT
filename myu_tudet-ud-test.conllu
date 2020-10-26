@@ -552,7 +552,7 @@
 # text_eng = K transformed people in pigs, becaus they were stealing food
 1	Karosakaybu	Karosakaybu	PROPN	pn	_	3	obl	3:obl	_
 2	daje	daje	NOUN	n	_	3	obl	3:obl	_
-3	o'g̃uju	ju	VERB	vt	Asp=Per|Number=Sing|Person=33|Voice=Cau	0	root	0:root	_
+3	o'g̃uju	ju	VERB	vt	Aspect=Perf|Number=Sing|Person=33|Voice=Cau	0	root	0:root	_
 4	,	,	PUNCT	punct	_	3	punct	3:punct	punct
 5	tacup	tacup	VERB	v	_	3	advcl	3:advcl	_
 6	puye	puye	SCONJ	sc	_	5	mark	5:mark	_
