@@ -559,3 +559,15 @@
 7	ip	ip	PART	pcl	_	5	nsubj	5:nsubj	_
 8	.	.	PUNCT	punct	_	5	punct	5:punct	punct
 
+# sent_id = 101
+# text = pariwat tomuwã buje juy puybit ejomõg̃ mesa jeje
+# text_eng = when you call the non-indians, put food on the table Crofts 189
+1	pariwat	pariwat	NOUN	n	_	2	obj	2:obj	_
+2	tomuwã	tomuwã	VERB	v	_	6	dep	6:dep	_
+3	buje	buje	ADV	adv	_	2	advmod	2:advmod	_
+4	juy	juy	PART	pcl	_	6	discourse	6:discourse	_
+5	puybit	puybit	NOUN	n	_	6	obj	6:obj	_
+6	ejomõg̃	ejomõg̃	VERB	vt	Aspect=Perf|Mood=Imp	0	root	0:root	_
+7	mesa	mesa	NOUN	n	_	6	obl	6:obl	_
+8	jeje	jeje	ADP	pp	_	7	case	7:case	_
+
