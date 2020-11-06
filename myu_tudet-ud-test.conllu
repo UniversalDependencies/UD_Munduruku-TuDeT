@@ -573,7 +573,7 @@
 
 # sent_id = 102
 # text= kabido xixi ajẽm puje soat o'at
-# text_eng = Everything fell down when the storm came
+# text_eng = Everything fell down when the storm came Crofts 100
 1	kabido	kabido	NOUN	n	_	3	nsubj	3:nsubj	_
 2	xixi	xixi	NOUN	n	_	1	nmod	1:nmod	_
 3	ajẽm	ajẽm	VERB	vi	Aspect=Perf	6	advcl	6:advcl	_
