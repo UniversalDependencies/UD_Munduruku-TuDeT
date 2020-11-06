@@ -572,12 +572,12 @@
 8	jeje	jeje	ADP	pp	_	7	case	7:case	_
 
 # sent_id = 102
-# text= kabidoxixi ajẽm puje soat o'at
+# text= kabido xixi ajẽm puje soat o'at
 # text_eng = Everything fell down when the storm came
 1	kabido	kabido	NOUN	n	_	3	nsubj	3:nsubj	_
 2	xixi	xixi	NOUN	n	_	1	nmod	1:nmod	_
 3	ajẽm	ajẽm	VERB	vi	Aspect=Perf	6	advcl	6:advcl	_
 4	puje	puje	ADP	pp	_	3	mark	3:mark	_
 5	soat	soat	PRON	pro	_	6	obl	6:obl	_
-6	o'at	'at	VERB	vi	Aspect=Perf|Number=Sing|Person=3	0	root	0:root	SpaceAfter=No
+6	o'at	'at	VERB	vi	Aspect=Perf|Number=Sing|Person=3	0	root	0:root	_
 
