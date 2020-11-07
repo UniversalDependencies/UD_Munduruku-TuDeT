@@ -581,3 +581,16 @@
 5	soat	soat	PRON	pro	_	6	obl	6:obl	_
 6	o'at	'at	VERB	vi	Aspect=Perf|Number=Sing|Person=3	0	root	0:root	_
 
+# sent_id = 103
+# text = taxit mẽnpit ikukpin'ũm osunuy ag̃okatkat pe , i'e'em ajojoyũ'ũm'ũm
+# text_eng  The man didn't care for his daughter, said the ancestors  vol 3-7
+1	taxit	daxit	NOUN	n	Rel=NCont	0	root	0:root	_
+2	mẽnpit	mẽnpit	CCONJ	cc	_	1	cc	1:cc	_
+3	ikukpin'ũm	kukpin	NOUN	n	Polarity=Neg|Rel=Cont	1	nmod	1:nmod	_
+4	osunuy	osunuy	AUX	aux	_	3	dep	3:dep	_
+5	ag̃okatkat	ag̃okatkat	NOUN	n	_	3	obl	3:obl	_
+6	pe	pe	ADP	pp	_	5	case	5:case	_
+7	,	,	PUNCT	punct	_	1	punct	1:punct	_
+8	i'e'em	'e	VERB	vi	Aspect=Imp	1	dep	1:dep	_
+9	ajojoyũ'ũm'ũm	ajojo	NOUN	n	Aspect=Compl|Number=Plur	8	nsubj	8:nsubj	_
+
