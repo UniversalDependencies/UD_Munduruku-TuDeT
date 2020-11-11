@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>62</sentences><tokens>266</tokens><words>271</words><fused>5</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>62</sentences><tokens>266</tokens><words>271</words><fused>5</fused></test>
+  </size>
+  <lemmas unique="89" /><!-- be, dobuxik, awawa, xe, tawe, toxaw, xat, ,, ?, ajẽm, awi, ku, puybit, 'a, abu -->
+  <forms unique="101" /><!-- be, o'tobuxik, awawa, tawe, toxaw, ,, ?, xe, awi, oajẽm, puybit, 'a, Abu, iku, jexat -->
+  <fusions unique="3" /><!-- uk'a, Ixat'a, Wexik'a -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="13">
+    <tag name="ADJ">2</tag><!-- ba'orere, beg̃beg̃ -->
+    <tag name="ADP">37</tag><!-- be, xe, kay, jeje, pe, pima, puje, puye -->
+    <tag name="ADV">7</tag><!-- tak, dak, Kabiam, buje -->
+    <tag name="CCONJ">1</tag><!-- mẽnpit -->
+    <tag name="INTJ">2</tag><!-- ka'ũma -->
+    <tag name="NOUN">122</tag><!-- awawa, tawe, toxaw, xat, awi, ku, puybit, 'a, wa'e, ka -->
+    <tag name="PART">7</tag><!-- ip, tu, du, juy -->
+    <tag name="PRON">11</tag><!-- abu, ade, soat, ite -->
+    <tag name="PROPN">1</tag><!-- Karosakaybu -->
+    <tag name="PUNCT">22</tag><!-- ,, ?, ., ! -->
+    <tag name="SCONJ">1</tag><!-- puye -->
+    <tag name="VERB">56</tag><!-- dobuxik, ajẽm, 'e, cu, opop, xe, aoka, kake, 'at, _ -->
+    <tag name="X">2</tag><!-- kuka, osunuy -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="17">
+    <feat name="Aspect" value="Compl" upos="NOUN">1</feat><!-- ajojoyũ'ũm'ũm -->
+    <feat name="Aspect" value="DurImp" upos="VERB">1</feat><!-- mug̃ẽg̃ẽm -->
+    <feat name="Aspect" value="Imp" upos="VERB">7</feat><!-- cum, aokam, i'e'em, kukug̃, oajẽm -->
+    <feat name="Aspect" value="Perf" upos="VERB">27</feat><!-- o'tobuxik, oajẽm, oexe, ajẽm, ejomõg̃, o'at, o'e, o'g̃uju, o'titobuxik, oexexe -->
+    <feat name="Evident" value="Nfh" upos="VERB">3</feat><!-- o'e -->
+    <feat name="Mood" value="Imp" upos="VERB">1</feat><!-- ejomõg̃ -->
+    <feat name="Number" value="Plur" upos="NOUN,VERB">3</feat><!-- ajojoyũ'ũm'ũm, kukug̃, oexexe -->
+    <feat name="Number" value="Sing" upos="VERB">4</feat><!-- o'at, o'g̃uju, o'titobuxik, o'tobuxik -->
+    <feat name="Person" value="3" upos="VERB">21</feat><!-- o'tobuxik, oajẽm, oexe, aokam, kukug̃, o'at, o'e, oexexe -->
+    <feat name="Person" value="33" upos="VERB">7</feat><!-- o'tobuxik, o'g̃uju, o'titobuxik -->
+    <feat name="Polarity" value="Neg" upos="NOUN">1</feat><!-- ikukpin'ũm -->
+    <feat name="Poss" value="Yes" upos="NOUN">1</feat><!-- jexat -->
+    <feat name="Red" value="Ex" upos="NOUN">1</feat><!-- ixaxet -->
+    <feat name="Reflex" value="Yes" upos="NOUN">1</feat><!-- jeku -->
+    <feat name="Rel" value="Cont" upos="ADP,NOUN">2</feat><!-- ikukpin'ũm, puje -->
+    <feat name="Rel" value="NCont" upos="NOUN">1</feat><!-- taxit -->
+    <feat name="Voice" value="Cau" upos="VERB">1</feat><!-- o'g̃uju -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="17">
+    <dep name="advcl">4</dep>
+    <dep name="advmod">6</dep>
+    <dep name="amod">3</dep>
+    <dep name="appos">4</dep>
+    <dep name="case">36</dep>
+    <dep name="cc">1</dep>
+    <dep name="ccomp">1</dep>
+    <dep name="clf">1</dep>
+    <dep name="dep">10</dep>
+    <dep name="discourse">3</dep>
+    <dep name="mark">2</dep>
+    <dep name="nmod">25</dep>
+    <dep name="nsubj">24</dep>
+    <dep name="obj">7</dep>
+    <dep name="obl">60</dep>
+    <dep name="punct">22</dep>
+    <dep name="root">62</dep>
+  </deps>
+</treebank>
