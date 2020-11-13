@@ -120,7 +120,7 @@
 # text_eng = The sister wants a needle
 1	Ikibit	ikibit	NOUN	n	_	0	root	_	_
 2	awi	awi	NOUN	n	_	1	nmod	_	_
-3	kay	kay	ADP	pp	_	2	case	_	_
+3	kay	kay	ADP	pp	Rel=Cont	2	case	_	_
 
 # sent_id = 17
 # text = Awawa oajẽm ika be , jekibit ka be
@@ -133,7 +133,7 @@
 5	,	,	PUNCT	punct	_	4	punct	4:punct	_
 6	jekibit	_	NOUN	n	_	7	nmod	7:nmod	_
 7	ka	ka	NOUN	n	_	3	appos	3:appos	_
-8	be	be	ADP	pp	_	7	case	7:case	_
+8	be	be	ADP	pp	Rel=Cont	7	case	7:case	_
 
 # sent_id = 18
 # text = Awi awawa bubut
@@ -591,6 +591,6 @@
 5	ag̃okatkat	ag̃okatkat	NOUN	n	_	3	obl	3:obl	_
 6	pe	pe	ADP	pp	_	5	case	5:case	_
 7	,	,	PUNCT	punct	_	1	punct	1:punct	_
-8	i'e'em	'e	VERB	vi	Aspect=Imp	1	dep	1:dep	_
+8	i'e'em	'e	VERB	vi	Aspect=Imp|Rel=NCont	1	dep	1:dep	_
 9	ajojoyũ'ũm'ũm	ajojo	NOUN	n	Aspect=Compl|Number=Plur	8	nsubj	8:nsubj	_
 
