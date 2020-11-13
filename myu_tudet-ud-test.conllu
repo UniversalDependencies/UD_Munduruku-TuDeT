@@ -594,3 +594,11 @@
 8	i'e'em	'e	VERB	vi	Aspect=Imp|Rel=NCont	1	dep	1:dep	_
 9	ajojoyũ'ũm'ũm	ajojo	NOUN	n	Aspect=Compl|Number=Plur	8	nsubj	8:nsubj	_
 
+# sent_id = 104
+# text = wexik'a kake ixi duk'a be 
+# text_eng = there is sweet-potato in mother’s house vol 2 13 
+1	wexik'a	wexik	NOUN	n	Noun=Clf	0	root	0:root	_
+2	kake	kake	AUX	aux	_	1	aux	1:aux	_
+3	ixi	xi	NOUN	n	Rel=NCon	4	nmod	4:nmod	_
+4	duk'a	uk	NOUN	n	Noun=Clf|Rel=Con	1	obl	1:obl	_
+5	be	be	ADP	pp	Rel=Con	4	case	4:case	_
