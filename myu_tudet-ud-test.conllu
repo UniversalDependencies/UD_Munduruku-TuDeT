@@ -601,5 +601,5 @@
 2	kake	kake	AUX	aux	_	1	aux	1:aux	_
 3	ixi	xi	NOUN	n	Rel=NCont	4	nmod	4:nmod	_
 4	duk'a	uk	NOUN	n	Noun=Clf|Rel=Cont	1	obl	1:obl	_
-5	be	be	ADP	pp	Rel=Con	4	case	4:case	_
+5	be	be	ADP	pp	Rel=Cont	4	case	4:case	_
 
