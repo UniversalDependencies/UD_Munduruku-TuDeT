@@ -2,10 +2,16 @@
 
 # Summary
 
-UD_Munduruku-TuDeT is a collection of annotated sentences in [Mundurukú](http://www.endangeredlanguages.com/lang/2981). Together with [UD_Akuntsu-TuDeT](https://github.com/UniversalDependencies/UD_Akuntsu-TuDeT) and [UD_Tupinamba-TuDeT](https://github.com/UniversalDependencies/UD_Tupinamba-TuDeT), UD_Munduruku-TuDeT is part of the [TuLaR](https://tular.org) project.
+<p>
+<img align="left" src="not-to-release/tupi1.png" width="180" height="180">
+UD_Munduruku-TuDeT is a collection of annotated sentences in <a href="http://www.endangeredlanguages.com/lang/2981">Mundurukú</a>.
+Together with <a href="http://www.endangeredlanguages.com/lang/2981">UD_Akuntsu-TuDeT</a> and <a href="https://github.com/UniversalDependencies/UD_Tupinamba-TuDeT">UD_Tupinamba-TuDeT</a>, UD_Munduruku-TuDeT is part of <a href="https://tular.org">TuLaR</a>. </p>
 
-
-
+</br>
+</br>
+</br>
+</br>
+</br>
 
 # Introduction
 
