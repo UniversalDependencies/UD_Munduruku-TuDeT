@@ -603,3 +603,21 @@
 4	duk'a	uk	NOUN	n	Noun=Clf|Rel=Cont	1	obl	1:obl	_
 5	be	be	ADP	pp	Rel=Cont	4	case	4:case	_
 
+#sent_id = 105
+# text = oxi uk‘a be
+# text_eng = My mother is in the house [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 2b)
+1	oxi	xi	NOUN	n	Poss=Yes	2	nsubj	_	_
+2-3	uk‘a	_	_	_	_	_	_	_	_
+2	uk	uk	NOUN	n	_	0	root	_	_
+3	‘a	‘a	NOUN	cl	_	2	clf	_	_
+4	be	be	ADP	pp	_	2	case	_	_
+
+#sent_id = 106
+# text = wida ayacat o’yaoka Katõ be
+# text_eng = The jaguar killed the woman in the Katõ village. [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 2c)
+1	wida	wida	NOUN	n	_	3	obl	3:obl	_
+2	ayacat	ayacat	NOUN	n	_	3	obl	3:obl	_
+3	o’yaoka	aoka	VERB	vt	_	0	root	0:root	_
+4	Katõ	Katõ	PROPN	pn	_	3	obl	3:obl	_
+5	be	be	ADP	pp	_	4	case	4:case	_
+
