@@ -209,8 +209,8 @@
 # text = Abu o'titobuxik ?
 # text_portuguese = Quem achou as flôres?
 # text_eng = Who found the flowers?
-1	Abu	abu	PRON	pro	_	2	obl	2:obl	_
-2	o'titobuxik	dobuxik	VERB	v	_	0	root	0:root	_
+1	Abu	abu	PRON	pro	_	2	nsubj	2:nsubj	_
+2	o'titobuxik	dobuxik	VERB	v	Aspect=Perf|Incorp=Yes|Person=3	0	root	0:root	_
 3	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
 # sent_id = 28
