@@ -621,7 +621,7 @@
 4	Katõ	Katõ	PROPN	pn	_	3	obl	3:obl	_
 5	be	be	ADP	pp	_	4	case	4:case	_
 
-#sent_id = 107
+# sent_id = 107
 # text = wetabut pe obure Wida o'yaoka
 # text_eng = My friend killed the jaguar. I am certain. (I saw it). [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 2d)
 1	wetabut	etabut	VERB	vi	Person=1	5	dep	_	_
@@ -630,7 +630,7 @@
 4	Wida	wida	NOUN	n	_	5	obl	_	_
 5	o'yaoka	aoka	VERB	vt	Aspect=Perf|Person=3	0	root	_	_
 
-#sent_id = 108
+# sent_id = 108
 # text = bekicat o'akõm wetabut pe
 # text_eng = The girl drowned. I am certain. (I saw it) [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 2e)
 1	bekicat	bekicat	NOUN	n	_	2	obl	_	_
@@ -638,7 +638,7 @@
 3	wetabut	etabut	VERB	vi	Person=1	2	dep	_	_
 4	pe	pe	ADP	pp	_	3	case	_	_
 
-#sent_id = 109
+# sent_id = 109
 # text = ẽn eg̃ũm kise ayacat pe
 # text_eng = You gave a knife to the woman. [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 2f)
 1	ẽn	ẽn	PRON	pro	_	2	obl	2:obl	_
@@ -647,7 +647,7 @@
 4	ayacat	ayacat	NOUN	n	_	2	obl	2:obl	_
 5	pe	pe	ADP	pp	_	4	case	4:case	_
 
-#sent_id = 110
+# sent_id = 110
 # text = ẽn eg̃ũm kise ayacat pe
 # text_eng = They only speak about my son, they do not speak about any other! Said (my mother). They only (speak) about one really [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 2g-h)
 1	o'it	it	NOUN	n	_	_	_	_	_
