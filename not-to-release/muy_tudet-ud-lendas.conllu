@@ -133,3 +133,23 @@
 13	jekpot	_	NOUN	n	_	14	nmod	14:nmod	_
 14	xan	_	NOUN	n	_	_	_	_	_
 15	.	.	PUNCT	punct	_	12	punct	12:PUNCT	punct
+
+
+# sent_id = 110
+# text = ẽn eg̃ũm kise ayacat pe
+# text_eng = They only speak about my son, they do not speak about any other! Said (my mother). They only (speak) about one really [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 2g-h)
+1	o'it	it	NOUN	n	_	_	_	_	_
+2	pe	pe	ADP	pp	_	_	_	_	_
+3	ma	ma	ADV	adv	_	_	_	_	_
+4	e'em	'e	VERB	v	_	_	_	_	_
+5	ip	ip	PRON	pron	_	_	_	_	_
+6	,	,	PUNCT	punct	_	_	_	_	_
+7	wara'at	wara'at	PRON	pron	_	_	_	_	_
+8	pe	pe	ADP	pp	_	_	_	_	_
+9	g̃u	g̃u	_	_	_	_	_	_	_
+10	jededem	dede	VERB	v	_	_	_	_	_
+11	ip	ip	PRON	pron	_	_	_	_	_
+12	io'e	io'e	Verb	v	Aspect=Perf|Person=3	_	_	_	_
+13	pug̃	pug̃	PRON	pron	_	_	_	_	_
+14	pe	pe	ADP	pp	_	_	_	_	_
+15	ma	ma	ADV	adv	_	_	_	_	_
