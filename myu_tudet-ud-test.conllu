@@ -656,7 +656,7 @@
 4	o'joa	a	VERB	verb	Aspect=Perf|Number=Sing|Person=3	0	root	0:root	_
 
 # sent_id = 112
-# text = õn ojoaat puy bu be
+# text = õn bekicat ojoaat puy bu be
 # text_eng = I made the snake bite the child. 
 1	õn	õn	PRON	pron	_	3	dep	3:dep	_
 2	bekicat	bekicat	NOUN	noun	_	3	obl	3:obl	_
