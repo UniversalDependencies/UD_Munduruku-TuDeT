@@ -583,7 +583,7 @@
 
 # sent_id = 103
 # text = taxit mẽnpit ikukpin'ũm osunuy ag̃okatkat pe , i'e'em ajojoyũ'ũm'ũm
-# text_eng  The man didn't care for his daughter, said the ancestors  vol 3-7
+# text_eng = The man didn't care for his daughter, said the ancestors  vol 3-7
 1	taxit	daxit	NOUN	n	Rel=NCont	0	root	0:root	_
 2	mẽnpit	mẽnpit	CCONJ	cc	_	1	cc	1:cc	_
 3	ikukpin'ũm	kukpin	NOUN	n	Polarity=Neg|Rel=Cont	1	nmod	1:nmod	_
