@@ -689,3 +689,21 @@
 3	ipi	ipi	NOUN	n	Rel=NCont	0	root	0:root	_
 4	tẽg̃	tẽg̃	ADP	pp	Rel=Cont	3	case	3:case	_
 
+# sent_id = 2004
+# text = o'xet io'e xiri xe
+# text_eng = He slept by the side of a nambu (Crypturellus parvirostris), they say. [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 6b)
+1	o'xet	xet	VERB	vi	Aspect=Perf|Person=3	0	root	0:root	_
+2	io'e	'e	VERB	vi	Evident=Nfh|Number=Plur|Person=3	1	dep	1:dep	_
+3	xiri	xiri	NOUN	n	_	1	obl	1:obl	_
+4	xe	xe	ADP	pp	Rel=Cont	3	case	3:case	_
+
+# sent_id = 2005
+# text = ixe iẽn 'o'om kaw ta eju	
+# text_eng = He eats meat with salt. [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 7d)
+1	ixe	ixe	PRON	pro	PronType=Dem	3	nsubj	3:nsubj	_
+2	iẽn	ẽn	NOUN	n	Rel=Ncont	3	obj	3:obj	_
+3	'o'om	'o	VERB	vi	Aspect=Imp	0	root	0:root	_
+4	kaw	kaw	NOUN	n	_	2	nmod	2:nmod	_
+5	ta	da	NOUN	cl	Class=Seed	4	clf	4:clf	_
+6	eju	eju	ADP	pp	Rel=Ncont	4	case	4:case	_
+
