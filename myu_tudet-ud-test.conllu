@@ -707,3 +707,15 @@
 5	ta	da	NOUN	cl	Class=Seed	4	clf	4:clf	_
 6	eju	eju	ADP	pp	Rel=Ncont	4	case	4:case	_
 
+# sent_id = 2006
+# text = puybit kug̃ o'ju bio kug̃ , dapsem kug̃
+# text_eng = They went with game meat: with tapir and deer. [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 8c)
+1	puybit	puybit	NOUN	n	_	3	obl	3:obl	_
+2	kug̃ 	kug̃ 	ADP	pp	Rel=Cont	1	case	1:case	_
+3	o'ju	ju	VERB	vi	Aspect=Perf|Number=Plur|Person=3	0	root	0:root	_
+4	bio	bio	NOUN	n	_	1	conj	1:conj	_
+5	kug̃ 	kug̃ 	ADP	pp	Rel=Cont	4	case	4:case	_
+6	,	,	PUNCT	punct	_	5	punct	5:punct	_
+7	dapsem	dapsem	NOUN	n	_	1	conj	1:conj	_
+8	kug̃ 	kug̃ 	ADP	pp	Rel=Cont	7	case	7:case	_
+
