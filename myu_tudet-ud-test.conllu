@@ -719,3 +719,116 @@
 7	dapsem	dapsem	NOUN	n	_	1	conj	1:conj	_
 8	kug̃ 	kug̃ 	ADP	pp	Rel=Cont	7	case	7:case	_
 
+# sent_id = 2007
+# text = xa diot pe o'xet
+# text_eng = He slept under the pequiá tree. [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 25a)
+1	xa	xa	NOUN	n	_	4	obl	4:obl	_
+2	diot	diot	NOUN	n	_	1	nmod	1:nmod	_
+3	pe	pe	ADP	pp	_	1	case	1:case	_
+4	o'xet	xet	VERB	vi	Aspect=Perf|Person=3	0	root	0:root	_
+
+# sent_id = 2008
+# text = wexey bi wida biopak o'yaoka
+# text_eng = In my dream, a jaguar killed a cow. [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 24a)
+1	wexey	xey	NOUN	n	Poss=Ali	5	obl	5:obl	_
+2	bi	bi	ADP	pp	_	1	case	1:case	_
+3	wida	wida	NOUN	n	_	5	obl	5:obl	_
+4	biopak	biopak	NOUN	n	_	5	obl	5:obl	_
+5	o'yaoka	aoka	VERB	vt	Áspect=Perf|Person=33	0	root	0:root	_
+
+# sent_id = 2009
+# text = kat pujeat ocemudirem
+# text_eng = The (rain) that came in the afternoon got us wet.	 [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 23a)
+1	kat	kat	NOUN	n	_	2	nmod	2:nmod	_
+2	pujeat	puje	NOUN	n	_	3	nsubj	3:nsubj	_
+3	ocemudirem	direm	VERB	vi	Aspect=Perf|Voice=Cau	0	root	0:root	_
+
+# sent_id = 2010
+# text = ag̃okatkat bio dakat puje bekicat o'suẽn'o
+# text_eng = After the man cut the tapir, the child ate its meat. [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 22b)
+1	ag̃okatkat	ag̃okatkat	NOUN	n	_	3	nsubj	3:nsubj	_
+2	bio	bio	NOUN	n	_	3	obj	3:obj	_
+3	dakat	dakat	VERB	vt	_	6	advcl	6:advcl	_
+4	puje	puje	ADP	pp	_	3	mark	3:mark	_
+5	bekicat	bekicat	NOUN	n	_	6	obl	6:obl	_
+6	o'suẽn'o	ẽn'o	VERB	vi	Aspect=Perf|Person=3	0	root	0:root	_
+
+# sent_id = 2011
+# text = ey'at pima ocewayway jĩjã
+# text_eng = When you fell, I laughed a lot. [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 21a)
+1	ey'at	'at	VERB	vi	Aspect=Perf|Person=2	3	advcl	3:advcl	_
+2	pima	pima	ADP	_	_	1	case	1:case	_
+3	ocewayway	wayway	VERB	vi	Aspect=Perf|Person=1|Voice=Mid	0	root	0:root	_
+4	jĩjã	jĩjã	ADV	adv	_	3	advmod	3:advmod	_
+
+# sent_id = 2012
+# text = ixem õn wetaybit g̃u ojojo g̃u ma buye
+# text_eng = I do not know that one, because I did not see it. [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 20c)
+1	ixem	ixe	PRON	pro	_	3	obj	3:obj	_
+2	õn	õn	PRON	pro	_	3	obl	3:obl	_
+3	wetaybit	etaybit	VERB	vt	Aspect=Imp|Person=1	0	root	0:root	_
+4	g̃u	g̃u	PART	npart	Polarity=Neg	3	aux	3:aux	_
+5	ojojo	jo	VERB	vt	Aspect=Perf|Person=13	3	advcl	3:advcl	_
+6	g̃u	g̃u	PART	npart	_	5	aux	5:aux	_
+7	ma	ma	ADV	adv	_	5	advmod	5:advmod	_
+8	buye	buye	SCONJ	sconj	_	5	mark	5:mark	_
+
+# sent_id = 2013
+# text = ag̃okatkat bio aoka buje wida o'jenapõn
+# text_eng = After the man killed the tapir, the jaguar ran away. [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 19a)
+1	ag̃okatkat	ag̃okatkat	NOUN	n	_	3	nsubj	3:nsubj	_
+2	bio	bio	NOUN	n	_	3	obj	3:obj	_
+3	aoka	aoka	VERB	vt	_	6	advcl	6:advcl	_
+4	buje	buje	SCONJ	sconj	_	3	mark	3:mark	_
+5	wida	wida	NOUN	n	_	6	obl	6:obl	_
+6	o'jenapõn	napõn	VERB	vi	Aspect=Perf|Person=3|Voice=Mid	0	root	0:root	_
+
+# sent_id = 2014
+# text = ejot cuy , muto'o bima , kaxi wuyase bima
+# text_eng = I want you to come on Sunday, at noon. (Lit.: ‘Come when it will be Sunday, when the sun will be well above us.’) [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019,	18d)
+1	ejot	jot	VERB	vi	Aspect=Imp|Person=2	0	root	0:root	_
+2	cuy	cuy	PART	imppart	_	1	discourse	1:discourse	_
+3	,	,	PUNCT	punct	_	4	punct	4:punct	_
+4	muto'o	muto'o	NOUN	n	_	1	advcl	1:advcl	_
+5	bima	bima	ADP	pp	_	4	case	4:case	_
+6	,	,	PUNCT	punct	_	7	punct	7:punct	_
+7	kaxi	kaxi	NOUN	n	_	4	nmod:tmod	4:nmod:tmod	_
+8	wuyase	ase	ADP	pp	_	7	case	7:case	_
+9	bima	bima	ADP	pp	_	7	case	7:case	_
+
+# sent_id = 2015
+# text = pug̃ em o'e jeebay be
+# text_eng = Once, the son told his own father. [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 17a)
+1	pug̃ 	pug̃ 	NUM	num	_	3	obl	3:obl	_
+2	em	em	ADP	pp	_	1	flat	1:flat	_
+3	o'e	'e	VERB	vi 	Aspect=Perf|Person=3	0	root	0:root	_
+4	jeebay	bay	NOUN	n	Poss=Yes	3	obl	3:obl	_
+5	be	be	ADP	pp	_	4	case	4:case	_
+
+# sent_id = 2016
+# text = jeorokap wap ip o'ju
+# text_eng = They went before the hunt. [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 16d)
+1	jeorokap	jeorok	NOUN	n	_	4	obl	4:obl	_
+2	wap	wap	ADP	pp	_	1	case	1:case	_
+3	ip	ip	PRON	pro	_	4	obl	4:obl	_
+4	o'ju	cu	VERB	vi	Aspect=Perf|Person=3	0	root	0:root	_
+
+# sent_id = 2017
+# text = ag̃okatkat itakomã jijã o'e wida buxim
+# text_eng = The man got very angry, like a jaguar. [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 14d)
+1	ag̃okatkat	ag̃okatkat	NOUN	n	_	2	obl	2:obl	_
+2	itakomã	takomã	VERB	vi	Person=3	0	root	0:root	_
+3	jijã	jijã	ADV	adv	_	2	advmod	2:advmod	_
+4	o'e	o'e	AUX	aux	_	2	aux	2:aux	_
+5	wida	wida	NOUN	n	_	2	obl	2:obl	_
+6	buxim	buxim	ADP	pp	_	5	case	5:case	_
+
+# sent_id = 2018
+# text = kobe xixi badi wi o'jebuk	
+# text_eng = A huge ship appeared from inside (the lake). [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 13a)
+1	kobe	kobe	NOUN	n	_	5	obl	5:obl	_
+2	xixi	xixi	NOUN	n	_	1	nmod	1:nmod	_
+3	badi	badi	ADV	adv	_	5	obl:lmod	5:obl:lmod	_
+4	wi	wi	ADP	pp	_	3	case	3:case	_
+5	o'jebuk	buk	VERB	vi	Aspect=Perf|Number=Sing|Person=3|Voice=Mid	0	root	0:root	_
+
