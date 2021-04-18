@@ -909,3 +909,16 @@
 3	ag̃okatkat	ag̃okatkat	NOUN	n	_	2	obl	2:obl	_
 4	pe	pe	ADP	posp	_	3	case	3:case	_
 
+# sent_id = 5004
+# text = ceebay icokcok cicã idip cicã buye bekicat yadappek
+# text_eng = His father was glad, because he was a very very pretty child, he had blond hair.  Gomes 2006: 238 (27d)
+# text_por = O pai dele se admirava (da sua beleza), pois era o garoto muito bonito e com os cabelos loiros
+1	ceebay	bay	NOUN	n	Number=Sing|Person=3|Poss=Ali	2	nsubj	2:nsubj	_
+2	icokcok	cok	NOUN	n	Rel=NCont	0	root	0:root	_
+3	cicã	cicã	ADV	adv	_	4	advmod	4:advmod	_
+4	idip	dip	NOUN	n	Rel=NCont	2	advcl	2:advcl	_
+5	cicã	cicã	ADV	a	_	4	advmod	4:advmod	_
+6	buye	buye	CCONJ	cc	_	4	mark	4:mark	_
+7	bekicat	bekicat	NOUN	n	_	4	nsubj	4:nsubj	_
+8	yadappek	adappek	NOUN	n	Rel=NCont	7	parataxis	7:parataxis	_
+
