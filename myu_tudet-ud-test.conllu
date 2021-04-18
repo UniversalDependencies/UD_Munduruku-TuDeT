@@ -853,3 +853,15 @@
 7	ojuyiap	ojuy	NOUN	n	Nomzr=Pa	3	advcl	3:advcl	_
 8	tag̃	dag̃	ADP	posp	Rel=Cont	7	case	7:case	_
 
+# sent_id = 3002
+# text = Kapusu dapsem o'yaokaiat g̃oku , Katõ bewi oajẽmiat
+# text_eng = Aquele é o que ontem matou o veado, o que chegou de Katõ.
+1	Kapusu	kapusu	ADV	adv	_	3	advmod	3:advmod	_
+2	dapsem	dapsem	NOUN	n	_	3	obl	3:obl	_
+3	o'yaokaiat	aoka	NOUN	n	Nomzr=Ag|Person=33	0	root	0:root	_
+4	g̃oku	g̃oku	DET	dem	_	3	obl	3:obl	_
+5	,	,	PUNCT	punct	_	3	punct	3:punct	_
+6	Katõ	Katõ	PROPN	propn	_	8	obl	8:obl	_
+7	bewi	bewi	ADP	posp	_	6	case	6:case	_
+8	oajẽmiat	ajẽm	NOUN	n	Nomzr=Ag|Person=3	3	appos	3:appos	_
+
