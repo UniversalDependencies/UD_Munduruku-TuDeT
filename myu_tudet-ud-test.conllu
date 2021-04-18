@@ -922,3 +922,13 @@
 7	bekicat	bekicat	NOUN	n	_	4	nsubj	4:nsubj	_
 8	yadappek	adappek	NOUN	n	Rel=NCont	7	parataxis	7:parataxis	_
 
+# sent_id = 5005
+# text = ipi teg̃ kaxi bima o'taxadig̃curug̃
+# text_eng =     Gomes 2006: 238 (27f)
+# text_por = Quando o sol estava bem baixo, a fumaça do fogo apareceu.
+1	ipi	ipi	NOUN	n	_	2	nmod	2:nmod	_
+2	teg̃	teg̃	ADP	posp	_	5	advcl	5:advcl	_
+3	kaxi	kaxi	NOUN	n	_	2	nsubj	2:nsubj	_
+4	bima	bima	SCONJ	sc	_	3	advcl	3:advcl	_
+5	o'taxadig̃curug̃	_	VERB	v	Aspect=Per|Person=3|Rel=NCont	0	root	0:root	gloss=3-RNCont-fire-smoke.PERF
+
