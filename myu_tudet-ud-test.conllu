@@ -684,7 +684,7 @@
 # sent_id = 2003
 # text = oxi eg̃ru ipi tẽg̃
 # text_eng = My mother’s hammock was close to the ground. [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 5b)
-1	oxi	xi	NOUN	n	Number=Sing|Poss=Yes|Person=1	2	nmod:poss	2:nmod:poss	_
+1	oxi	xi	NOUN	n	Number=Sing|Poss=Ina|Person=1	2	nmod:poss	2:nmod:poss	_
 2	eg̃ru	g̃ru	NOUN	n	Poss=Ali|Rel=Cont	3	nsubj	3:nsubj	_
 3	ipi	ipi	NOUN	n	Rel=NCont	0	root	0:root	_
 4	tẽg̃	tẽg̃	ADP	pp	Rel=Cont	3	case	3:case	_
@@ -802,7 +802,7 @@
 1	pug̃ 	pug̃ 	NUM	num	_	3	obl	3:obl	_
 2	em	em	ADP	pp	_	1	flat	1:flat	_
 3	o'e	'e	VERB	vi 	Aspect=Perf|Person=3	0	root	0:root	_
-4	jeebay	bay	NOUN	n	Poss=Yes	3	obl	3:obl	_
+4	jeebay	bay	NOUN	n	Poss=Ina	3	obl	3:obl	_
 5	be	be	ADP	pp	_	4	case	4:case	_
 
 # sent_id = 2016
