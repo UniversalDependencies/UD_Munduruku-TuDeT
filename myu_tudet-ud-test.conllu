@@ -799,7 +799,7 @@
 # sent_id = 2015
 # text = pug̃ em o'e jeebay be
 # text_eng = Once, the son told his own father. [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 17a)
-1	pug̃  pug̃ 	NUM	num	_	3	obl	3:obl	_
+1	pug̃  pug̃  NUM	num	_	3	obl	3:obl	_
 2	em	em	ADP	pp	_	1	flat	1:flat	_
 3	o'e	'e	VERB	vi  Aspect=Perf|Person=3	0	root	0:root	_
 4	jeebay	bay	NOUN	n	Poss=Ina	3	obl	3:obl	_
