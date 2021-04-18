@@ -666,7 +666,7 @@
 6	be	be	ADP	pp	_	1	case	1:case	_
 
 # sent_id = 2001
-# text = wida ayacat'ũm o'yaoka	
+# text = wida ayacat'ũm o'yaoka
 # text_eng = The jaguar killed the woman. [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 2j')
 1	wida	wida	NOUN	n	_	3	obl	3:obl	_
 2	ayacat'ũm	ayacat	NOUN	n	Aspect=Dec|Number=Sing	3	obl	3:obl	_
@@ -684,7 +684,7 @@
 # sent_id = 2003
 # text = oxi eg̃ru ipi tẽg̃
 # text_eng = My mother’s hammock was close to the ground. [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 5b)
-1	oxi	xi	NOUN	n	Number=Sing|Poss=Ina|Person=1	2	nmod:poss	2:nmod:poss	_
+1	oxi	xi	NOUN	n	Number=Sing|Person=1|Poss=Ina	2	nmod	2:nmod	_
 2	eg̃ru	g̃ru	NOUN	n	Poss=Ali|Rel=Cont	3	nsubj	3:nsubj	_
 3	ipi	ipi	NOUN	n	Rel=NCont	0	root	0:root	_
 4	tẽg̃	tẽg̃	ADP	pp	Rel=Cont	3	case	3:case	_
