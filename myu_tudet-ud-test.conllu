@@ -900,3 +900,12 @@
 3	wamõat	wamõat	NOUN	n	_	2	obl	2:obl	_
 4	pe	pe	ADP	posp	_	3	case	3:case	_
 
+# sent_id = 5003
+# text = wida o'jeaokaat ag̃okatkat pe
+# text_eng = The jaguar was killed by the man / The jaguar made itself be killed by the man Gomes 2006: 71 (33b)
+# text_por = A onça foi morta pelo homem / A onça se deixou matar pelo homem 
+1	wida	wida	NOUN	n	_	2	obl	2:obl	_
+2	o'jeaokaat	aoka	VERB	v	Person=3|Voice=MidCau	0	root	0:root	_
+3	ag̃okatkat	ag̃okatkat	NOUN	n	_	2	obl	2:obl	_
+4	pe	pe	ADP	posp	_	3	case	3:case	_
+
