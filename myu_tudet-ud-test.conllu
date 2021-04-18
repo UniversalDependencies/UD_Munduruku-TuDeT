@@ -834,7 +834,7 @@
 
 # sent_id = 3000
 # text = Kog̃ũnpi be okapap kabuk opop
-# text_eng = The my birth is on the field.  Crofts 2004 286
+# text_eng = The longhouse of my birth lies in the field.  Crofts 2004 286
 1	Kog̃ũnpi	kog̃ũnpi	NOUN	_	_	5	obl	5:obl	_
 2	be	be	ADP	posp	_	1	case	1:case	_
 3	okapap	kap	NOUN	n	Nomzr=Pa|Person=3	4	nmod	4:nmod	_
