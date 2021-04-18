@@ -824,7 +824,7 @@
 6	buxim	buxim	ADP	pp	_	5	case	5:case	_
 
 # sent_id = 2018
-# text = kobe xixi badi wi o'jebuk	
+# text = kobe xixi badi wi o'jebuk
 # text_eng = A huge ship appeared from inside (the lake). [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 13a)
 1	kobe	kobe	NOUN	n	_	5	obl	5:obl	_
 2	xixi	xixi	NOUN	n	_	1	nmod	1:nmod	_
