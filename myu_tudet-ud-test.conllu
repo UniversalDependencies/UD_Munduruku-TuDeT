@@ -843,7 +843,7 @@
 
 # sent_id = 3001
 # text = Jeorog̃ ip cum kapusu daje aoka ojuyiap tag̃
-# text_eng = The are going to hunt where they wanted to kill the peccary yesterday.  Crofts 2004: 209
+# text_eng = They are going to hunt where they wanted to kill the peccary yesterday.  Crofts 2004: 209
 1	Jeorog̃	jeorog̃	VERB	v	Aspect=Imp|Voice=Mid	0	root	0:root	_
 2	ip	ip	PART	pcl	Number=Plur	1	dep	1:dep	_
 3	cum	cu	AUX	aux	Aspect=Imp	1	aux	1:aux	_
