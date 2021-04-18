@@ -698,7 +698,7 @@
 4	xe	xe	ADP	pp	Rel=Cont	3	case	3:case	_
 
 # sent_id = 2005
-# text = ixe iẽn 'o'om kaw ta eju	
+# text = ixe iẽn 'o'om kaw ta eju
 # text_eng = He eats meat with salt. [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 7d)
 1	ixe	ixe	PRON	pro	PronType=Dem	3	nsubj	3:nsubj	_
 2	iẽn	ẽn	NOUN	n	Rel=NCont	3	obj	3:obj	_
@@ -711,7 +711,7 @@
 # text = puybit kug̃ o'ju bio kug̃ , dapsem kug̃
 # text_eng = They went with game meat: with tapir and deer. [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 8c)
 1	puybit	puybit	NOUN	n	_	3	obl	3:obl	_
-2	kug̃ 	kug̃ 	ADP	pp	Rel=Cont	1	case	1:case	_
+2	kug̃  kug̃ 	ADP	pp	Rel=Cont	1	case	1:case	_
 3	o'ju	ju	VERB	vi	Aspect=Perf|Number=Plur|Person=3	0	root	0:root	_
 4	bio	bio	NOUN	n	_	1	conj	1:conj	_
 5	kug̃ 	kug̃ 	ADP	pp	Rel=Cont	4	case	4:case	_
