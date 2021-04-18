@@ -792,7 +792,7 @@
 4	muto'o	muto'o	NOUN	n	_	1	advcl	1:advcl	_
 5	bima	bima	ADP	pp	_	4	case	4:case	_
 6	,	,	PUNCT	punct	_	7	punct	7:punct	_
-7	kaxi	kaxi	NOUN	n	_	4	nmod:tmod	4:nmod:tmod	_
+7	kaxi	kaxi	NOUN	n	_	4	nmod	4:nmod	_
 8	wuyase	ase	ADP	pp	_	7	case	7:case	_
 9	bima	bima	ADP	pp	_	7	case	7:case	_
 
