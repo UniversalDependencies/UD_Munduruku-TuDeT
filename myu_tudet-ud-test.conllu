@@ -828,7 +828,7 @@
 # text_eng = A huge ship appeared from inside (the lake). [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 13a)
 1	kobe	kobe	NOUN	n	_	5	obl	5:obl	_
 2	xixi	xixi	NOUN	n	_	1	nmod	1:nmod	_
-3	badi	badi	ADV	adv	_	5	obl:lmod	5:obl:lmod	_
+3	badi	badi	ADV	adv	_	5	obl	5:obl	_
 4	wi	wi	ADP	pp	_	3	case	3:case	_
 5	o'jebuk	buk	VERB	vi	Aspect=Perf|Number=Sing|Person=3|Voice=Mid	0	root	0:root	_
 
