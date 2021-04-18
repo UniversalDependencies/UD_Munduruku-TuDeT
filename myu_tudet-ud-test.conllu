@@ -12,7 +12,7 @@
 # sent_id = 2
 # text = jexat o'tobuxik
 # text_eng = He found food
-1	jexat	xat	NOUN	n	Poss=Yes	2	obl	2:obl	_
+1	jexat	xat	NOUN	n	_	2	obl	2:obl	_
 2	o'tobuxik	dobuxik	VERB	v	Aspect=Perf|Number=Sing|Person=33	0	root	0:root	_
 
 # sent_id = 3
