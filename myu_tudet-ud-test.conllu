@@ -876,7 +876,18 @@
 # sent_id = 5000
 # text = wamõat ag̃okatkat o'sutayxida
 # text_ebg = The shaman married the man (lit: wifed the man). Gomes 2006: 80 (46a)
+# text_por = O pajé casou o homem (O pajé fez o homem ter esposa)
 1	wamõat	wamõat	NOUN	n	_	3	obl	3:obl	_
 2	ag̃okatkat	ag̃okatkat	NOUN	n	_	3	obl	3:obl	_
 3	o'sutayxida	tayxi	VERB	vt	Person=33|Trans=Yes	0	root	0:root	_
+
+# sent_id = 5001
+# text = õn ag̃okatkat o'sutayxidaat wamõat pe
+# text_eng = I made the man married thorugh the shamman. Gomes 2006: 80 (46b)
+# text_port = Eu fiz o pajé casar o homem
+1	õn	õn	PRON	pron	_	3	obl	3:obl	_
+2	ag̃okatkat	ag̃okatkat	NOUN	n	_	3	obl	3:obl	_
+3	o'sutayxidaat	tayxi	VERB	v	Person=33|Trans=Yes|Voice=Cau	0	root	0:root	_
+4	wamõat	wamõat	NOUN	n	_	3	obl	3:obl	_
+5	pe	pe	ADP	posp	_	4	case	4:case	_
 
