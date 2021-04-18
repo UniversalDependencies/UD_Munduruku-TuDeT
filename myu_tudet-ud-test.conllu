@@ -846,7 +846,7 @@
 # text_eng = They are going to hunt where they wanted to kill the peccary yesterday.  Crofts 2004: 209
 1	Jeorog̃	jeorog̃	VERB	v	Aspect=Imp|Voice=Mid	3	xcomp	3:xcomp	_
 2	ip	ip	PART	pcl	Number=Plur	1	dep	1:dep	_
-3	cum	cu	AUX	aux	Aspect=Imp	0	root	0:root	_
+3	cum	cu	VERB	vi	Aspect=Imp	0	root	0:root	_
 4	kapusu	kapusu	ADV	adv	_	7	advmod	7:advmod	_
 5	daje	daje	NOUN	n	_	6	obj	6:obj	_
 6	aoka	aoka	VERB	v	Aspect=Perf	7	ccomp	7:ccomp	_
