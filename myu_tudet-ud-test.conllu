@@ -873,3 +873,10 @@
 3	o'g̃u'ũm	'ũm	VERB	v	Person=3|Voice=Cau	0	root	0:root	_
 4	iwipat	wip	NOUN	n	Nomzr=Ag|Rel=NCont	1	appos	1:appos	_
 
+# sent_id = 5000
+# text = wamõat ag̃okatkat o'sutayxida
+# text_ebg = The shaman married the man (lit: wifed the man). Gomes 2006: 80 (46a)
+1	wamõat	wamõat	NOUN	n	_	3	obl	3:obl	_
+2	ag̃okatkat	ag̃okatkat	NOUN	n	_	3	obl	3:obl	_
+3	o'sutayxida	tayxi	VERB	vt	Person=33|Trans=Yes	0	root	0:root	_
+
