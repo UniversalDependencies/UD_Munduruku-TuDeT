@@ -896,7 +896,7 @@
 # text_eng = The man was married by the shaman. Gomes 2006: 80 (46c)
 # text_por = O homem foi casado pelo pajé
 1	ag̃okatkat	ag̃okatkat	NOUN	n	_	2	obl	2:obl	_
-2	o'jetayxidaat	tayxi	VERB	v	Person=3|Trans=Yes|Voice=Caus|Voice=Mid	0	root	0:root	_
+2	o'jetayxidaat	tayxi	VERB	v	Person=3|Trans=Yes|Voice=Cau|Voice=Mid	0	root	0:root	_
 3	wamõat	wamõat	NOUN	n	_	2	obl	2:obl	_
 4	pe	pe	ADP	posp	_	3	case	3:case	_
 
