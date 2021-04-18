@@ -701,7 +701,7 @@
 # text = ixe iẽn 'o'om kaw ta eju	
 # text_eng = He eats meat with salt. [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 7d)
 1	ixe	ixe	PRON	pro	PronType=Dem	3	nsubj	3:nsubj	_
-2	iẽn	ẽn	NOUN	n	Rel=Ncont	3	obj	3:obj	_
+2	iẽn	ẽn	NOUN	n	Rel=NCont	3	obj	3:obj	_
 3	'o'om	'o	VERB	vi	Aspect=Imp	0	root	0:root	_
 4	kaw	kaw	NOUN	n	_	2	nmod	2:nmod	_
 5	ta	da	NOUN	cl	Class=Seed	4	clf	4:clf	_
@@ -831,4 +831,13 @@
 3	badi	badi	ADV	adv	_	5	obl:lmod	5:obl:lmod	_
 4	wi	wi	ADP	pp	_	3	case	3:case	_
 5	o'jebuk	buk	VERB	vi	Aspect=Perf|Number=Sing|Person=3|Voice=Mid	0	root	0:root	_
+
+# sent_id = 3000
+# text = Kog̃ũnpi be okapap kabuk opop.
+# text_eng = The my birth is on the field.  Crofts 2004 286
+1	Kog̃ũnpi	kog̃ũnpi	NOUN	_	_	5	obl	5:obl	_
+2	be	be	ADP	posp	_	1	case	1:case	_
+3	okapap	kap	NOUN	n	Nomzr=Pa|Person=3	4	nmod	4:nmod	_
+4	kabuk	kabuk	NOUN	n	_	5	obl	5:obl	_
+5	opop	pop	AUX	aux	_	0	root	0:root	_
 
