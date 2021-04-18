@@ -764,14 +764,14 @@
 # sent_id = 2012
 # text = ixem õn wetaybit g̃u ojojo g̃u ma buye
 # text_eng = I do not know that one, because I did not see it. [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 20c)
-1	ixem	ixe	PRON	pro	_	3	obj	_	_
-2	õn	õn	PRON	pro	PronType=Prs	3	obl	_	_
-3	wetaybit	etaybit	VERB	vt	Aspect=Imp|Person=1	0	root	_	_
-4	g̃u	g̃u	PART	npart	Polarity=Neg	3	discourse	_	_
-5	ojojo	jo	VERB	vt	Aspect=Perf|Person=13	3	advcl	_	_
-6	g̃u	g̃u	PART	npart	Polarity=Neg	5	aux	_	_
-7	ma	ma	ADV	adv	_	5	advmod	_	_
-8	buye	buye	SCONJ	sconj	_	5	mark	_	_
+1	ixem	ixe	PRON	pro	_	3	obj	3:obj	_
+2	õn	õn	PRON	pro	PronType=Prs	3	obl	3:obl	_
+3	wetaybit	etaybit	VERB	vt	Aspect=Imp|Person=1	0	root	0:root	_
+4	g̃u	g̃u	PART	npart	Polarity=Neg	3	discourse	3:discourse	_
+5	ojojo	jo	VERB	vt	Aspect=Perf|Person=13	3	advcl	3:advcl	_
+6	g̃u	g̃u	PART	npart	Polarity=Neg	5	discourse	5:discourse	_
+7	ma	ma	ADV	adv	_	5	advmod	5:advmod	_
+8	buye	buye	SCONJ	sconj	_	5	mark	5:mark	_
 
 # sent_id = 2013
 # text = ag̃okatkat bio aoka buje wida o'jenapõn
