@@ -932,3 +932,14 @@
 4	bima	bima	SCONJ	sc	_	3	advcl	3:advcl	_
 5	o'taxadig̃curug̃	_	VERB	v	Aspect=Perf|Person=3|Rel=NCont	0	root	0:root	gloss=3-RNCont-fire-smoke.PERF
 
+
+# sent_id = 5006
+# text = Kapusu oajẽm owag̃o duk'a be
+# text_eng = Yesterday I arrived at my sister's house.  Crofts 2004: 148
+# text_por = Ontem cheguei à casa da minha irmã.
+1	Kapusu	kapusu	ADV	adv	_	2	advcl	2:advcl	_
+2	oajẽm	ajẽm	VERB	vi	Aspect=Perf|Number=Sing|Person=1	0	root	0:root	_
+3	owag̃o	wag̃o	NOUN	n	Number=Sing|Person=1|Poss=Ina	4	nmod	4:nmod	_
+4	duk'a	uk	NOUN	n	Class=Round|Rel=Cont	2	obl	2:obl	_
+5	be	be	ADP	posp	_	4	case	4:case	_
+
