@@ -976,3 +976,14 @@
 5	eg̃rũ	rũ	NOUN	n	Number=Sing|Person=2	4	obl	4:obl	_
 6	be	be	ADP	posp	_	5	case	5:case	_
 
+# sent_id = 5010
+# text = Puybit aoka'ũm pima , irere jeedop ip
+# text_eng = If you don't kill the prey, you'll be hungry. Crofts 2004: 264
+# text_por = Enquanto não matarem caça, vão ficar com fome. / Vão ficar com fome até que matem caça
+1	Puybit	puybit	NOUN	n	_	2	obj	_	_
+2	aoka'ũm	aoka	VERB	v	Aspect=Perf|Polarity=Neg	6	advcl	_	_
+3	pima	pima	SCONJ	_	_	2	mark	_	_
+4	,	,	PUNCT	punct	_	2	punct	_	_
+5	irere	rere	NOUN	n	Rel=NCont	_	_	_	_
+6	jeedop	e'em	VERB	v	Number=Plur|Tense=Fut	0	root	_	_
+
