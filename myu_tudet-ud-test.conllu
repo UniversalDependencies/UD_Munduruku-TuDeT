@@ -994,6 +994,6 @@
 # text_por = Aquele é o que ontem matou o veado
 1	Kapusu	kapusu	ADV	adv	_	3	advmod	3:advmod	_
 2	dapsem	dapsem	NOUN	n	_	3	nmod	3:nmod	_
-3	o'yaokaiat	aoka	NOUN	n	Nomzr=Ag|Number=Sing|Person=33	4	appos	4:appos	_
+3	o'yaokaiat	aoka	NOUN	n	Nomzr=Ag|Number=Sing|Person=33	4	nmod	4:nmod	_
 4	g̃oku	g̃oku	DET	dem	_	0	root	0:root	_
 
