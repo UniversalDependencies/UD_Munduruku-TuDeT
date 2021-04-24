@@ -3,8 +3,7 @@
 # Summary
 
 
-UD_Munduruku-TuDeT is a collection of annotated sentences in <a href="http://www.endangeredlanguages.com/lang/2981">Mundurukú</a>.
-Together with <a href="http://www.endangeredlanguages.com/lang/2981">UD_Akuntsu-TuDeT</a> and <a href="https://github.com/UniversalDependencies/UD_Tupinamba-TuDeT">UD_Tupinamba-TuDeT</a>, UD_Munduruku-TuDeT is part of <a href="https://tular.org">TuLaR</a>. 
+UD_Munduruku-TuDeT is a collection of annotated sentences in [Mundurukú](http://www.endangeredlanguages.com/lang/2981). The project is a work in progress and the treebank is being updated on a regular basis.
 
 </br>
 </br>
@@ -14,7 +13,7 @@ Together with <a href="http://www.endangeredlanguages.com/lang/2981">UD_Akuntsu-
 
 # Introduction
 
-UD_Munduruku-TuDeT is a collection of annotated sentences in Mundurukú. Together with [UD_Akuntsu-TuDeT](https://github.com/UniversalDependencies/UD_Akuntsu-TuDeT) and [UD_Tupinamba-TuDeT](https://github.com/UniversalDependencies/UD_Tupinamba-TuDeT), UD_Munduruku-TuDeT is part of the [TuLaR](https://tular.org) project. The sentences are being annotated by Fabrício Ferraz Gerardi and Eva Huber.
+UD_Munduruku-TuDeT is a collection of annotated sentences in Mundurukú. It is part of [TuLaR](https://tular.clld.org), Tupían Language Resources, which contains other languages -- see [TuDeT](https://tular.clld.org/contributions/tudet). The sentences are being annotated by Fabrício Ferraz Gerardi and Eva Huber.
 
 ## Text sources
 
