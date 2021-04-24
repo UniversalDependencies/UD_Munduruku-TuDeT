@@ -997,3 +997,12 @@
 3	o'yaokaiat	aoka	NOUN	n	Nomzr=Ag|Number=Sing|Person=33	4	nmod	4:nmod	_
 4	g̃oku	g̃oku	DET	dem	_	0	root	0:root	_
 
+# sent_id = 794578
+# text = xepxep pa akoba o'suba'o
+# text_eng = He ate two bananas. (Martines 2007: 65)
+# text_por = Ele comeu duas bananas
+1	xepxep	xepxep	NUM	num	NumType=Card	2	nummod	2:nummod	_
+2	pa	ba	NOUN	n	Class=CilRig	3	nmod	3:nmod	_
+3	akoba	ako	NOUN	n	Class=CilRig	4	obl	4:obl	_
+4	o'suba'o	'o	VERB	v	Class=CilRig|Person=3|Rel=NCont	0	root	0:root	gloss=3-RN-CLA-eat
+
