@@ -1006,3 +1006,14 @@
 3	akoba	ako	NOUN	n	Class=CilRig	4	obl	4:obl	_
 4	o'suba'o	'o	VERB	v	Class=CilRig|Person=3|Rel=NCont	0	root	0:root	gloss=3-RN-CLA-eat
 
+# sent_id = 07337
+# text = xek pu o'subumõg̃mõg̃ wita 'a be
+# text_eng = He drew a caterpillar on the stone (Gomes 2008: 26)
+text_por = Fez um desenho de lagarta na pedra
+1	xek	xek	NOUN	n	_	3	obl	3:obl	_
+2	pu	pu	NOUN	n	Class=CilFlx	1	clf	1:clf	_
+3	o'subumõg̃mõg̃	mõg̃	VERB	v	Aspect=Perf|Class=CilFlx|Person=3|RelNCont	0	root	0:root	_
+4	wita	wita	NOUN	n	_	3	obl	3:obl	_
+5	'a	'a	NOUN	n	Class=CilFlx	4	clf	4:clf	_
+6	be	be	ADP	posp	_	4	case	4:case	_
+
