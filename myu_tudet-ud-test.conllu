@@ -1017,3 +1017,13 @@
 5	'a	'a	NOUN	n	Class=CilFlx	4	clf	4:clf	_
 6	be	be	ADP	posp	_	4	case	4:case	_
 
+# sent_id = 0788637
+# text = Uk'a yadip o'yanuy
+# text_eng = The house was (looking) beautiful (Comodo 1981: 39)
+# text_por = A casa estava bonita
+1-2	Uk'a	_	_	_	_	_	_	_	_
+1	Uk	_	NOUN	n	_	3	nsubj	3:nsubj	_
+2	'a	_	NOUN	n	Class=Round	1	clf	1:clf	_
+3	yadip	dip	NOUN	n	Class=Round|Rel=NCont	0	root	0:root	_
+4	o'yanuy	nuy	AUX	aux	Class=Round|Person=3|Rel=NCont	3	cop	3:cop	_
+
