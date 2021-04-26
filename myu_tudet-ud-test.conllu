@@ -875,7 +875,7 @@
 
 # sent_id = 5000
 # text = wamõat ag̃okatkat o'sutayxida
-# text_ebg = The shaman married the man (lit: wifed the man). Gomes 2006: 80 (46a)
+# text_eng = The shaman married the man (lit: wifed the man). Gomes 2006: 80 (46a)
 # text_por = O pajé casou o homem (O pajé fez o homem ter esposa)
 1	wamõat	wamõat	NOUN	n	_	3	obl	3:obl	_
 2	ag̃okatkat	ag̃okatkat	NOUN	n	_	3	obl	3:obl	_
