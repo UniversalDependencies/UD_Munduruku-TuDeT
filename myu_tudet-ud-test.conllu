@@ -1027,3 +1027,12 @@
 3	yadip	dip	NOUN	n	Class=Round|Rel=NCont	0	root	0:root	_
 4	o'yanuy	nuy	AUX	aux	Class=Round|Person=3|Rel=NCont	3	cop	3:cop	_
 
+# sent_id = 0788637
+# text = kapedi tidaxip
+# text_eng = The coffee is hot (Comodo 1981: 41)
+# text_por = O café está quente
+1-2	kapedi	_	_	_	_	_	_	_	_
+1	kape	kape	NOUN	n_	_	3	nsubj	3:nsubj	_
+2	di	di	NOUN	n	Class=Liquid	1	clf	1:clf	_
+3	tidaxip	daxip	NOUN	n	Class=Liquid	0	root	0:root	_
+
