@@ -17,8 +17,14 @@ UD_Munduruku-TuDeT is a collection of annotated sentences in Mundurukú. It is p
 
 ## Text sources
 
-* *Mõnjoroko ã'õ - Cartilha Mundurukú 2, 3 and 5*. SIL, 1965; 
-* *Aypapayũ'ũm'ũm ekawẽn*, SIL, 1977.
+* Mõnjoroko ã'õ - Cartilha Mundurukú 2, 3 and 5*. SIL, 1965; 
+* Aypapayũ'ũm'ũm ekawẽn*, SIL, 1977.
+* Crofts, M. (2004). _Aspectos da língua munduruku_. Sil.
+* Crofts, M. (?). Ideófonos na narração Mundurukú. Sil.
+* Comodo, C. H. R. (1981). _Corcordância em mundurukú_. Universidade de Campinas. Unpublished master's thesis.
+* Gomes, D. M. (2008). Incorporação nominal em Mundurukú (Tupí). Universidade de Brasília.
+* Gomes, D. M. (2019). Postpositions in Munduruku (Tupi): Formal and Functional Features. Forma y Función, 32(2), 109-150.
+* Gomes, D. M. (2006). Estudo morfológico e sintático da língua mundurukú. Universidade de Brasília. Unpublished PhD thesis.
 
 
 # Acknowledgments
