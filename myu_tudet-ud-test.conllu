@@ -1036,3 +1036,13 @@
 2	di	di	NOUN	n	Class=Liquid	1	clf	1:clf	_
 3	tidaxip	daxip	NOUN	n	Class=Liquid	0	root	0:root	_
 
+# sent_ID = 714536276
+# text = ebubut pupum tu epesot ?
+# text_eng = Did you come to buy things? (Crofts 2004: 222)
+# text_por = você veio comprar coisas ?
+1	ebubut	bubut	NOUN	n	Number=Plur|Person=2	2	obj	2:obj	_
+2	pupum	bu	VERB	vt	Aspect=Imp	4	cc	0:root|4:cc	_
+3	tu	tu	PART	pcl	_	2	discourse	2:discourse	_
+4	epesot	sot	VERB	vi	Number=Plur|Person=2	_	_	_	_
+5	?	?	PUNCT	punct	_	2	punct	2:punct	_
+
