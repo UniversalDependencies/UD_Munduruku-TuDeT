@@ -5,68 +5,101 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>62</sentences><tokens>266</tokens><words>271</words><fused>5</fused></total>
+    <total><sentences>109</sentences><tokens>507</tokens><words>515</words><fused>8</fused></total>
     <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
-    <test><sentences>62</sentences><tokens>266</tokens><words>271</words><fused>5</fused></test>
+    <test><sentences>109</sentences><tokens>507</tokens><words>515</words><fused>8</fused></test>
   </size>
-  <lemmas unique="89" /><!-- be, dobuxik, awawa, xe, tawe, toxaw, xat, ,, ?, ajẽm, awi, ku, puybit, 'a, abu -->
-  <forms unique="101" /><!-- be, o'tobuxik, awawa, tawe, toxaw, ,, ?, xe, awi, oajẽm, puybit, 'a, Abu, iku, jexat -->
-  <fusions unique="3" /><!-- uk'a, Ixat'a, Wexik'a -->
+  <lemmas unique="194" /><!-- be, dobuxik, ,, aoka, xe, awawa, ag̃okatkat, ajẽm, tawe, ?, toxaw, xat, pe, puybit, 'a -->
+  <forms unique="230" /><!-- be, o'tobuxik, ,, awawa, ag̃okatkat, tawe, ?, toxaw, xe, 'a, oajẽm, pe, puybit, ip, wida -->
+  <fusions unique="5" /><!-- uk'a, Ixat'a, Wexik'a, kapedi, uk‘a -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
-  <tags unique="13">
+  <tags unique="16">
     <tag name="ADJ">2</tag><!-- ba'orere, beg̃beg̃ -->
-    <tag name="ADP">37</tag><!-- be, xe, kay, jeje, pe, pima, puje, puye -->
-    <tag name="ADV">7</tag><!-- tak, dak, Kabiam, buje -->
-    <tag name="CCONJ">1</tag><!-- mẽnpit -->
+    <tag name="ADP">75</tag><!-- be, xe, pe, kay, kug̃, bima, eju, pima, puje, puye -->
+    <tag name="ADV">20</tag><!-- kapusu, dak, tak, cicã, Kabiam, acã, badi, buje, g̃axĩn, jijã -->
+    <tag name="AUX">5</tag><!-- kake, nuy, o'e, osunuy, pop -->
+    <tag name="CCONJ">2</tag><!-- buye, mẽnpit -->
+    <tag name="DET">2</tag><!-- g̃oku -->
     <tag name="INTJ">2</tag><!-- ka'ũma -->
-    <tag name="NOUN">122</tag><!-- awawa, tawe, toxaw, xat, awi, ku, puybit, 'a, wa'e, ka -->
-    <tag name="PART">7</tag><!-- ip, tu, du, juy -->
-    <tag name="PRON">11</tag><!-- abu, ade, soat, ite -->
-    <tag name="PROPN">1</tag><!-- Karosakaybu -->
-    <tag name="PUNCT">22</tag><!-- ,, ?, ., ! -->
-    <tag name="SCONJ">1</tag><!-- puye -->
-    <tag name="VERB">56</tag><!-- dobuxik, ajẽm, 'e, cu, opop, xe, aoka, kake, 'at, _ -->
-    <tag name="X">2</tag><!-- kuka, osunuy -->
+    <tag name="NOUN">225</tag><!-- awawa, ag̃okatkat, tawe, toxaw, xat, puybit, 'a, wida, awi, ku -->
+    <tag name="NUM">2</tag><!-- pug̃, xepxep -->
+    <tag name="PART">15</tag><!-- ip, tu, g̃u, cuy, du, juy, ma -->
+    <tag name="PRON">19</tag><!-- abu, ade, soat, õn, ixe, ip, ite, ẽn -->
+    <tag name="PROPN">3</tag><!-- Katõ, Karosakaybu -->
+    <tag name="PUNCT">29</tag><!-- ,, ?, ., ! -->
+    <tag name="SCONJ">6</tag><!-- bima, buje, buye, pima, pimap, puye -->
+    <tag name="VERB">105</tag><!-- dobuxik, aoka, ajẽm, 'e, cu, opop, tayxi, xe, xet, 'at -->
+    <tag name="X">3</tag><!-- cũg̃, kuka, osunuy -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="17">
+  <feats unique="40">
     <feat name="Aspect" value="Compl" upos="NOUN">1</feat><!-- ajojoyũ'ũm'ũm -->
-    <feat name="Aspect" value="DurImp" upos="VERB">1</feat><!-- mug̃ẽg̃ẽm -->
-    <feat name="Aspect" value="Imp" upos="VERB">7</feat><!-- cum, aokam, i'e'em, kukug̃, oajẽm -->
-    <feat name="Aspect" value="Perf" upos="VERB">27</feat><!-- o'tobuxik, oajẽm, oexe, ajẽm, ejomõg̃, o'at, o'e, o'g̃uju, o'titobuxik, oexexe -->
-    <feat name="Evident" value="Nfh" upos="VERB">3</feat><!-- o'e -->
-    <feat name="Mood" value="Imp" upos="VERB">1</feat><!-- ejomõg̃ -->
-    <feat name="Number" value="Plur" upos="NOUN,VERB">3</feat><!-- ajojoyũ'ũm'ũm, kukug̃, oexexe -->
-    <feat name="Number" value="Sing" upos="VERB">4</feat><!-- o'at, o'g̃uju, o'titobuxik, o'tobuxik -->
-    <feat name="Person" value="3" upos="VERB">21</feat><!-- o'tobuxik, oajẽm, oexe, aokam, kukug̃, o'at, o'e, oexexe -->
-    <feat name="Person" value="33" upos="VERB">7</feat><!-- o'tobuxik, o'g̃uju, o'titobuxik -->
-    <feat name="Polarity" value="Neg" upos="NOUN">1</feat><!-- ikukpin'ũm -->
-    <feat name="Poss" value="Yes" upos="NOUN">1</feat><!-- jexat -->
+    <feat name="Aspect" value="Dec" upos="NOUN">1</feat><!-- ayacat'ũm -->
+    <feat name="Aspect" value="DurIprf" upos="VERB">1</feat><!-- mug̃ẽg̃ẽm -->
+    <feat name="Aspect" value="Imp" upos="VERB">13</feat><!-- cum, 'o'om, Jeorog̃, aokam, ejot, i'e'em, kukug̃, oajẽm, pupum, wetaybit -->
+    <feat name="Aspect" value="Perf" upos="VERB">55</feat><!-- o'tobuxik, oajẽm, o'yaoka, o'e, o'ju, o'titobuxik, o'xet, oexe, ajẽm, aoka -->
+    <feat name="Class" value="CilFlx" upos="NOUN,VERB">3</feat><!-- 'a, o'subumõg̃mõg̃, pu -->
+    <feat name="Class" value="CilRig" upos="NOUN,VERB">3</feat><!-- akoba, o'suba'o, pa -->
+    <feat name="Class" value="Liquid" upos="NOUN,VERB">4</feat><!-- Wuy'adapmude'o'onapti, di, otibu, tidaxip -->
+    <feat name="Class" value="Round" upos="AUX,NOUN">5</feat><!-- 'a, duk'a, o'yanuy, yadip -->
+    <feat name="Class" value="Seed" upos="NOUN">1</feat><!-- ta -->
+    <feat name="Clusivity" value="Ex" upos="NOUN">1</feat><!-- Wuy'adapmude'o'onapti -->
+    <feat name="Evident" value="Nfh" upos="VERB">4</feat><!-- o'e, io'e -->
+    <feat name="Incorp" value="Yes" upos="VERB">1</feat><!-- o'titobuxik -->
+    <feat name="Mood" value="Imp" upos="VERB">2</feat><!-- ecepe, ejomõg̃ -->
+    <feat name="Nomzr" value="Ag" upos="NOUN">4</feat><!-- o'yaokaiat, iwipat, oajẽmiat -->
+    <feat name="Nomzr" value="Pa" upos="NOUN">3</feat><!-- Wuy'adapmude'o'onapti, ojuyiap, okapap -->
+    <feat name="Noun" value="Clf" upos="NOUN">2</feat><!-- duk'a, wexik'a -->
+    <feat name="Number" value="Plur" upos="NOUN,PART,VERB">11</feat><!-- ip, Wuy'adapmude'o'onapti, ajojoyũ'ũm'ũm, ebubut, epesot, io'e, jeedop, kukug̃, o'ju, oexexe -->
+    <feat name="Number" value="Sing" upos="NOUN,VERB">19</feat><!-- oajẽm, Eg̃uycũg̃, ayacat'ũm, ceebay, ecepe, eg̃rũ, eg̃ũm, o'at, o'g̃uju, o'jebuk -->
+    <feat name="NumType" value="Card" upos="NUM">1</feat><!-- xepxep -->
+    <feat name="Person" value="1" upos="NOUN,VERB">10</feat><!-- oajẽm, wetabut, Wuy'adapmude'o'onapti, ocewayway, otibu, owag̃o, oxi, wetaybit -->
+    <feat name="Person" value="13" upos="VERB">2</feat><!-- og̃uyjayjay, ojojo -->
+    <feat name="Person" value="2" upos="NOUN,VERB">8</feat><!-- Eg̃uycũg̃, ebubut, ecepe, eg̃rũ, eg̃ũm, ejot, epesot, ey'at -->
+    <feat name="Person" value="3" upos="AUX,NOUN,VERB">47</feat><!-- o'tobuxik, oajẽm, o'e, o'ju, o'xet, oexe, aokam, ceebay, io'e, itakomã -->
+    <feat name="Person" value="33" upos="NOUN,VERB">13</feat><!-- o'tobuxik, o'yaoka, o'yaokaiat, o'g̃uju, o'sutayxida, o'sutayxidaat, o'titobuxik -->
+    <feat name="Polarity" value="Neg" upos="NOUN,PART,VERB">4</feat><!-- g̃u, aoka'ũm, ikukpin'ũm -->
+    <feat name="Poss" value="Ali" upos="NOUN">4</feat><!-- ceebay, eg̃ru, wekobe, wexey -->
+    <feat name="Poss" value="Ina" upos="NOUN">4</feat><!-- oxi, jeebay, owag̃o -->
+    <feat name="PronType" value="Dem" upos="PRON">1</feat><!-- ixe -->
+    <feat name="PronType" value="Ind" upos="PRON">1</feat><!-- Soat -->
+    <feat name="PronType" value="Prs" upos="PRON">1</feat><!-- õn -->
     <feat name="Red" value="Ex" upos="NOUN">1</feat><!-- ixaxet -->
     <feat name="Reflex" value="Yes" upos="NOUN">1</feat><!-- jeku -->
-    <feat name="Rel" value="Cont" upos="ADP,NOUN">2</feat><!-- ikukpin'ũm, puje -->
-    <feat name="Rel" value="NCont" upos="NOUN">1</feat><!-- taxit -->
-    <feat name="Voice" value="Cau" upos="VERB">1</feat><!-- o'g̃uju -->
+    <feat name="Rel" value="Cont" upos="ADP,NOUN">16</feat><!-- kug̃, be, duk'a, kay, Wuy'adapmude'o'onapti, eg̃ru, ikukpin'ũm, puje, tag̃, tẽg̃ -->
+    <feat name="Rel" value="NCont" upos="ADP,AUX,NOUN,VERB">17</feat><!-- Tit, eju, i'e'em, icokcok, idip, ipi, irere, iwipat, ixi, iẽn -->
+    <feat name="Tense" value="Fut" upos="VERB">1</feat><!-- jeedop -->
+    <feat name="Trans" value="Yes" upos="VERB">3</feat><!-- o'jetayxidaat, o'sutayxida, o'sutayxidaat -->
+    <feat name="Voice" value="Cau" upos="NOUN,VERB">6</feat><!-- Wuy'adapmude'o'onapti, o'g̃u'ũm, o'g̃uju, o'sutayxidaat, ocemudirem, og̃uyjayjay -->
+    <feat name="Voice" value="Mid" upos="VERB">4</feat><!-- Jeorog̃, o'jebuk, o'jenapõn, ocewayway -->
+    <feat name="Voice" value="MidCau" upos="VERB">2</feat><!-- o'jeaokaat, o'jetayxidaat -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="17">
-    <dep name="advcl">4</dep>
-    <dep name="advmod">6</dep>
+  <deps unique="24">
+    <dep name="advcl">17</dep>
+    <dep name="advmod">17</dep>
     <dep name="amod">3</dep>
-    <dep name="appos">4</dep>
-    <dep name="case">36</dep>
+    <dep name="appos">6</dep>
+    <dep name="aux">2</dep>
+    <dep name="case">71</dep>
     <dep name="cc">1</dep>
-    <dep name="ccomp">1</dep>
-    <dep name="clf">1</dep>
-    <dep name="dep">10</dep>
-    <dep name="discourse">3</dep>
-    <dep name="mark">2</dep>
-    <dep name="nmod">25</dep>
-    <dep name="nsubj">24</dep>
-    <dep name="obj">7</dep>
-    <dep name="obl">60</dep>
-    <dep name="punct">22</dep>
-    <dep name="root">62</dep>
+    <dep name="ccomp">3</dep>
+    <dep name="clf">10</dep>
+    <dep name="conj">2</dep>
+    <dep name="cop">1</dep>
+    <dep name="dep">18</dep>
+    <dep name="discourse">8</dep>
+    <dep name="flat">1</dep>
+    <dep name="mark">8</dep>
+    <dep name="nmod">38</dep>
+    <dep name="nsubj">36</dep>
+    <dep name="nummod">1</dep>
+    <dep name="obj">15</dep>
+    <dep name="obl">117</dep>
+    <dep name="parataxis">1</dep>
+    <dep name="punct">29</dep>
+    <dep name="root">109</dep>
+    <dep name="xcomp">1</dep>
   </deps>
 </treebank>
