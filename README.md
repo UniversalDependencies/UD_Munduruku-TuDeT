@@ -2,19 +2,29 @@
 
 # Summary
 
-UD_Munduruku-TuDeT is a collection of annotated sentences in [Mundurukú](http://www.endangeredlanguages.com/lang/2981). Together with [UD_Akuntsu-TuDeT](https://github.com/UniversalDependencies/UD_Akuntsu-TuDeT) and [UD_Tupinamba-TuDeT](https://github.com/UniversalDependencies/UD_Tupinamba-TuDeT), UD_Munduruku-TuDeT is part of the [TuLaR](https://tular.org) project.
 
+UD_Munduruku-TuDeT is a collection of annotated sentences in [Mundurukú](http://www.endangeredlanguages.com/lang/2981). The project is a work in progress and the treebank is being updated on a regular basis.
 
-
+</br>
+</br>
+</br>
+</br>
+</br>
 
 # Introduction
 
-UD_Munduruku-TuDeT is a collection of annotated sentences in Mundurukú. Together with [UD_Akuntsu-TuDeT](https://github.com/UniversalDependencies/UD_Akuntsu-TuDeT) and [UD_Tupinamba-TuDeT](https://github.com/UniversalDependencies/UD_Tupinamba-TuDeT), UD_Munduruku-TuDeT is part of the [TuLaR](https://tular.org) project. The sentences are being annotated by Fabrício Ferraz Gerardi and Eva Huber.
+UD_Munduruku-TuDeT is a collection of annotated sentences in Mundurukú. It is part of [TuLaR](https://tular.clld.org), Tupían Language Resources, which contains other languages -- see [TuDeT](https://tular.clld.org/contributions/tudet). The sentences are being annotated by Fabrício Ferraz Gerardi and Eva Huber.
 
 ## Text sources
 
-* *Mõnjoroko ã'õ - Cartilha Mundurukú 2, 3 and 5*. SIL, 1965; 
-* *Aypapayũ'ũm'ũm ekawẽn*, SIL, 1977.
+* Mõnjoroko ã'õ - Cartilha Mundurukú 2, 3 and 5*. SIL, 1965; 
+* Aypapayũ'ũm'ũm ekawẽn*, SIL, 1977.
+* Crofts, M. (2004). _Aspectos da língua munduruku_. Sil.
+* Crofts, M. (?). Ideófonos na narração Mundurukú. Sil.
+* Comodo, C. H. R. (1981). _Corcordância em mundurukú_. Universidade de Campinas. Unpublished master's thesis.
+* Gomes, D. M. (2008). Incorporação nominal em Mundurukú (Tupí). Universidade de Brasília.
+* Gomes, D. M. (2019). Postpositions in Munduruku (Tupi): Formal and Functional Features. Forma y Función, 32(2), 109-150.
+* Gomes, D. M. (2006). Estudo morfológico e sintático da língua mundurukú. Universidade de Brasília. Unpublished PhD thesis.
 
 
 # Acknowledgments
