@@ -6,7 +6,7 @@
 # text = Ajojot jekobe be cum
 # text_eng =  Grandpa goes in the canoe
 1	Ajojot	ajojot	NOUN	n	_	4	nsubj	4:nsubj	_
-2	jekobe	jekobe	NOUN	n	_	4	obl	4:obl	_
+2	jekobe	jekobe	NOUN	n	Reflex=Yes	4	obl	4:obl	_
 3	be	be	ADP	pp	_	2	case	2:case	_
 4	cum	cu	VERB	vi	Aspect=Imp	0	root	0:root	_
 
