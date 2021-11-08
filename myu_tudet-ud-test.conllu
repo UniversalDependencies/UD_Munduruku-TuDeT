@@ -1067,28 +1067,29 @@
 4	muyuhum	um	VERB	v	Aspect=Imp|Voice=Cau	0	root	0:root	_
 5	:	:	PUNCT	punct	_	4	punct	4:punct	_
 6	wasũbu	wasũ	NOUN	n	Class=CilFlx	3	appos	3:appos	_
-7	potip	potip	NOUN	n	_	5	conj	5:conj	_
-8	.	.	PUNCT	punct	_	4	punct	4:punct	punct
-9	potiprip	potiprip	NOUN	n	_	7	conj	7:conj	_
-10	.	.	PUNCT	punct	_	9	punct	9:punct	punct
-11	pakodup	pako	NOUN	n	_	9	conj	9:conj	_
-12	.	.	PUNCT	punct	_	11	punct	11:punct	punct
-13	pirãydup	pirãydup	NOUN	n	_	11	conj	11:conj	_
-14	.	.	PUNCT	punct	_	13	punct	13:punct	punct
-15	pirũm	pirũm	NOUN	n	_	13	conj	13:conj	_
-16	.	.	PUNCT	PUNCT	_	4	punct	4:punct	punct
+7	,	,	PUNCT	punct	_	4	punct	4:punct	punct
+8	potip	potip	NOUN	n	_	5	conj	5:conj	_
+9	,	,	PUNCT	punct	_	4	punct	4:punct	punct
+10	potiprip	potiprip	NOUN	n	_	7	conj	7:conj	_
+11	,	,	PUNCT	punct	_	9	punct	9:punct	punct
+12	pakodup	pako	NOUN	n	_	9	conj	9:conj	_
+13	,	,	PUNCT	punct	_	11	punct	11:punct	punct
+14	pirãydup	pirãydup	NOUN	n	_	11	conj	11:conj	_
+15	,	,	PUNCT	punct	_	13	punct	13:punct	punct
+16	pirũm	pirũm	NOUN	n	_	13	conj	13:conj	_
+17	.	.	PUNCT	PUNCT	_	4	punct	4:punct	punct
 
 # sent_id = 7003
-# text = Idib dag̃ soat axĩma . Pũg̃pũg̃ axĩma yopit ma . Pirãydup , pirũm yopit ma.
+# text = Idib dag̃ soat axima . Pũg̃pũg̃ axima yopit ma . Pirãydup , pirũm yopit ma.
 # text_eng =               (Cartilha 7, 1.3)
 # text_por = Todos os peixes são do rio. Alguns peixes são pequenos.
 1	Idib	idib	NOUN	n	_	0	root	0:root	_
 2	dag̃	tag̃	ADP	posp	Rel=Cont	1	case	1:case	_
 3	soat	soat	DET	det	_	4	det	4:det	_
-4	axĩma	axĩma	NOUN	n	_	1	nsubj	1:nsubj	_
+4	axima	axima	NOUN	n	_	1	nsubj	1:nsubj	_
 5	.	.	PUNCT	PUNCT	_	1	punct	1:punct	punct
 6	Pũg̃pũg̃	pũg̃	PRON	pro	PronType=Ind	7	nmod	7:nmod	_
-7	axĩma	axĩma	NOUN	n	_	8	nsubj	8:nsubj	_
+7	axima	axima	NOUN	n	_	8	nsubj	8:nsubj	_
 8	yopit	yopit	NOUN	n	Rel=NCont	1	parataxis	1:parataxis	_
 9	ma	ma	PART	prcl	_	8	discourse	8:discourse	_
 10	.	.	PUNCT	PUNCT	_	8	punct	8:punct	punct
@@ -1100,11 +1101,11 @@
 16	.	.	PUNCT	PUNCT	_	14	punct	14:punct	punct
 
 # sent_id = 7004
-# text = Pũg̃pũg̃ axĩma yobog̃ ma. Wasũbu, potip, yobog̃ayũ. Ag̃okatkayũ axĩma muyuhum pig̃am.
+# text = Pũg̃pũg̃ axima yobog̃ ma. Wasũbu, potip, yobog̃ayũ. Ag̃okatkayũ axima muyuhum pig̃am.
 # text_eng =       (Cartilha 7, 1.4)
 # text_por = Alguns peixes são grandes. Manju e tucunaré são grandes. Os homens pegam peixes com anzol.
 1	Pũg̃pũg̃	pũg̃	PRON	pro	_	2	det	2:det	_
-2	axĩma	axĩma	NOUN	n	_	3	nsubj	3:nsubj	_
+2	axima	axima	NOUN	n	_	3	nsubj	3:nsubj	_
 3	yobog̃	bog̃	VERB	v	Rel=NCont	0	root	0:root	_
 4	ma	ma	PART	prcl	_	3	discourse	3:discourse	SpaceAfter=No
 5	.	.	PUNCT	PUNCT	_	3	punct	3:punct	punct
@@ -1112,7 +1113,7 @@
 7	,	,	PUNCT	punct	_	10	punct	10:punct	punct
 8	potip	potip	NOUN	n	_	10	conj	10:conj	SpaceAfter=No
 9	,	,	PUNCT	punct	_	10	punct	10:punct	punct
-10	yobog̃ayũ	bog̃	VERB	v	Number=Plur|Rel=Ncont	3	parataxis	3:parataxis	SpaceAfter=No
+10	yobog̃ayũ	bog̃	VERB	v	Number=Plur|Rel=NCont	3	parataxis	3:parataxis	SpaceAfter=No
 11	.	.	PUNCT	PUNCT	_	10	punct	10:punct	punct
 12	Ag̃okatkayũ	ag̃okatkat	NOUN	n	Number=Plur	14	nsubj	14:nsubj	_
 13	axĩma	axĩma	NOUN	n	_	14	obj	14:obj	_
@@ -1176,7 +1177,7 @@
 13	.	.	PUNCT	PUNCT	_	2	punct	2:punct	punct
 
 # sent_id = 7008
-# text = G̃ebuje , yobog̃ayũ wuywuy ip baseya'a be . Yobog̃ayũ uk kakam ip e'em . Axima uk kakam ip pima, ixep uk'ug̃ ip . Ixepmuekabekbeg̃ ip uktup pe . Ade axíma uk kakam ip . Ixep muekabekbeg̃ ip uktup pe , ayacayũ .
+# text = G̃ebuje , yobog̃ayũ wuywuy ip baseya'a be . Yobog̃ayũ uk kakam ip e'em . Axima uk kakam ip pima, ixep uk'ug̃ ip . Ixepmuekabekbeg̃ ip uktup pe . Ade axima uk kakam ip . Ixep muekabekbeg̃ ip uktup pe , ayacayũ .
 # text_en =    (Cartilha 7, 3.2)
 # text_por = Ai, elas lavam os grandes numa bacia. Elas cortam a barriga dos grandes. Quando elas cortam a barriga dos peixes, elas tiram a gordura deles. Elas embrulham a gordura em folhas. Elas cortam a barriga de muitos peixes. Elas embrulham a gordura em folhas, as mulheres.
 1	G̃ebuje	g̃ebuje	ADV	adv	_	3	advmod	3:advmod	_
@@ -1225,7 +1226,7 @@
 44	.	.	PUNCT	PUNCT	_	38	punct	38:punct	_
 
 # sent_id = 7009
-# text = Axima yobog̃at mupurukpurug̃ ip iwi be daxa ase . Ade bima , ade imupurukpurug̃ ip iwi be . Ade bima , yobog̃ iwi e'em . Ade ũm píma, iwi yopít ma e'em .
+# text = Axima yobog̃at mupurukpurug̃ ip iwi be daxa ase . Ade bima , ade imupurukpurug̃ ip iwi be . Ade bima , yobog̃ iwi e'em . Ade ũm pima, iwi yopít ma e'em .
 # text_en =    (Cartilha 7, 3.3)
 # text_por =
 1	Axima	axima	NOUN	n	_	3	obj	3:obj	_
@@ -1338,7 +1339,7 @@
 10	puje	puje	SCONJ	sconj	_	9	mark	9:mark	_
 11	axima	axima	NOUN	n	_	12	nsubj	12:nsubj	_
 12	nõm	nõm	NOUN	n	_	3	parataxis	3:parataxis	_
-13	e'em	e	AUX	aux	_	12	aux	12:aux	_
+13	e'em	e'em	AUX	aux	_	12	aux	12:aux	_
 14	ip	ip	PRON	pro	_	11	dep	11:dep	_
 15	.	.	PUNCT	punct	_	12	punct	12:punct	_
 16	Axima	axima	NOUN	n	_	17	obj	17:obj	_
