@@ -126,7 +126,7 @@
 # sent_id = 17
 # text = Awawa oajẽm ika be , jekibit ka be
 # text_portuguese = Vovo chegou ao terreno da irma.
-# text_eng = The grandmother came/arrived at the sister's land.
+# text_eng = The grandmother came/arrived at the sister's land .
 1	Awawa	awawa	NOUN	n	_	2	obl	2:obl	_
 2	oajẽm	ajẽm	VERB	vi	Aspect=Perf|Person=3	0	root	0:root	_
 3	ika	ika	NOUN	n	_	2	obl	2:obl	_
@@ -1323,9 +1323,9 @@
 20	.	.	PUNCT	punct	_	5	punct	5:PUNCT	punct
 
 # sent_id = 7013 
-# text = Elas botam no moquem para cozinhar. Quando as espinhas estão tiradas, os peixes ficarao piracuí. Elas cozinham os peixes em folhas. Elas botam em^folhas no moquem para moquear.
+# text = Iwi be imõg̃mõg̃ ip ta am. Tao uk puje axima nõm e'em ip. Axima tatam ip uktup pe. Iwi be imõg̃mõg̃ ip uktup pe axima mupuruk am.
 # text_en =      (Cartilha 7, 4.3)
-# text_por = 
+# text_por = Elas botam no moquem para cozinhar. Quando as espinhas estão tiradas, os peixes ficarao piracuí. Elas cozinham os peixes em folhas. Elas botam em^folhas no moquem para moquear.
 1	Iwi	wi	NOUN	n	Rel=NCont	3	obl	3:obl	_
 2	be	be	ADP	posp	_	1	case	1:case	_
 3	imõg̃mõg̃	mõg̃	VERB	v	Aspect=DurIprf|Rel=NCont	0	root	0:root	_
@@ -1357,6 +1357,4 @@
 29	mupuruk	puruk	VERB	v	Voice=Cau	24	advcl	24:advcl	_
 30	am	am	SCONJ	sconj	_	29	mark	29:mark	_
 31	.	.	PUNCT	punct	_	24	punct	24:punct	_
-
-
 
