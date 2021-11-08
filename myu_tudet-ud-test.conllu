@@ -1059,14 +1059,14 @@
 11	.	.	PUNCT	PUNCT	_	8	punct	8:punct	punct
 
 # sent_id = 7002
-# text_eng = Ag̃okatkayũ soat axĩma muyuhum: wasũbu, potip, potiprip, pakodup, pirãydup, pirũm . (Cartilha 7, 1.2)
-# text_por = Os homens pegam todos os peixes: manju, tucunaré, jatuarana, pacu, piranha, e charoto.
+# text = Ag̃okatkayũ soat axĩma muyuhum : wasũbu , potip , potiprip , pakodup , pirãydup , pirũm .
+# text_por = Os homens pegam todos os peixes: manju, tucunaré, jatuarana, pacu, piranha, e charoto. (Cartilha 7, 1.2)
 1	Ag̃okatkayũ	ag̃okatkat	NOUN	n	Number=Plur	4	nsubj	4:nsubj	_
 2	soat	soat	DET	det	_	3	det	3:det	_
 3	axĩma	axĩma	NOUN	n	_	4	obj	4:obj	_
-4	muyuhum:	um	VERB	v	Aspect=Imp|Voice=Cau	0	root	0:root	_
-5	wasũbu	wasũ	NOUN	n	Class=CilFlx	3	appos	3:appos	_
-6	.	.	PUNCT	punct	_	5	punct	5:punct	punct
+4	muyuhum	um	VERB	v	Aspect=Imp|Voice=Cau	0	root	0:root	_
+5	:	:	PUNCT	punct	_	4	punct	4:punct	_
+6	wasũbu	wasũ	NOUN	n	Class=CilFlx	3	appos	3:appos	_
 7	potip	potip	NOUN	n	_	5	conj	5:conj	_
 8	.	.	PUNCT	punct	_	4	punct	4:punct	punct
 9	potiprip	NOUN	NOUN	n	_	7	conj	7:conj	_
