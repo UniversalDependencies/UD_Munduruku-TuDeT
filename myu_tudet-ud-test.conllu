@@ -1048,15 +1048,15 @@
 # text_eng = The men catch fish through the river. They catch fish with foshhook (Cartilha 7, 1)
 1	Ag̃okatkayũ	ag̃okatkat	NOUN	n	Number=Plur	3	nsubj	3:nsubj	_
 2	axĩma	axĩma	NOUN	n	_	3	obj	3:obj	_
-3	muyuhum	u	VERB	v	Aspect=imp|Rel=NCont|Voice=Cau	0	root	0:root	_
+3	muyuhum	u	VERB	v	Aspect=Imp|Rel=NCont|Voice=Cau	0	root	0:root	_
 4	idibi	idibi	NOUN	n	_	3	obj	3:obj	_
 5	tag̃	dag̃	ADP	posp	Rel=NCont	4	case	4:case	_
-6	.	.	PUNCT	PUNCT	punct	3	punct	3:PUNCT	punct
+6	.	.	PUNCT	PUNCT	_	3	punct	3:PUNCT	punct
 7	Axĩma	axĩma	NOUN	n	_	8	obj	8:obj	_
-8	muyuhum	u	VERB	v	Aspect=imp|Rel=NCont|Voice=Cau	3	parataxis	3:parataxis	_
+8	muyuhum	u	VERB	v	Aspect=Imp|Rel=NCont|Voice=Cau	3	parataxis	3:parataxis	_
 9	ip	ip	PRON	pro	Number=Plur|Person=3|PronType=Prs	8	nsubj	8:nsubj	_
 10	pig̃am	pig̃a	NOUN	n	Case=Ins	8	obl	8:obl	_
-11	.	.	PUNCT	PUNCT	punct	8	punct	8:PUNCT	punct
+11	.	.	PUNCT	PUNCT	_	8	punct	8:PUNCT	punct
 
 # sent_id = 7002
 # text_eng = Ag̃okatkayũ soat axĩma muyuhum: wasũbu, potip, potiprip, pakodup, pirãydup, pirũm . (Cartilha 7, 1.2)
@@ -1076,7 +1076,7 @@
 13	pirãydup	pirãydup	NOUN	n	Class=Leaf	11	conj	11:conj	_
 14	,	,	PUNCT	PUNCT	punct	5	punct	5:PUNCT	punct
 15	pirũm	pirũm	NOUN	n	_	13	conj	13:conj	_
-16	.	.	PUNCT	PUNCT	punct	4	punct	4:PUNCT	punct
+16	.	.	PUNCT	PUNCT	_	4	punct	4:PUNCT	punct
 
 # sent_id = 7003
 # text = Idib dag̃ soat axĩma . Pũg̃pũg̃ axĩma yopit ma . Pirãydup , pirũm yopit ma.
@@ -1086,18 +1086,18 @@
 2	dag̃	tag̃	ADP	posp	Rel=Cont	1	case	1:case	_
 3	soat	soat	DET	det	_	4	det	4:det	_
 4	axĩma	axĩma	NOUN	n	_	1	nsubj	1:nsubj	_
-5	.	.	PUNCT	PUNCT	punct	1	punct	1:PUNCT	punct
+5	.	.	PUNCT	PUNCT	_	1	punct	1:PUNCT	punct
 6	Pũg̃pũg̃	pũg̃	PRON	pro	PronType=Ind	7	nmod	7:nmod	_
 7	axĩma	axĩma	NOUN	n	_	8	nsubj	8:nsubj	_
 8	yopit	yopit	NOUN	n	Rel=NCont	1	parataxis	1:parataxis	_
 9	ma	ma	PART	prcl	_	8	discourse	8:discourse	_
-10	.	.	PUNCT	PUNCT	punct	8	punct	8:PUNCT	punct
+10	.	.	PUNCT	PUNCT	_	8	punct	8:PUNCT	punct
 11	Pirãydup	pirãydup	NOUN	n	Class=Leaf	14	nsubj	14:nsubj	_
 12	,	,	PUNCT	PUNCT	punct	14	punct	14:PUNCT	punct
 13	pirũm	pirũm	NOUN	n	_	14	conj	14:conj	_
 14	yopit	yopit	NOUN	n	Rel=NCont	1	parataxis	1:parataxis	_
 15	ma	ma	PART	prcl	_	14	discourse	14:discourse	_
-16	.	.	PUNCT	PUNCT	punct	14	punct	14:PUNCT	punct
+16	.	.	PUNCT	PUNCT	_	14	punct	14:PUNCT	punct
 
 # sent_id = 7004
 # text = Pũg̃pũg̃ axĩma yobog̃ ma. Wasũbu, potip, yobog̃ayũ. Ag̃okatkayũ axĩma muyuhum pig̃am.
@@ -1107,18 +1107,18 @@
 2	axĩma	axĩma	NOUN	n	_	3	nsubj	3:nsubj	_
 3	yobog̃	bog̃	VERB	v	Rel=NCont	0	root	0:root	_
 4	ma	ma	PART	prcl	_	3	discourse	3:discourse	_
-5	.	.	PUNCT	PUNCT	punct	3	punct	3:PUNCT	punct
+5	.	.	PUNCT	PUNCT	_	3	punct	3:PUNCT	punct
 6	Wasũbu	wasũ	NOUN	n	Class=CilFlx	10	nsubj	10:nsubj	_
 7	,	,	PUNCT	PUNCT	punct	10	punct	10:PUNCT	punct
 8	potip	potip	NOUN	n	_	10	conj	10:conj	_
 9	,	,	PUNCT	PUNCT	punct	10	punct	10:PUNCT	punct
 10	yobog̃ayũ	bog̃	VERB	v	Number=Plur|Rel=Ncont	3	parataxis	3:parataxis	_
-11	.	.	PUNCT	PUNCT	punct	10	punct	10:PUNCT	punct
+11	.	.	PUNCT	PUNCT	_	10	punct	10:PUNCT	punct
 12	Ag̃okatkayũ	ag̃okatkat	NOUN	n	Number=Plur	14	nsubj	14:nsubj	_
 13	axĩma	axĩma	NOUN	n	_	14	obj	14:obj	_
 14	muyuhum	um	VERB	v	Voice=Cau	3	parataxis	3:parataxis	_
 15	pig̃am	pig̃a	NOUN	n	Case=Ins	14	obl	14:obl	_
-16	.	.	PUNCT	PUNCT	punct	14	punct	14:PUNCT	punct
+16	.	.	PUNCT	PUNCT	_	14	punct	14:PUNCT	punct
 
 # sent_id = 7005
 # text = Wara'at axima yobog̃bug̃. Potiprit, pakodup yobog̃bug̃yũ. Pig̃ãm axima muyhum ip.
@@ -1127,17 +1127,17 @@
 1	Wara'at	wara'at	PRON	pro	PronType=Ind	2	nmod	2:nmod	_
 2	axima	axima	NOUN	n	_	3	nsubj	3:nsubj	_
 3	yobog̃bug̃	bog̃	VERB	v	Rel=NCont	0	root	0:root	_
-4	.	.	PUNCT	PUNCT	punct	3	punct	3:PUNCT	punct
+4	.	.	PUNCT	PUNCT	_	3	punct	3:PUNCT	punct
 5	Potiprit	potiprit	NOUN	n	_	8	nsubj	8:nsubj	_
 6	,	,	PUNCT	PUNCT	punct	8	punct	8:PUNCT	punct
 7	pakodup	pakodup	NOUN	n	Class=Leaf	8	conj	8:conj	_
 8	yobog̃bug̃yũ	bog̃	VERB	v	Atten=Yes|Rel=NCont	3	parataxis	3:parataxis	_
-9	.	.	PUNCT	PUNCT	punct	8	punct	8:PUNCT	punct
+9	.	.	PUNCT	PUNCT	_	8	punct	8:PUNCT	punct
 10	Pig̃ãm	pig̃ã	NOUN	n	Case=Ins	12	obj	12:obj	_
 11	axima	axima	NOUN	n	_	12	nsubj	12:nsubj	_
 12	muyhum	um	VERB	v	Aspect=Imp|Voice=Cau	3	parataxis	3:parataxis	_
 13	ip	ip	PRON	pro	Number=Plur|Person=3	12	nsubj	12:nsubj	_
-14	.	.	PUNCT	PUNCT	punct	12	punct	12:PUNCT	punct
+14	.	.	PUNCT	PUNCT	_	12	punct	12:PUNCT	punct
 
 # sent_id = 7006
 # text = Ibu buje , tujuxexem ip uk’a be ayacayũ be , ta am .
@@ -1155,7 +1155,7 @@
 10	,	,	PUNCT	PUNCT	punct	4	punct	4:PUNCT	punct
 11	ta	ta	VERB	v	_	4	advcl	4:advcl	_
 12	am	am	PART	prcl	_	11	mark	11:mark	_
-13	.	.	PUNCT	PUNCT	punct	4	punct	4:PUNCT	punct
+13	.	.	PUNCT	PUNCT	_	4	punct	4:PUNCT	punct
 
 # sent_id = 7007
 # text = Yopĩutayũ muekabekbeg̃ ip uktup pe. Ayacayũ yopĩutayũ muekabekbeg̃ ip uktup pe.
@@ -1166,14 +1166,14 @@
 3	ip	ip	PRON	pro	Number=Plur|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
 4	uktup	uk	NOUN	n	Class=Leaf	2	obl	2:obl	_
 5	pe	be	ADP	posp	_	4	case	4:case	_
-6	.	.	PUNCT	PUNCT	punct	2	punct	2:PUNCT	punct
+6	.	.	PUNCT	PUNCT	_	2	punct	2:PUNCT	punct
 7	Ayacayũ	ayacat	NOUN	n	_	9	nsubj	9:nsubj	_
 8	yopĩutayũ	_	NOUN	n	_	9	obj	9:obj	_
 9	muekabekbeg̃	ekabek	VERB	v	Asp=DurIprf|Voice=Cau	2	parataxis	2:parataxis	_
 10	ip	ip	PRON	pro	Number=Plur|Person=3|PronType=Prs	9	dep	9:dep	_
 11	uktup	uk	NOUN	n	Class=Leaf	9	obl	9:obl	_
 12	pe	be	ADP	posp	_	11	case	11:case	_
-13	.	.	PUNCT	PUNCT	punct	2	punct	2:PUNCT	punct
+13	.	.	PUNCT	PUNCT	_	2	punct	2:PUNCT	punct
 
 # sent_id = 7008
 # text = G̃ebuje, yobog̃ayũ wuywuy ip baseya'a be. Yobog̃ayũ uk kakam ip e'em. Axiima uk kakam ip pima, ixep uk'ug̃ ip. Ixepmuekabekbeg̃ ip uktup pe. Ade axíma uk kakam ip. Ixep muekabekbeg̃ ip uktup pe, ayacayũ.
@@ -1186,13 +1186,13 @@
 5	ip	ip	PRON	pro	Number=Plur|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
 6	baseya’a	baseya	NOUN	n	Class=Round	4	obl	4:obl	_
 7	be	be	ADP	posp	_	6	case	6:case	_
-8	.	.	PUNCT	PUNCT	punct	4	punct	4:PUNCT	punct
+8	.	.	PUNCT	PUNCT	_	4	punct	4:PUNCT	punct
 9	Yobog̃ayũ	bog̃	NOUN	n	Number=Plur|Rel=NCont	10	nmod	10:nmod	_
 10	uk	uk	NOUN	n	_	11	obj	11:obj	_
 11	kakam	ka	VERB	v	Aspect=DurIprf	4	parataxis	4:parataxis	_
 12	ip	ip	PRON	pro	Number=Plur|Person=3|PronType=Prs	11	nsubj	11:nsubj	_
 13	e'em	e'e	AUX	aux	Aspect=DurIprf	11	aux	11:aux	_
-14	.	.	PUNCT	PUNCT	punct	11	punct	11:PUNCT	punct
+14	.	.	PUNCT	PUNCT	_	11	punct	11:PUNCT	punct
 15	Axíma	_	NOUN	n	_	16	nmod	16:nmod	_
 16	uk	uk	NOUN	n	_	17	obj	17:obj	_
 17	kakam	ka	VERB	v	Aspect=DurIprf	22	advcl	22:advcl	_
@@ -1202,7 +1202,7 @@
 21	ixep	_	NOUN	n	Rel=NCont	22	obj	22:obj	_
 22	uk'ug̃	uk	VERB	v	Aspect=DurIprf	4	parataxis	4:parataxis	_
 23	ip	ip	PRON	pro	Number=Plur|Person=3|PronType=Prs	22	nsubj	22:nsubj	_
-24	.	.	PUNCT	PUNCT	punct	22	punct	22:PUNCT	punct
+24	.	.	PUNCT	PUNCT	_	22	punct	22:PUNCT	punct
 25	Ixep	xep	NOUN	n	Rel=NCont	26	obj	26:obj	_
 26	muekabekbeg̃	ekabek	VERB	v	Aspect=DurIprfprf|Voice=Cau	4	parataxis	4:parataxis	_
 27	ip	ip	PRON	pro	Number=Plur|Person=3|PronType=Prs	26	nsubj	26:nsubj	_
@@ -1214,7 +1214,7 @@
 33	uk	uk	NOUN	n	_	34	obj	34:obj	_
 34	kakam	ka	VERB	v	Aspect=DurIprf	4	parataxis	4:parataxis	_
 35	ip	ip	PRON	pro	Number=Plur|Person=3|PronType=Prs	34	nsubj	34:nsubj	_
-36	.	.	PUNCT	PUNCT	punct	34	punct	34:PUNCT	punct
+36	.	.	PUNCT	PUNCT	_	34	punct	34:PUNCT	punct
 37	Ixep	xep	NOUN	n	_	38	obj	38:obj	_
 38	muekabekbeg̃	ekabek	VERB	v	Aspect=DurIprfprf|Voice=Cau	4	parataxis	4:parataxis	_
 39	ip	ip	PRON	pro	Number=Plur|Person=3|PronType=Prs	38	nsubj	38:nsubj	_
@@ -1222,7 +1222,7 @@
 41	pe	pe	ADP	posp	_	40	case	40:case	_
 42	,	,	PUNCT	PUNCT	punct	38	punct	38:PUNCT	punct
 43	ayacayũ	ayacat	NOUN	n	Number=Plur	38	parataxis	38:parataxis	_
-44	.	.	PUNCT	PUNCT	punct	38	punct	38:PUNCT	punct
+44	.	.	PUNCT	PUNCT	_	38	punct	38:PUNCT	punct
 
 # sent_id = 7009
 # text = Axima yobog̃at mupurukpurug̃ ip iwi be daxa ase. Ade bima, ade imupurukpurug̃ ip iwi be. Ade bíma, yobog̃ iwi e'em. Ade ũm píma, iwi yopít ma e'em.
@@ -1236,7 +1236,7 @@
 6	be	be	ADP	posp	_	5	case	5:case	_
 7	daxa	daxa	NOUN	n	Rel=NCont	3	obl	3:obl	_
 8	ase	ase	ADP	posp	_	7	case	7:case	_
-9	.	.	PUNCT	PUNCT	punct	3	punct	3:PUNCT	punct
+9	.	.	PUNCT	PUNCT	_	3	punct	3:PUNCT	punct
 10	Ade	ade	NOUN	n	_	14	advcl	14:advcl	_
 11	bima	pima	SCONJ	sconj	_	10	mark	10:mark	_
 12	,	,	PUNCT	PUNCT	punct	14	punct	14:PUNCT	punct
@@ -1245,14 +1245,14 @@
 15	ip	ip	PRON	pron	Number=Plur|Person=3|PronType=Prs	14	nsubj	14:nsubj	_
 16	iwi	wi	NOUN	n	Rel=NCont	14	obl	14:obl	_
 17	be	be	ADP	posp	_	16	case	16:case	_
-18	.	.	PUNCT	PUNCT	punct	14	punct	14:PUNCT	punct
+18	.	.	PUNCT	PUNCT	_	14	punct	14:PUNCT	punct
 19	Ade	ade	NOUN	n	_	22	advcl	22:advcl	_
 20	bima	pima	SCONJ	sconj	_	19	mark	19:mark	_
 21	,	,	PUNCT	PUNCT	punct	22	punct	22:PUNCT	punct
 22	yobog̃	bog̃	NOUN	n	Rel=NCont	3	parataxis	3:parataxis	_
 23	iwi	wi	NOUN	n	_	22	nsubj	22:nsubj	_
 24	e'em	e	AUX	aux	_	22	aux	22:aux	_
-25	.	.	PUNCT	PUNCT	punct	22	punct	22:PUNCT	punct
+25	.	.	PUNCT	PUNCT	_	22	punct	22:PUNCT	punct
 26	Ade	ade	NOUN	n	_	31	advcl	31:advcl	_
 27	ũm	ũm	ADV	adv	_	26	advmod	26:advmod	_
 28	pima	pima	SCONJ	sconj	_	26	mark	26:mark	_
@@ -1261,7 +1261,7 @@
 31	yopit	pit	NOUN	n	Rel=NCont	_	_	_	_
 32	ma	ma	PART	prcl	_	31	discourse	31:discourse	_
 33	e'em	e	AUX	aux	_	31	aux	31:aux	_
-34	.	.	PUNCT	PUNCT	punct	31	punct	31:PUNCT	punct
+34	.	.	PUNCT	PUNCT	_	31	punct	31:PUNCT	punct
 
 # sent_id = 7010
 # text = Ade tao bima, tao uk'ug̃ ip iwi xe .
@@ -1276,7 +1276,7 @@
 7	ip	ip	PRON	pron	Number=Plur|Person=3|PronType=Prs	6	nsubj	6:nsubj	_
 8	iwi	wi	NOUN	n	Rel=NCont	6	obl	6:obl	_
 9	xe	xe	ADP	posp	_	8	case	8:case	_
-10	.	.	PUNCT	PUNCT	punct	6	punct	6:PUNCT	punct
+10	.	.	PUNCT	PUNCT	_	6	punct	6:PUNCT	punct
 
 # sent_id = 7011
 # text = Tao uk'ug̃ iwi xe ãõyũ . Tao uk'ug̃ ip ayacayũ , axima dao .
@@ -1287,7 +1287,7 @@
 3	iwi	wi	NOUN	n	_	2	obl	2:obl	_
 4	xe	xe	ADP	posp	_	3	case	3:case	_
 5	ãõyũ	ao	NOUN	n	Number=Plur	2	nsubj	2:nsubj	_
-6	.	.	PUNCT	PUNCT	punct	2	punct	2:PUNCT	punct
+6	.	.	PUNCT	PUNCT	_	2	punct	2:PUNCT	punct
 7	Tao	dao	NOUN	n	Rel=NCont	8	obj	8:obj	_
 8	uk'ug̃	uk	VERB	v	Aspect=DurIprf	2	parataxis	2:parataxis	_
 9	ip	_	PRON	pro	Number=Plur|Person=3|PronType=Prs	10	dep	10:dep	_
@@ -1295,7 +1295,7 @@
 11	,	,	PUNCT	PUNCT	punct	8	punct	8:PUNCT	punct
 12	axima	axima	NOUN	n	_	13	nmod	13:nmod	_
 13	dao	dao	NOUN	n	Rel=Cont	7	appos	7:appos	_
-14	.	.	PUNCT	PUNCT	punct	2	punct	2:PUNCT	punct
+14	.	.	PUNCT	PUNCT	_	2	punct	2:PUNCT	punct
 
 # sent_id = 7012
 # text = Tao uk puje, imõg̃mõg̃ ip iwi be daxa ase. Tao uk puje axima tatam ip uktup pe.
@@ -1357,6 +1357,4 @@
 29	mupuruk	puruk	VERB	v	Voice=Cau	24	advcl	24:advcl	_
 30	am	am	SCONJ	sconj	_	29	mark	29:mark	_
 31	.	.	PUNCT	punct	_	24	punct	24:punct	_
-
-
 
