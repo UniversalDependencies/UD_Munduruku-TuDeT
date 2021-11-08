@@ -1094,8 +1094,8 @@
 9	ma	ma	PART	prcl	_	8	discourse	8:discourse	_
 10	.	.	PUNCT	PUNCT	_	8	punct	8:punct	punct
 11	Pirãydup	pirãydup	NOUN	n	_	14	nsubj	14:nsubj	_
-12	,	,	PUNCT	punct	_	14	punct	14:punct	punct
-13	pirũm	pirũm	NOUN	n	_	14	conj	14:conj	_
+12	,	,	PUNCT	punct	_	11	punct	11:punct	punct
+13	pirũm	pirũm	NOUN	n	_	12	conj	12:conj	_
 14	yopit	yopit	NOUN	n	Rel=NCont	1	parataxis	1:parataxis	_
 15	ma	ma	PART	prcl	_	14	discourse	14:discourse	_
 16	.	.	PUNCT	PUNCT	_	14	punct	14:punct	punct
@@ -1110,9 +1110,9 @@
 4	ma	ma	PART	prcl	_	3	discourse	3:discourse	SpaceAfter=No
 5	.	.	PUNCT	PUNCT	_	3	punct	3:punct	punct
 6	Wasũbu	wasũ	NOUN	n	Class=CilFlx	10	nsubj	10:nsubj	SpaceAfter=No
-7	,	,	PUNCT	punct	_	10	punct	10:punct	punct
-8	potip	potip	NOUN	n	_	10	conj	10:conj	SpaceAfter=No
-9	,	,	PUNCT	punct	_	10	punct	10:punct	punct
+7	,	,	PUNCT	punct	_	6	punct	6:punct	punct
+8	potip	potip	NOUN	n	_	6	conj	6:conj	SpaceAfter=No
+9	,	,	PUNCT	punct	_	6	punct	6:punct	punct
 10	yobog̃ayũ	bog̃	VERB	v	Number=Plur|Rel=NCont	3	parataxis	3:parataxis	SpaceAfter=No
 11	.	.	PUNCT	PUNCT	_	10	punct	10:punct	punct
 12	Ag̃okatkayũ	ag̃okatkat	NOUN	n	Number=Plur	14	nsubj	14:nsubj	_
@@ -1130,8 +1130,8 @@
 3	yobog̃bug̃	bog̃	VERB	v	Rel=NCont	0	root	0:root	SpaceAfter=No
 4	.	.	PUNCT	PUNCT	_	3	punct	3:punct	punct
 5	Potiprit	potiprit	NOUN	n	_	8	nsubj	8:nsubj	SpaceAfter=No
-6	,	,	PUNCT	punct	_	8	punct	8:punct	punct
-7	pakodup	pakodup	NOUN	n	_	8	conj	8:conj	_
+6	,	,	PUNCT	punct	_	5	punct	5:punct	punct
+7	pakodup	pakodup	NOUN	n	_	5	conj	5:conj	_
 8	yobog̃bug̃yũ	bog̃	VERB	v	Rel=NCont	3	parataxis	3:parataxis	SpaceAfter=No
 9	.	.	PUNCT	PUNCT	_	8	punct	8:punct	punct
 10	Pig̃ãm	pig̃ã	NOUN	n	Case=Ins	12	obj	12:obj	_
