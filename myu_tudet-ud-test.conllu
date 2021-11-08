@@ -1226,7 +1226,7 @@
 44	.	.	PUNCT	PUNCT	_	38	punct	38:punct	_
 
 # sent_id = 7009
-# text = Axima yobog̃at mupurukpurug̃ ip iwi be daxa ase . Ade bima , ade imupurukpurug̃ ip iwi be . Ade bima , yobog̃ iwi e'em . Ade ũm pima, iwi yopit ma e'em .
+# text = Axima yobog̃at mupurukpurug̃ ip iwi be daxa ase . Ade bima , ade imupurukpurug̃ ip iwi be . Ade bima , yobog̃ iwi e'em . Ade ũm pima , iwi yopit ma e'em .
 # text_en =    (Cartilha 7, 3.3)
 # text_por =
 1	Axima	axima	NOUN	n	_	3	obj	3:obj	_
