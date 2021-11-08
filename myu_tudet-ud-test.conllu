@@ -1176,7 +1176,7 @@
 13	.	.	PUNCT	PUNCT	_	2	punct	2:PUNCT	punct
 
 # sent_id = 7008
-# text = G̃ebuje, yobog̃ayũ wuywuy ip baseya'a be. Yobog̃ayũ uk kakam ip e'em. Axiima uk kakam ip pima, ixep uk'ug̃ ip. Ixepmuekabekbeg̃ ip uktup pe. Ade axíma uk kakam ip. Ixep muekabekbeg̃ ip uktup pe, ayacayũ.
+# text = G̃ebuje , yobog̃ayũ wuywuy ip baseya'a be . Yobog̃ayũ uk kakam ip e'em . Axiima uk kakam ip pima, ixep uk'ug̃ ip . Ixepmuekabekbeg̃ ip uktup pe . Ade axíma uk kakam ip . Ixep muekabekbeg̃ ip uktup pe , ayacayũ .
 # text_en =    (Cartilha 7, 3.2)
 # text_por = Ai, elas lavam os grandes numa bacia. Elas cortam a barriga dos grandes. Quando elas cortam a barriga dos peixes, elas tiram a gordura deles. Elas embrulham a gordura em folhas. Elas cortam a barriga de muitos peixes. Elas embrulham a gordura em folhas, as mulheres.
 1	G̃ebuje	g̃ebuje	ADV	adv	_	3	advmod	3:advmod	_
@@ -1225,7 +1225,7 @@
 44	.	.	PUNCT	PUNCT	_	38	punct	38:PUNCT	punct
 
 # sent_id = 7009
-# text = Axima yobog̃at mupurukpurug̃ ip iwi be daxa ase. Ade bima, ade imupurukpurug̃ ip iwi be. Ade bíma, yobog̃ iwi e'em. Ade ũm píma, iwi yopít ma e'em.
+# text = Axima yobog̃at mupurukpurug̃ ip iwi be daxa ase . Ade bima , ade imupurukpurug̃ ip iwi be . Ade bíma , yobog̃ iwi e'em . Ade ũm píma, iwi yopít ma e'em .
 # text_en =    (Cartilha 7, 3.3)
 # text_por =
 1	Axima	axima	NOUN	n	_	3	obj	3:obj	_
@@ -1264,7 +1264,7 @@
 34	.	.	PUNCT	PUNCT	_	31	punct	31:PUNCT	punct
 
 # sent_id = 7010
-# text = Ade tao bima, tao uk'ug̃ ip iwi xe .
+# text = Ade tao bima , tao uk'ug̃ ip iwi xe .
 # text_eng =     (Cartilha 7, 3.4)
 # text_por = Quando há muitas espinhas, elas tiram as espinhas perto do moquem. 
 1	Ade	ade	ADJ	adj	_	2	amod	2:amod	_
@@ -1298,7 +1298,7 @@
 14	.	.	PUNCT	PUNCT	_	2	punct	2:PUNCT	punct
 
 # sent_id = 7012
-# text = Tao uk puje, imõg̃mõg̃ ip iwi be daxa ase. Tao uk puje axima tatam ip uktup pe.
+# text = Tao uk puje , imõg̃mõg̃ ip iwi be daxa ase . Tao uk puje axima tatam ip uktup pe .
 # text_en =        (Cartilha 7, 4.2)
 # text_por = Quando as espinhas estão tiradas, elas botam os peixes no mocjuem em cima do fogo. Quando as espinhas estão tiradas, elqs cozinham os pèixes em folhas
 1	Tao	dao	NOUN	n	Rel=NCont	2	nsubj	2:nsubj	_
@@ -1323,7 +1323,7 @@
 20	.	.	PUNCT	punct	_	5	punct	5:PUNCT	punct
 
 # sent_id = 7013 
-# text = Iwi be imõg̃mõg̃ ip ta am. Tao uk puje axima nõm e'em ip. Axima tatam ip uktup pe. Iwi be imõg̃mõg̃ ip uktup pe axima mupuruk am.
+# text = Iwi be imõg̃mõg̃ ip ta am . Tao uk puje axima nõm e'em ip . Axima tatam ip uktup pe . Iwi be imõg̃mõg̃ ip uktup pe axima mupuruk am .
 # text_en =      (Cartilha 7, 4.3)
 # text_por = Elas botam no moquem para cozinhar. Quando as espinhas estão tiradas, os peixes ficarao piracuí. Elas cozinham os peixes em folhas. Elas botam em^folhas no moquem para moquear.
 1	Iwi	wi	NOUN	n	Rel=NCont	3	obl	3:obl	_
