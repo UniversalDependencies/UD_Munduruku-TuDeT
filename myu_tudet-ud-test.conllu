@@ -1069,9 +1069,9 @@
 6	wasũbu	wasũ	NOUN	n	Class=CilFlx	3	appos	3:appos	_
 7	potip	potip	NOUN	n	_	5	conj	5:conj	_
 8	.	.	PUNCT	punct	_	4	punct	4:punct	punct
-9	potiprip	NOUN	NOUN	n	_	7	conj	7:conj	_
+9	potiprip	potiprip	NOUN	n	_	7	conj	7:conj	_
 10	.	.	PUNCT	punct	_	9	punct	9:punct	punct
-11	pakodup	_	NOUN	n	_	9	conj	9:conj	_
+11	pakodup	pako	NOUN	n	_	9	conj	9:conj	_
 12	.	.	PUNCT	punct	_	11	punct	11:punct	punct
 13	pirãydup	pirãydup	NOUN	n	_	11	conj	11:conj	_
 14	.	.	PUNCT	punct	_	13	punct	13:punct	punct
