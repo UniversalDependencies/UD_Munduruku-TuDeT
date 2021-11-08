@@ -1066,15 +1066,15 @@
 3	axĩma	axĩma	NOUN	n	_	4	obj	4:obj	_
 4	muyuhum:	um	VERB	v	Aspect=Imp|Voice=Cau	0	root	0:root	_
 5	wasũbu	wasũ	NOUN	n	Class=CilFlx	3	appos	3:appos	_
-6	,	,	PUNCT	PUNCT	punct	5	punct	5:punct	punct
+6	.	.	PUNCT	punct	_	5	punct	5:punct	punct
 7	potip	potip	NOUN	n	_	5	conj	5:conj	_
-8	,	,	PUNCT	PUNCT	punct	4	punct	4:punct	punct
+8	.	.	PUNCT	punct	_	4	punct	4:punct	punct
 9	potiprip	NOUN	NOUN	n	_	7	conj	7:conj	_
-10	,	,	PUNCT	PUNCT	punct	4	punct	4:punct	punct
+10	.	.	PUNCT	punct	_	4	punct	4:punct	punct
 11	pakodup	_	NOUN	n	Class=Leaf	9	conj	9:conj	_
-12	,	,	PUNCT	PUNCT	punct	4	punct	4:punct	punct
+12	.	.	PUNCT	punct	_	4	punct	4:punct	punct
 13	pirãydup	pirãydup	NOUN	n	Class=Leaf	11	conj	11:conj	_
-14	,	,	PUNCT	PUNCT	punct	4	punct	4:punct	punct
+14	.	.	PUNCT	punct	_	4	punct	4:punct	punct
 15	pirũm	pirũm	NOUN	n	_	13	conj	13:conj	_
 16	.	.	PUNCT	PUNCT	_	4	punct	4:punct	punct
 
@@ -1093,7 +1093,7 @@
 9	ma	ma	PART	prcl	_	8	discourse	8:discourse	_
 10	.	.	PUNCT	PUNCT	_	8	punct	8:PUNCT	punct
 11	Pirãydup	pirãydup	NOUN	n	Class=Leaf	14	nsubj	14:nsubj	_
-12	,	,	PUNCT	PUNCT	punct	14	punct	14:PUNCT	punct
+12	.	.	PUNCT	punct	_	14	punct	14:PUNCT	punct
 13	pirũm	pirũm	NOUN	n	_	14	conj	14:conj	_
 14	yopit	yopit	NOUN	n	Rel=NCont	1	parataxis	1:parataxis	_
 15	ma	ma	PART	prcl	_	14	discourse	14:discourse	_
@@ -1109,9 +1109,9 @@
 4	ma	ma	PART	prcl	_	3	discourse	3:discourse	_
 5	.	.	PUNCT	PUNCT	_	3	punct	3:PUNCT	punct
 6	Wasũbu	wasũ	NOUN	n	Class=CilFlx	10	nsubj	10:nsubj	_
-7	,	,	PUNCT	PUNCT	punct	10	punct	10:PUNCT	punct
+7	.	.	PUNCT	punct	_	10	punct	10:PUNCT	punct
 8	potip	potip	NOUN	n	_	10	conj	10:conj	_
-9	,	,	PUNCT	PUNCT	punct	10	punct	10:PUNCT	punct
+9	.	.	PUNCT	punct	_	10	punct	10:PUNCT	punct
 10	yobog̃ayũ	bog̃	VERB	v	Number=Plur|Rel=Ncont	3	parataxis	3:parataxis	_
 11	.	.	PUNCT	PUNCT	_	10	punct	10:PUNCT	punct
 12	Ag̃okatkayũ	ag̃okatkat	NOUN	n	Number=Plur	14	nsubj	14:nsubj	_
@@ -1129,7 +1129,7 @@
 3	yobog̃bug̃	bog̃	VERB	v	Rel=NCont	0	root	0:root	_
 4	.	.	PUNCT	PUNCT	_	3	punct	3:PUNCT	punct
 5	Potiprit	potiprit	NOUN	n	_	8	nsubj	8:nsubj	_
-6	,	,	PUNCT	PUNCT	punct	8	punct	8:PUNCT	punct
+6	.	.	PUNCT	punct	_	8	punct	8:PUNCT	punct
 7	pakodup	pakodup	NOUN	n	Class=Leaf	8	conj	8:conj	_
 8	yobog̃bug̃yũ	bog̃	VERB	v	Atten=Yes|Rel=NCont	3	parataxis	3:parataxis	_
 9	.	.	PUNCT	PUNCT	_	8	punct	8:PUNCT	punct
@@ -1145,14 +1145,14 @@
 # text_port = Quando estão pegos, eles levam para casa para as mulheres cozinharem.
 1	Ibu	bu	VERB	v	Rel=NCont	4	advcl	4:advcl	_
 2	buje	buje	ADV	adv	_	1	advmod	1:advmod	_
-3	,	,	PUNCT	PUNCT	punct	4	punct	4:PUNCT	punct
+3	.	.	PUNCT	punct	_	4	punct	4:PUNCT	punct
 4	tujuxexem	xe	VERB	v	Aspect=DurIprfprf|Rel=NCont|Voice=CC	0	root	0:root	_
 5	ip	ip	PRON	pro	Number=Plur|Person=3	4	nsubj	4:nsubj	_
 6	uk’a	uk	NOUN	n	Class=Round	4	obl	4:obl	_
 7	be	be	ADP	posp	_	6	case	6:case	_
 8	ayacayũ	ayacat	NOUN	n	Number=Plur	4	obl	4:obl	_
 9	be	be	ADP	posp	_	8	case	8:case	_
-10	,	,	PUNCT	PUNCT	punct	4	punct	4:PUNCT	punct
+10	.	.	PUNCT	punct	_	4	punct	4:PUNCT	punct
 11	ta	ta	VERB	v	_	4	advcl	4:advcl	_
 12	am	am	PART	prcl	_	11	mark	11:mark	_
 13	.	.	PUNCT	PUNCT	_	4	punct	4:PUNCT	punct
@@ -1180,7 +1180,7 @@
 # text_en =    (Cartilha 7, 3.2)
 # text_por = Ai, elas lavam os grandes numa bacia. Elas cortam a barriga dos grandes. Quando elas cortam a barriga dos peixes, elas tiram a gordura deles. Elas embrulham a gordura em folhas. Elas cortam a barriga de muitos peixes. Elas embrulham a gordura em folhas, as mulheres.
 1	G̃ebuje	g̃ebuje	ADV	adv	_	3	advmod	3:advmod	_
-2	,	,	PUNCT	PUNCT	punct	3	punct	3:PUNCT	punct
+2	.	.	PUNCT	punct	_	3	punct	3:PUNCT	punct
 3	yobog̃ayũ	bog̃	NOUN	n	Number=Plur|Rel=NCont	4	obj	4:obj	_
 4	wuywuy	wuy	VERB	v	Aspect=Iter	0	root	0:root	_
 5	ip	ip	PRON	pro	Number=Plur|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
@@ -1198,7 +1198,7 @@
 17	kakam	ka	VERB	v	Aspect=DurIprf	22	advcl	22:advcl	_
 18	ip	ip	PRON	pro	Number=Plur|Person=3|PronType=Prs	17	nsubj	17:nsubj	_
 19	pima	pima	ADV	adv	_	17	advmod	17:advmod	_
-20	,	,	PUNCT	PUNCT	punct	17	punct	17:PUNCT	punct
+20	.	.	PUNCT	punct	_	17	punct	17:PUNCT	punct
 21	ixep	_	NOUN	n	Rel=NCont	22	obj	22:obj	_
 22	uk'ug̃	uk	VERB	v	Aspect=DurIprf	4	parataxis	4:parataxis	_
 23	ip	ip	PRON	pro	Number=Plur|Person=3|PronType=Prs	22	nsubj	22:nsubj	_
@@ -1220,7 +1220,7 @@
 39	ip	ip	PRON	pro	Number=Plur|Person=3|PronType=Prs	38	nsubj	38:nsubj	_
 40	uktup	uk	NOUN	n	Class=Leaf	38	obl	38:obl	_
 41	pe	pe	ADP	posp	_	40	case	40:case	_
-42	,	,	PUNCT	PUNCT	punct	38	punct	38:PUNCT	punct
+42	.	.	PUNCT	punct	_	38	punct	38:PUNCT	punct
 43	ayacayũ	ayacat	NOUN	n	Number=Plur	38	parataxis	38:parataxis	_
 44	.	.	PUNCT	PUNCT	_	38	punct	38:PUNCT	punct
 
@@ -1239,7 +1239,7 @@
 9	.	.	PUNCT	PUNCT	_	3	punct	3:PUNCT	punct
 10	Ade	ade	NOUN	n	_	14	advcl	14:advcl	_
 11	bima	pima	SCONJ	sconj	_	10	mark	10:mark	_
-12	,	,	PUNCT	PUNCT	punct	14	punct	14:PUNCT	punct
+12	.	.	PUNCT	punct	_	14	punct	14:PUNCT	punct
 13	ade	ade	NOUN	n	_	14	obj	14:obj	_
 14	imupurukpurug̃	puruk	VERB	v	Rel=NCont|Voice=Cau	3	parataxis	3:parataxis	_
 15	ip	ip	PRON	pron	Number=Plur|Person=3|PronType=Prs	14	nsubj	14:nsubj	_
@@ -1248,7 +1248,7 @@
 18	.	.	PUNCT	PUNCT	_	14	punct	14:PUNCT	punct
 19	Ade	ade	NOUN	n	_	22	advcl	22:advcl	_
 20	bima	pima	SCONJ	sconj	_	19	mark	19:mark	_
-21	,	,	PUNCT	PUNCT	punct	22	punct	22:PUNCT	punct
+21	.	.	PUNCT	punct	_	22	punct	22:PUNCT	punct
 22	yobog̃	bog̃	NOUN	n	Rel=NCont	3	parataxis	3:parataxis	_
 23	iwi	wi	NOUN	n	_	22	nsubj	22:nsubj	_
 24	e'em	e	AUX	aux	_	22	aux	22:aux	_
@@ -1256,7 +1256,7 @@
 26	Ade	ade	NOUN	n	_	31	advcl	31:advcl	_
 27	ũm	ũm	ADV	adv	_	26	advmod	26:advmod	_
 28	pima	pima	SCONJ	sconj	_	26	mark	26:mark	_
-29	,	,	PUNCT	PUNCT	punct	31	punct	31:PUNCT	punct
+29	.	.	PUNCT	punct	_	31	punct	31:PUNCT	punct
 30	iwi	wi	NOUN	n	Rel=NCont	31	nsubj	31:nsubj	_
 31	yopit	pit	NOUN	n	Rel=NCont	_	_	_	_
 32	ma	ma	PART	prcl	_	31	discourse	31:discourse	_
@@ -1270,7 +1270,7 @@
 1	Ade	ade	ADJ	adj	_	2	amod	2:amod	_
 2	tao	dao	NOUN	n	Rel=NCont	6	advcl	6:advcl	_
 3	bima	pima	SCONJ	sconj	_	2	mark	2:mark	_
-4	,	,	PUNCT	PUNCT	punct	6	punct	6:PUNCT	punct
+4	.	.	PUNCT	punct	_	6	punct	6:PUNCT	punct
 5	tao	dao	NOUN	n	Rel=NCont	6	obj	6:obj	_
 6	uk'ug̃	uk	VERB	v	Aspect=DurIprf	0	root	0:root	_
 7	ip	ip	PRON	pron	Number=Plur|Person=3|PronType=Prs	6	nsubj	6:nsubj	_
@@ -1292,7 +1292,7 @@
 8	uk'ug̃	uk	VERB	v	Aspect=DurIprf	2	parataxis	2:parataxis	_
 9	ip	_	PRON	pro	Number=Plur|Person=3|PronType=Prs	10	dep	10:dep	_
 10	ayacayũ	ayacat	NOUN	n	_	8	nsubj	8:nsubj	_
-11	,	,	PUNCT	PUNCT	punct	8	punct	8:PUNCT	punct
+11	.	.	PUNCT	punct	_	8	punct	8:PUNCT	punct
 12	axima	axima	NOUN	n	_	13	nmod	13:nmod	_
 13	dao	dao	NOUN	n	Rel=Cont	7	appos	7:appos	_
 14	.	.	PUNCT	PUNCT	_	2	punct	2:PUNCT	punct
@@ -1357,4 +1357,6 @@
 29	mupuruk	puruk	VERB	v	Voice=Cau	24	advcl	24:advcl	_
 30	am	am	SCONJ	sconj	_	29	mark	29:mark	_
 31	.	.	PUNCT	punct	_	24	punct	24:punct	_
+
+
 
