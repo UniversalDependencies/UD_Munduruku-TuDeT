@@ -1071,7 +1071,7 @@
 8	potip	potip	NOUN	n	_	6	conj	6:conj	_
 9	,	,	PUNCT	punct	_	6	punct	6:punct	_
 10	potiprip	potiprip	NOUN	n	_	6	conj	6:conj	_
-11	.	.	PUNCT	punct	_	6	punct	6:punct	punct
+11	,	,	PUNCT	punct	_	6	punct	6:punct	punct
 12	pakodup	pako	NOUN	n	_	6	conj	6:conj	_
 13	,	,	PUNCT	punct	_	6	punct	6:punct	punct
 14	pirãydup	pirãydup	NOUN	n	_	6	conj	6:conj	_
