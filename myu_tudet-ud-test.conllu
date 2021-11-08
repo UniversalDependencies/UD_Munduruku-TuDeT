@@ -1191,7 +1191,7 @@
 10	uk	uk	NOUN	n	_	11	obj	11:obj	_
 11	kakam	ka	VERB	v	Aspect=DurIprf	4	parataxis	4:parataxis	_
 12	ip	ip	PRON	pro	Number=Plur|Person=3|PronType=Prs	11	nsubj	11:nsubj	_
-13	e'em	e'e	AUX	aux	Aspect=DurIprf	11	aux	11:aux	_
+13	e'em	e'em	AUX	aux	Aspect=DurIprf	11	aux	11:aux	_
 14	.	.	PUNCT	PUNCT	_	11	punct	11:punct	punct
 15	Axíma	_	NOUN	n	_	16	nmod	16:nmod	_
 16	uk	uk	NOUN	n	_	17	obj	17:obj	_
@@ -1251,7 +1251,7 @@
 21	.	.	PUNCT	punct	_	22	punct	22:punct	punct
 22	yobog̃	bog̃	NOUN	n	Rel=NCont	3	parataxis	3:parataxis	_
 23	iwi	wi	NOUN	n	_	22	nsubj	22:nsubj	_
-24	e'em	e	AUX	aux	_	22	aux	22:aux	_
+24	e'em	e'em	AUX	aux	_	22	aux	22:aux	_
 25	.	.	PUNCT	PUNCT	_	22	punct	22:PUNCT	punct
 26	Ade	ade	NOUN	n	_	31	advcl	31:advcl	_
 27	ũm	ũm	ADV	adv	_	26	advmod	26:advmod	_
@@ -1260,7 +1260,7 @@
 30	iwi	wi	NOUN	n	Rel=NCont	31	nsubj	31:nsubj	_
 31	yopit	pit	NOUN	n	Rel=NCont	_	_	_	_
 32	ma	ma	PART	prcl	_	31	discourse	31:discourse	_
-33	e'em	e	AUX	aux	_	31	aux	31:aux	_
+33	e'em	e'em	AUX	aux	_	31	aux	31:aux	_
 34	.	.	PUNCT	PUNCT	_	31	punct	31:PUNCT	punct
 
 # sent_id = 7010
@@ -1338,7 +1338,7 @@
 10	puje	puje	SCONJ	sconj	_	9	mark	9:mark	_
 11	axima	axima	NOUN	n	_	12	nsubj	12:nsubj	_
 12	nõm	nõm	NOUN	n	_	3	parataxis	3:parataxis	_
-13	e'em	e	AUX	aux	_	12	aux	12:aux	_
+13	e'em	e'em	AUX	aux	_	12	aux	12:aux	_
 14	ip	ip	PRON	pro	_	11	dep	11:dep	_
 15	.	.	PUNCT	punct	_	12	punct	12:punct	_
 16	Axima	axima	NOUN	n	_	17	obj	17:obj	_
