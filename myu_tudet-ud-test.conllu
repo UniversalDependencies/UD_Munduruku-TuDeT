@@ -1094,7 +1094,7 @@
 9	ma	ma	PART	prcl	_	8	discourse	8:discourse	_
 10	.	.	PUNCT	PUNCT	_	8	punct	8:punct	punct
 11	Pirãydup	pirãydup	NOUN	n	_	14	nsubj	14:nsubj	_
-12	.	.	PUNCT	punct	_	14	punct	14:punct	punct
+12	,	,	PUNCT	punct	_	14	punct	14:punct	punct
 13	pirũm	pirũm	NOUN	n	_	14	conj	14:conj	_
 14	yopit	yopit	NOUN	n	Rel=NCont	1	parataxis	1:parataxis	_
 15	ma	ma	PART	prcl	_	14	discourse	14:discourse	_
@@ -1116,7 +1116,7 @@
 10	yobog̃ayũ	bog̃	VERB	v	Number=Plur|Rel=NCont	3	parataxis	3:parataxis	SpaceAfter=No
 11	.	.	PUNCT	PUNCT	_	10	punct	10:punct	punct
 12	Ag̃okatkayũ	ag̃okatkat	NOUN	n	Number=Plur	14	nsubj	14:nsubj	_
-13	axĩma	axĩma	NOUN	n	_	14	obj	14:obj	_
+13	axima	axima	NOUN	n	_	14	obj	14:obj	_
 14	muyuhum	um	VERB	v	Voice=Cau	3	parataxis	3:parataxis	_
 15	pig̃am	pig̃a	NOUN	n	Case=Ins	14	obl	14:obl	SpaceAfter=No
 16	.	.	PUNCT	PUNCT	_	14	punct	14:punct	punct
@@ -1177,7 +1177,7 @@
 13	.	.	PUNCT	PUNCT	_	2	punct	2:punct	punct
 
 # sent_id = 7008
-# text = G̃ebuje , yobog̃ayũ wuywuy ip baseya'a be . Yobog̃ayũ uk kakam ip e'em . Axima uk kakam ip pima, ixep uk'ug̃ ip . Ixepmuekabekbeg̃ ip uktup pe . Ade axima uk kakam ip . Ixep muekabekbeg̃ ip uktup pe , ayacayũ .
+# text = G̃ebuje , yobog̃ayũ wuywuy ip baseya'a be . Yobog̃ayũ uk kakam ip e'em . Axima uk kakam ip pima, ixep uk'ug̃ ip . Ixep muekabekbeg̃ ip uktup pe . Ade axima uk kakam ip . Ixep muekabekbeg̃ ip uktup pe , ayacayũ .
 # text_en =    (Cartilha 7, 3.2)
 # text_por = Ai, elas lavam os grandes numa bacia. Elas cortam a barriga dos grandes. Quando elas cortam a barriga dos peixes, elas tiram a gordura deles. Elas embrulham a gordura em folhas. Elas cortam a barriga de muitos peixes. Elas embrulham a gordura em folhas, as mulheres.
 1	G̃ebuje	g̃ebuje	ADV	adv	_	3	advmod	3:advmod	_
@@ -1259,7 +1259,7 @@
 28	pima	pima	SCONJ	sconj	_	26	mark	26:mark	_
 29	,	,	PUNCT	punct	_	31	punct	31:punct	punct
 30	iwi	wi	NOUN	n	Rel=NCont	31	nsubj	31:nsubj	_
-31	yopit	pit	NOUN	n	Rel=NCont	_	_	_	_
+31	yopit	pit	NOUN	n	Rel=NCont	3	parataxis	3:parataxis	_
 32	ma	ma	PART	prcl	_	31	discourse	31:discourse	_
 33	e'em	e	AUX	aux	_	31	aux	31:aux	_
 34	.	.	PUNCT	PUNCT	_	31	punct	31:punct	punct
