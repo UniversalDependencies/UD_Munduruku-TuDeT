@@ -1136,7 +1136,7 @@
 10	Pig̃ãm	pig̃ã	NOUN	n	Case=Ins	12	obj	12:obj	_
 11	axima	axima	NOUN	n	_	12	nsubj	12:nsubj	_
 12	muyhum	um	VERB	v	Aspect=Imp|Voice=Cau	3	parataxis	3:parataxis	_
-13	ip	ip	PRON	pro	Number=Plur|Person=3	12	nsubj	12:nsubj	_
+13	ip	ip	PRON	pro	Number=Plur|Person=3	12	nsubj	12:nsubj	SpaceAfter=No
 14	.	.	PUNCT	PUNCT	_	12	punct	12:punct	punct
 
 # sent_id = 7006
@@ -1159,24 +1159,24 @@
 
 # sent_id = 7007
 # text = Yopĩutayũ muekabekbeg̃ ip uktup pe. Ayacayũ yopĩutayũ muekabekbeg̃ ip uktup pe.
-# text_eng =       (Cartilha 7, 3-1)
+# text_eng =       (Cartilha 7, 3-1) #Asp=DurIprf|
 # text_por = Os pequenos, elas embrulham em folhas. As mulheres embrulham os pequenos em folhas. 
 1	Yopĩutayũ	_	NOUN	n	_	2	obj	2:obj	_
-2	muekabekbeg̃	ekabek	VERB	v	Asp=DurIprf||Voice=Cau	0	root	0:root	_
+2	muekabekbeg̃	ekabek	VERB	v	Voice=Cau	0	root	0:root	_
 3	ip	ip	PRON	pro	Number=Plur|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
 4	uktup	uk	NOUN	n	_	2	obl	2:obl	_
 5	pe	be	ADP	posp	_	4	case	4:case	_
 6	.	.	PUNCT	PUNCT	_	2	punct	2:punct	punct
 7	Ayacayũ	ayacat	NOUN	n	_	9	nsubj	9:nsubj	_
 8	yopĩutayũ	_	NOUN	n	_	9	obj	9:obj	_
-9	muekabekbeg̃	ekabek	VERB	v	Asp=DurIprf|Voice=Cau	2	parataxis	2:parataxis	_
+9	muekabekbeg̃	ekabek	VERB	v	Voice=Cau	2	parataxis	2:parataxis	_
 10	ip	ip	PRON	pro	Number=Plur|Person=3|PronType=Prs	9	dep	9:dep	_
 11	uktup	uk	NOUN	n	_	9	obl	9:obl	_
 12	pe	be	ADP	posp	_	11	case	11:case	_
 13	.	.	PUNCT	PUNCT	_	2	punct	2:punct	punct
 
 # sent_id = 7008
-# text = G̃ebuje , yobog̃ayũ wuywuy ip baseya'a be . Yobog̃ayũ uk kakam ip e'em . Axiima uk kakam ip pima , ixep uk'ug̃ ip . Ixepmuekabekbeg̃ ip uktup pe . Ade axíma uk kakam ip . Ixep muekabekbeg̃ ip uktup pe , ayacayũ .
+# text = G̃ebuje , yobog̃ayũ wuywuy ip baseya'a be . Yobog̃ayũ uk kakam ip e'em . Axiima uk kakam ip pima, ixep uk'ug̃ ip . Ixepmuekabekbeg̃ ip uktup pe . Ade axíma uk kakam ip . Ixep muekabekbeg̃ ip uktup pe , ayacayũ .
 # text_en =    (Cartilha 7, 3.2)
 # text_por = Ai, elas lavam os grandes numa bacia. Elas cortam a barriga dos grandes. Quando elas cortam a barriga dos peixes, elas tiram a gordura deles. Elas embrulham a gordura em folhas. Elas cortam a barriga de muitos peixes. Elas embrulham a gordura em folhas, as mulheres.
 1	G̃ebuje	g̃ebuje	ADV	adv	_	3	advmod	3:advmod	_
@@ -1184,14 +1184,14 @@
 3	yobog̃ayũ	bog̃	NOUN	n	Number=Plur|Rel=NCont	4	obj	4:obj	_
 4	wuywuy	wuy	VERB	v	Aspect=Iter	0	root	0:root	_
 5	ip	ip	PRON	pro	Number=Plur|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
-6	baseya’a	baseya	NOUN	n	Class=Round	4	obl	4:obl	_
+6	baseya'a	baseya	NOUN	n	Class=Round	4	obl	4:obl	_
 7	be	be	ADP	posp	_	6	case	6:case	_
 8	.	.	PUNCT	PUNCT	_	4	punct	4:punct	punct
 9	Yobog̃ayũ	bog̃	NOUN	n	Number=Plur|Rel=NCont	10	nmod	10:nmod	_
 10	uk	uk	NOUN	n	_	11	obj	11:obj	_
 11	kakam	ka	VERB	v	Aspect=DurIprf	4	parataxis	4:parataxis	_
 12	ip	ip	PRON	pro	Number=Plur|Person=3|PronType=Prs	11	nsubj	11:nsubj	_
-13	e'em	e'e	AUX	aux	Aspect=DurIprf	11	aux	11:aux	_
+13	e'em	e'em	AUX	aux	Aspect=DurIprf	11	aux	11:aux	_
 14	.	.	PUNCT	PUNCT	_	11	punct	11:punct	punct
 15	Axíma	_	NOUN	n	_	16	nmod	16:nmod	_
 16	uk	uk	NOUN	n	_	17	obj	17:obj	_
@@ -1239,7 +1239,7 @@
 9	.	.	PUNCT	PUNCT	_	3	punct	3:punct	punct
 10	Ade	ade	NOUN	n	_	14	advcl	14:advcl	_
 11	bima	pima	SCONJ	sconj	_	10	mark	10:mark	_
-12	.	.	PUNCT	punct	_	14	punct	14:punct	punct
+12	,	,	PUNCT	punct	_	14	punct	14:punct	punct
 13	ade	ade	NOUN	n	_	14	obj	14:obj	_
 14	imupurukpurug̃	puruk	VERB	v	Rel=NCont|Voice=Cau	3	parataxis	3:parataxis	_
 15	ip	ip	PRON	pron	Number=Plur|Person=3|PronType=Prs	14	nsubj	14:nsubj	_
@@ -1248,7 +1248,7 @@
 18	.	.	PUNCT	PUNCT	_	14	punct	14:punct	punct
 19	Ade	ade	NOUN	n	_	22	advcl	22:advcl	_
 20	bima	pima	SCONJ	sconj	_	19	mark	19:mark	_
-21	.	.	PUNCT	punct	_	22	punct	22:punct	punct
+21	,	,	PUNCT	punct	_	22	punct	22:punct	punct
 22	yobog̃	bog̃	NOUN	n	Rel=NCont	3	parataxis	3:parataxis	_
 23	iwi	wi	NOUN	n	_	22	nsubj	22:nsubj	_
 24	e'em	e	AUX	aux	_	22	aux	22:aux	_
@@ -1256,7 +1256,7 @@
 26	Ade	ade	NOUN	n	_	31	advcl	31:advcl	_
 27	ũm	ũm	ADV	adv	_	26	advmod	26:advmod	_
 28	pima	pima	SCONJ	sconj	_	26	mark	26:mark	_
-29	.	.	PUNCT	punct	_	31	punct	31:punct	punct
+29	,	,	PUNCT	punct	_	31	punct	31:punct	punct
 30	iwi	wi	NOUN	n	Rel=NCont	31	nsubj	31:nsubj	_
 31	yopit	pit	NOUN	n	Rel=NCont	_	_	_	_
 32	ma	ma	PART	prcl	_	31	discourse	31:discourse	_
@@ -1270,7 +1270,7 @@
 1	Ade	ade	ADJ	adj	_	2	amod	2:amod	_
 2	tao	dao	NOUN	n	Rel=NCont	6	advcl	6:advcl	_
 3	bima	pima	SCONJ	sconj	_	2	mark	2:mark	_
-4	.	.	PUNCT	punct	_	6	punct	6:punct	punct
+4	,	,	PUNCT	punct	_	6	punct	6:punct	punct
 5	tao	dao	NOUN	n	Rel=NCont	6	obj	6:obj	_
 6	uk'ug̃	uk	VERB	v	Aspect=DurIprf	0	root	0:root	_
 7	ip	ip	PRON	pron	Number=Plur|Person=3|PronType=Prs	6	nsubj	6:nsubj	_
@@ -1292,20 +1292,20 @@
 8	uk'ug̃	uk	VERB	v	Aspect=DurIprf	2	parataxis	2:parataxis	_
 9	ip	_	PRON	pro	Number=Plur|Person=3|PronType=Prs	10	dep	10:dep	_
 10	ayacayũ	ayacat	NOUN	n	_	8	nsubj	8:nsubj	_
-11	.	.	PUNCT	punct	_	8	punct	8:punct	punct
+11	,	,	PUNCT	punct	_	8	punct	8:punct	punct
 12	axima	axima	NOUN	n	_	13	nmod	13:nmod	_
 13	dao	dao	NOUN	n	Rel=Cont	7	appos	7:appos	_
 14	.	.	PUNCT	PUNCT	_	2	punct	2:punct	punct
 
 # sent_id = 7012
 # text = Tao uk puje , imõg̃mõg̃ ip iwi be daxa ase . Tao uk puje axima tatam ip uktup pe .
-# text_en =        (Cartilha 7, 4.2)
+# text_en =        (Cartilha 7, 4.2) Aspect=IterImp
 # text_por = Quando as espinhas estão tiradas, elas botam os peixes no mocjuem em cima do fogo. Quando as espinhas estão tiradas, elqs cozinham os pèixes em folhas
 1	Tao	dao	NOUN	n	Rel=NCont	2	nsubj	2:nsubj	_
 2	uk	uk	NOUN	n	_	5	advcl	5:advcl	_
 3	puje	puje	SCONJ	_	_	2	mark	2:mark	_
 4	,	,	PUNCT	punct	_	5	punct	5:punct	punct
-5	imõg̃mõg̃	_	VERB	v	Aspect=IterImp	0	root	0:root	_
+5	imõg̃mõg̃	_	VERB	v	_	0	root	0:root	_
 6	ip	ip	PRON	pro	_	5	nsubj	5:nsubj	_
 7	iwi	wi	NOUN	n	Rel=NCont	5	obl	5:obl	_
 8	be	be	ADP	posp	_	7	case	7:case	_
@@ -1322,7 +1322,7 @@
 19	pe	pe	ADP	posp	_	18	case	18:case	_
 20	.	.	PUNCT	punct	_	5	punct	5:punct	punct
 
-# sent_id = 7013 
+# sent_id = 7013
 # text = Iwi be imõg̃mõg̃ ip ta am . Tao uk puje axima nõm e'em ip . Axima tatam ip uktup pe . Iwi be imõg̃mõg̃ ip uktup pe axima mupuruk am .
 # text_en =      (Cartilha 7, 4.3)
 # text_por = Elas botam no moquem para cozinhar. Quando as espinhas estão tiradas, os peixes ficarao piracuí. Elas cozinham os peixes em folhas. Elas botam em^folhas no moquem para moquear.
