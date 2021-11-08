@@ -1059,7 +1059,7 @@
 11	.	.	PUNCT	PUNCT	_	8	punct	8:punct	punct
 
 # sent_id = 7002
-# text = Ag̃okatkayũ soat axĩma muyuhum : wasũbu , potip , potiprip , pakodup , pirãydup , pirũm .
+# text = Ag̃okatkayũ soat axima muyuhum : wasũbu , potip , potiprip , pakodup , pirãydup , pirũm .
 # text_por = Os homens pegam todos os peixes: manju, tucunaré, jatuarana, pacu, piranha, e charoto. (Cartilha 7, 1.2)
 1	Ag̃okatkayũ	ag̃okatkat	NOUN	n	Number=Plur	4	nsubj	4:nsubj	_
 2	soat	soat	DET	det	_	3	det	3:det	_
