@@ -1051,12 +1051,12 @@
 3	muyuhum	u	VERB	v	Aspect=Imp|Rel=NCont|Voice=Cau	0	root	0:root	_
 4	idibi	idibi	NOUN	n	_	3	obj	3:obj	_
 5	tag̃	dag̃	ADP	posp	Rel=NCont	4	case	4:case	_
-6	.	.	PUNCT	PUNCT	_	3	punct	3:PUNCT	punct
+6	.	.	PUNCT	PUNCT	_	3	punct	3:punct	punct
 7	Axĩma	axĩma	NOUN	n	_	8	obj	8:obj	_
 8	muyuhum	u	VERB	v	Aspect=Imp|Rel=NCont|Voice=Cau	3	parataxis	3:parataxis	_
 9	ip	ip	PRON	pro	Number=Plur|Person=3|PronType=Prs	8	nsubj	8:nsubj	_
 10	pig̃am	pig̃a	NOUN	n	Case=Ins	8	obl	8:obl	_
-11	.	.	PUNCT	PUNCT	_	8	punct	8:PUNCT	punct
+11	.	.	PUNCT	PUNCT	_	8	punct	8:punct	punct
 
 # sent_id = 7002
 # text_eng = Ag̃okatkayũ soat axĩma muyuhum: wasũbu, potip, potiprip, pakodup, pirãydup, pirũm . (Cartilha 7, 1.2)
@@ -1066,17 +1066,17 @@
 3	axĩma	axĩma	NOUN	n	_	4	obj	4:obj	_
 4	muyuhum:	um	VERB	v	Aspect=Imp|Voice=Cau	0	root	0:root	_
 5	wasũbu	wasũ	NOUN	n	Class=CilFlx	3	appos	3:appos	_
-6	,	,	PUNCT	PUNCT	punct	5	punct	5:PUNCT	punct
+6	,	,	PUNCT	PUNCT	punct	5	punct	5:punct	punct
 7	potip	potip	NOUN	n	_	5	conj	5:conj	_
-8	,	,	PUNCT	PUNCT	punct	5	punct	5:PUNCT	punct
+8	,	,	PUNCT	PUNCT	punct	4	punct	4:punct	punct
 9	potiprip	NOUN	NOUN	n	_	7	conj	7:conj	_
-10	,	,	PUNCT	PUNCT	punct	5	punct	5:PUNCT	punct
+10	,	,	PUNCT	PUNCT	punct	4	punct	4:punct	punct
 11	pakodup	_	NOUN	n	Class=Leaf	9	conj	9:conj	_
-12	,	,	PUNCT	PUNCT	punct	5	punct	5:PUNCT	punct
+12	,	,	PUNCT	PUNCT	punct	4	punct	4:punct	punct
 13	pirãydup	pirãydup	NOUN	n	Class=Leaf	11	conj	11:conj	_
-14	,	,	PUNCT	PUNCT	punct	5	punct	5:PUNCT	punct
+14	,	,	PUNCT	PUNCT	punct	4	punct	4:punct	punct
 15	pirũm	pirũm	NOUN	n	_	13	conj	13:conj	_
-16	.	.	PUNCT	PUNCT	_	4	punct	4:PUNCT	punct
+16	.	.	PUNCT	PUNCT	_	4	punct	4:punct	punct
 
 # sent_id = 7003
 # text = Idib dag̃ soat axĩma . Pũg̃pũg̃ axĩma yopit ma . Pirãydup , pirũm yopit ma.
