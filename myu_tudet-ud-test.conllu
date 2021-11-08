@@ -1063,20 +1063,20 @@
 # text_por = Os homens pegam todos os peixes: manju, tucunaré, jatuarana, pacu, piranha, e charoto. (Cartilha 7, 1.2)
 1	Ag̃okatkayũ	ag̃okatkat	NOUN	n	Number=Plur	4	nsubj	4:nsubj	_
 2	soat	soat	DET	det	_	3	det	3:det	_
-3	axĩma	axĩma	NOUN	n	_	4	obj	4:obj	_
+3	axima	axima	NOUN	n	_	4	obj	4:obj	_
 4	muyuhum	um	VERB	v	Aspect=Imp|Voice=Cau	0	root	0:root	_
 5	:	:	PUNCT	punct	_	4	punct	4:punct	_
 6	wasũbu	wasũ	NOUN	n	Class=CilFlx	3	appos	3:appos	_
-7	,	,	PUNCT	punct	_	4	punct	4:punct	punct
-8	potip	potip	NOUN	n	_	5	conj	5:conj	_
-9	,	,	PUNCT	punct	_	4	punct	4:punct	punct
-10	potiprip	potiprip	NOUN	n	_	7	conj	7:conj	_
-11	,	,	PUNCT	punct	_	9	punct	9:punct	punct
-12	pakodup	pako	NOUN	n	_	9	conj	9:conj	_
-13	,	,	PUNCT	punct	_	11	punct	11:punct	punct
-14	pirãydup	pirãydup	NOUN	n	_	11	conj	11:conj	_
-15	,	,	PUNCT	punct	_	13	punct	13:punct	punct
-16	pirũm	pirũm	NOUN	n	_	13	conj	13:conj	_
+7	,	,	PUNCT	punct	_	6	punct	6:punct	punct
+8	potip	potip	NOUN	n	_	6	conj	6:conj	_
+9	,	,	PUNCT	punct	_	6	punct	6:punct	_
+10	potiprip	potiprip	NOUN	n	_	6	conj	6:conj	_
+11	.	.	PUNCT	punct	_	6	punct	6:punct	punct
+12	pakodup	pako	NOUN	n	_	6	conj	6:conj	_
+13	,	,	PUNCT	punct	_	6	punct	6:punct	punct
+14	pirãydup	pirãydup	NOUN	n	_	6	conj	6:conj	_
+15	,	,	PUNCT	punct	_	6	punct	6:punct	punct
+16	pirũm	pirũm	NOUN	n	_	6	conj	6:conj	_
 17	.	.	PUNCT	PUNCT	_	4	punct	4:punct	punct
 
 # sent_id = 7003
