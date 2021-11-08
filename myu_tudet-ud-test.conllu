@@ -1071,9 +1071,9 @@
 8	.	.	PUNCT	punct	_	4	punct	4:punct	punct
 9	potiprip	NOUN	NOUN	n	_	7	conj	7:conj	_
 10	.	.	PUNCT	punct	_	4	punct	4:punct	punct
-11	pakodup	_	NOUN	n	Class=Leaf	9	conj	9:conj	_
+11	pakodup	_	NOUN	n	_	9	conj	9:conj	_
 12	.	.	PUNCT	punct	_	4	punct	4:punct	punct
-13	pirãydup	pirãydup	NOUN	n	Class=Leaf	11	conj	11:conj	_
+13	pirãydup	pirãydup	NOUN	n	_	11	conj	11:conj	_
 14	.	.	PUNCT	punct	_	4	punct	4:punct	punct
 15	pirũm	pirũm	NOUN	n	_	13	conj	13:conj	_
 16	.	.	PUNCT	PUNCT	_	4	punct	4:punct	punct
@@ -1092,7 +1092,7 @@
 8	yopit	yopit	NOUN	n	Rel=NCont	1	parataxis	1:parataxis	_
 9	ma	ma	PART	prcl	_	8	discourse	8:discourse	_
 10	.	.	PUNCT	PUNCT	_	8	punct	8:PUNCT	punct
-11	Pirãydup	pirãydup	NOUN	n	Class=Leaf	14	nsubj	14:nsubj	_
+11	Pirãydup	pirãydup	NOUN	n	_	14	nsubj	14:nsubj	_
 12	.	.	PUNCT	punct	_	14	punct	14:PUNCT	punct
 13	pirũm	pirũm	NOUN	n	_	14	conj	14:conj	_
 14	yopit	yopit	NOUN	n	Rel=NCont	1	parataxis	1:parataxis	_
@@ -1130,7 +1130,7 @@
 4	.	.	PUNCT	PUNCT	_	3	punct	3:PUNCT	punct
 5	Potiprit	potiprit	NOUN	n	_	8	nsubj	8:nsubj	_
 6	.	.	PUNCT	punct	_	8	punct	8:PUNCT	punct
-7	pakodup	pakodup	NOUN	n	Class=Leaf	8	conj	8:conj	_
+7	pakodup	pakodup	NOUN	n	_	8	conj	8:conj	_
 8	yobog̃bug̃yũ	bog̃	VERB	v	Atten=Yes|Rel=NCont	3	parataxis	3:parataxis	_
 9	.	.	PUNCT	PUNCT	_	8	punct	8:PUNCT	punct
 10	Pig̃ãm	pig̃ã	NOUN	n	Case=Ins	12	obj	12:obj	_
@@ -1164,14 +1164,14 @@
 1	Yopĩutayũ	_	NOUN	n	_	2	obj	2:obj	_
 2	muekabekbeg̃	ekabek	VERB	v	Asp=DurIprf||Voice=Cau	0	root	0:root	_
 3	ip	ip	PRON	pro	Number=Plur|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
-4	uktup	uk	NOUN	n	Class=Leaf	2	obl	2:obl	_
+4	uktup	uk	NOUN	n	_	2	obl	2:obl	_
 5	pe	be	ADP	posp	_	4	case	4:case	_
 6	.	.	PUNCT	PUNCT	_	2	punct	2:PUNCT	punct
 7	Ayacayũ	ayacat	NOUN	n	_	9	nsubj	9:nsubj	_
 8	yopĩutayũ	_	NOUN	n	_	9	obj	9:obj	_
 9	muekabekbeg̃	ekabek	VERB	v	Asp=DurIprf|Voice=Cau	2	parataxis	2:parataxis	_
 10	ip	ip	PRON	pro	Number=Plur|Person=3|PronType=Prs	9	dep	9:dep	_
-11	uktup	uk	NOUN	n	Class=Leaf	9	obl	9:obl	_
+11	uktup	uk	NOUN	n	_	9	obl	9:obl	_
 12	pe	be	ADP	posp	_	11	case	11:case	_
 13	.	.	PUNCT	PUNCT	_	2	punct	2:PUNCT	punct
 
@@ -1218,7 +1218,7 @@
 37	Ixep	xep	NOUN	n	_	38	obj	38:obj	_
 38	muekabekbeg̃	ekabek	VERB	v	Aspect=DurIprfprf|Voice=Cau	4	parataxis	4:parataxis	_
 39	ip	ip	PRON	pro	Number=Plur|Person=3|PronType=Prs	38	nsubj	38:nsubj	_
-40	uktup	uk	NOUN	n	Class=Leaf	38	obl	38:obl	_
+40	uktup	uk	NOUN	n	_	38	obl	38:obl	_
 41	pe	pe	ADP	posp	_	40	case	40:case	_
 42	.	.	PUNCT	punct	_	38	punct	38:PUNCT	punct
 43	ayacayũ	ayacat	NOUN	n	Number=Plur	38	parataxis	38:parataxis	_
@@ -1318,7 +1318,7 @@
 15	axima	axima	NOUN	n	_	16	obj	16:obj	_
 16	tatam	ta	VERB	v	Aspect=DurIprf	5	parataxis	5:parataxis	_
 17	ip	ip	PRON	pro	_	16	nsubj	16:nsubj	_
-18	uktup	uk	NOUN	n	Class=Leaf	16	obl	16:obl	_
+18	uktup	uk	NOUN	n	_	16	obl	16:obl	_
 19	pe	pe	ADP	posp	_	18	case	18:case	_
 20	.	.	PUNCT	punct	_	5	punct	5:PUNCT	punct
 
@@ -1344,14 +1344,14 @@
 16	Axima	axima	NOUN	n	_	17	obj	17:obj	_
 17	tatam	ta	VERB	v	Aspect=DurIprf	3	parataxis	3:parataxis	_
 18	ip	ip	PRON	pro	_	17	nsubj	17:nsubj	_
-19	uktup	uk	NOUN	n	Class=Leaf	17	obl	17:obl	_
+19	uktup	uk	NOUN	n	_	17	obl	17:obl	_
 20	pe	pe	ADP	posp	_	19	case	19:case	_
 21	.	.	PUNCT	punct	_	17	punct	17:punct	_
 22	Iwi	wi	NOUN	n	Rel=NCont	24	obj	24:obj	_
 23	be	be	ADP	posp	_	22	case	22:case	_
 24	imõg̃mõg̃	mõg̃	VERB	v	Aspect=DurIprf	3	parataxis	3:parataxis	_
 25	ip	ip	PRON	pro	_	24	nsubj	24:nsubj	_
-26	uktup	uk	NOUN	n	Class=Leaf	24	obl	24:obl	_
+26	uktup	uk	NOUN	n	_	24	obl	24:obl	_
 27	pe	be	ADP	posp	_	26	case	26:case	_
 28	axima	axima	NOUN	n	_	29	obj	29:obj	_
 29	mupuruk	puruk	VERB	v	Voice=Cau	24	advcl	24:advcl	_
