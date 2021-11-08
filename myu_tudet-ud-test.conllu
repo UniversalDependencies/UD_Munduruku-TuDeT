@@ -1094,7 +1094,7 @@
 9	ma	ma	PART	prcl	_	8	discourse	8:discourse	_
 10	.	.	PUNCT	PUNCT	_	8	punct	8:punct	punct
 11	Pirãydup	pirãydup	NOUN	n	_	14	nsubj	14:nsubj	_
-12	,	,	PUNCT	punct	_	14	punct	14:punct	punct
+12	,	,	PUNCT	punct	_	11	punct	11:punct	punct
 13	pirũm	pirũm	NOUN	n	_	11	conj	11:conj	_
 14	yopit	yopit	NOUN	n	Rel=NCont	1	parataxis	1:parataxis	_
 15	ma	ma	PART	prcl	_	14	discourse	14:discourse	_
