@@ -1385,7 +1385,7 @@
 19	be	be	ADP	posp	_	18	case	18:case	_
 20	.	.	PUNCT	punct	_	12	punct	12:punct	punct
 21	Tõm	tõm_	NOUN	n	_	22	obj	22:obj	_
-22	cuk	cuk	NOUN	n	Aspect=Per	27	advcl	27:advcl	_
+22	cuk	cuk	NOUN	n	Aspect=Perf	27	advcl	27:advcl	_
 23	puje	puje	SCONJ	sconj	_	22	mark	22:mark	_
 24	,	,	PUNCT	punct	_	22	punct	22:punct	punct
 25	tõm	tõm	NOUN	n	_	27	obj	27:obj	_
