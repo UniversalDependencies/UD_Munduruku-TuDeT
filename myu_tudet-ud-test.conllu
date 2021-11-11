@@ -1370,12 +1370,12 @@
 4	.	.	PUNCT	punct	_	1	punct	1:punct	punct
 5	Ẽ	ẽ	NOUN	n	_	7	obl	7:obl	_
 6	be	be	ADP	posp	_	5	case	5:case	_
-7	ijukjug̃	cuk	VERB	v	Aspect=DurImp|Rel=NCont	1	parataxis	1:parataxis	_
+7	ijukjug̃	cuk	VERB	v	Aspect=DurIprf|Rel=NCont	1	parataxis	1:parataxis	_
 8	ip	ip	PRON	pro	Number=Plur|Person=3	7	nsubj	7:nsubj	_
 9	.	.	PUNCT	punct	_	7	punct	7:punct	punct
 10	Axima	axima	NOUN	n	_	11	nmod	11:nmod	_
 11	nõm	tõm	NOUN	n	_	12	obj	12:obj	_
-12	cukcug̃	cuk	VERB	v	Aspect=DurImp	1	parataxis	1:parataxis	_
+12	cukcug̃	cuk	VERB	v	Aspect=DurIprf	1	parataxis	1:parataxis	_
 13	ip	ip	PRON	pro	Number=Plur|Person=3	12	nsubj	12:nsubj	_
 14	ẽ	ẽ	NOUN	n	_	12	obl	12:obl	_
 15	be	be	ADP	posp	_	14	case	14:case	_
@@ -1390,7 +1390,7 @@
 24	,	,	PUNCT	punct	_	22	punct	22:punct	punct
 25	tõm	tõm	NOUN	n	_	27	obj	27:obj	_
 26	ip	ip	PRON	pro	Number=Plur|Person=3	27	nsubj	27:nsubj	_
-27	riprim	rip	VERB	v	Aspect=DurImp	1	parataxis	1:parataxis	_
+27	riprim	rip	VERB	v	Aspect=DurIprf	1	parataxis	1:parataxis	_
 28	pag̃eiro'a	pag̃eiro	NOUN	n	Class=Round	27	obl	27:obl	_
 29	be	be	ADP	posp	_	28	case	28:case	_
 30	.	.	PUNCT	punct	_	27	punct	27:punct	punct
