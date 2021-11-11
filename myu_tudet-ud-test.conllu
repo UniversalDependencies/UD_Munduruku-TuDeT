@@ -1394,3 +1394,41 @@
 28	be	be	ADP	posp	_	27	case	27:case	_
 29	.	.	PUNCT	punct	_	26	punct	26:punct	_
 
+# sent_id = 7015
+# text = Tõm karaw bima , tõm pi riprim pag̃eiro’a be . Tõm pi rip puje , iwi be imõg̃mõg̃ ip daxa ase tõm mudaxip am . Imõg̃mõg̃ ip daxa ase tõm mukaraw am .
+# text_eng =       (Cartilha 7, 4.5)
+# text_por = Quando o piracuí está torrado, elas empaneiram no paneiro, Quando está empaneirado, elas botam no moquem em cima do fogo para esquentar. Elas botam em cima do fogo para torrar.
+1	Tõm	tõm	NOUN	n	_	2	nsubj	2:nsubj	_
+2	karaw	karaw	VERB	v	_	7	advcl	7:advcl	_
+3	bima	pima	SCONJ	sconj	_	2	mark	2:mark	_
+4	,	,	PUNCT	punct	_	2	punct	2:punct	_
+5	tõm	tõm	NOUN	n	_	6	nmod	6:nmod	_
+6	pi	pi	NOUN	n	_	7	obj	7:obj	_
+7	riprim	rip	VERB	v	Aspect=DurIprf	0	root	0:root	_
+8	pag̃eiro’a	pag̃eiro	NOUN	n	Class=Round	7	obl	7:obl	_
+9	be	be	ADP	posp	_	8	case	8:case	_
+10	.	.	PUNCT	punct	_	7	punct	7:punct	_
+11	Tõm	tõm	NOUN	n	_	12	nmod	12:nmod	_
+12	pi	pi	NOUN	n	_	13	nmod	13:nmod	_
+13	rip	rip	VERB	v	Aspect=Perf	_	_	_	_
+14	puje	_	SCONJ	sconj	_	13	mark	13:mark	_
+15	,	,	PUNCT	punct	_	13	punct	13:punct	_
+16	iwi	wi	NOUN	n	Rel=NCont	18	obl	18:obl	_
+17	be	be	ADP	posp	_	16	case	16:case	_
+18	imõg̃mõg̃	mok	VERB	v	Aspect=DurIprf|Rel=NCont	2	parataxis	2:parataxis	_
+19	ip	ip	PRON	pro	_	18	nsubj	18:nsubj	_
+20	daxa	daxa	NOUN	n	_	18	obl	18:obl	_
+21	ase	ase	ADP	posp	_	20	case	20:case	_
+22	tõm	tõm	NOUN	n	_	23	obj	23:obj	_
+23	mudaxip	daxip	VERB	v	Voice=Cau	18	advcl	18:advcl	_
+24	am	am	SCONJ	sconj	_	23	mark	23:mark	_
+25	.	.	PUNCT	punct	_	18	punct	18:punct	_
+26	Imõg̃mõg̃	_	VERB	v	Aspect=DurIprf|Rel=Ncont	2	parataxis	2:parataxis	_
+27	ip	ip	PRON	pro	_	26	nsubj	26:nsubj	_
+28	daxa  daxa	NOUN	n	_	26	obl	26:obl	_
+29	ase	ase	ADP	posp	_	28	case	28:case	_
+30	tõm	tõm	NOUN	n	_	31	obj	31:obj	_
+31	mukaraw	karaw	VERB	v	Voice=Cau	26	advcl	26:advcl	_
+32	am	am	SCONJ	sconj	_	31	mark	31:mark	_
+33	.	.	PUNCT	punct	_	26	punct	26:punct	_
+
