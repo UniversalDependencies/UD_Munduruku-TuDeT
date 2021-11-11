@@ -1361,7 +1361,7 @@
 31	.	.	PUNCT	punct	_	24	punct	24:punct	_
 
 # sent_id = 7014
-# text = Tõm e'em ip . Ẽ be ijukjug̃ ip . Axima nõm cukcug̃ ip ẽ be , wãẽn tuk'a be . Tõm cuk puje , tõm ip riprim pag̃eiro'a be .
+# text = Tõm e'em ip . Ẽ be ijukjug̃ ip . Axima nõm cukcug̃ ip ẽ be , wãẽn tuk'a be . Tõm cuk puje , tõm ipriprim pag̃eiro'a be .
 # text_eng = The becom porridge (like). They pund it with the pestle. They pound the dough with the pestle in the over house. When the fish-dough is pounded, they strain it in the sieve. (Cartilha 7, 4.4)
 # text_por = Ficarão piracui. Elas pilam no pilão. Elas pilam o piracui no pilão, na casa do forno. Quando o piracui está pilado, elas empaneiram no paneiro.
 1	Tõm	tõm	NOUN	n	_	0	root	0:root	_
