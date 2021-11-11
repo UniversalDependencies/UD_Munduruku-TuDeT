@@ -1425,7 +1425,7 @@
 25	.	.	PUNCT	punct	_	18	punct	18:punct	_
 26	Imõg̃mõg̃	_	VERB	v	Aspect=DurIprf|Rel=Ncont	2	parataxis	2:parataxis	_
 27	ip	ip	PRON	pro	_	26	nsubj	26:nsubj	_
-28	daxa daxa	NOUN	n	_	26	obl	26:obl	_
+28	daxa	daxa	NOUN	n	_	26	obl	26:obl	_
 29	ase	ase	ADP	posp	_	28	case	28:case	_
 30	tõm	tõm	NOUN	n	_	31	obj	31:obj	_
 31	mukaraw	karaw	VERB	v	Voice=Cau	26	advcl	26:advcl	_
