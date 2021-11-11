@@ -1423,7 +1423,7 @@
 23	mudaxip	daxip	VERB	v	Voice=Cau	18	advcl	18:advcl	_
 24	am	am	SCONJ	sconj	_	23	mark	23:mark	_
 25	.	.	PUNCT	punct	_	18	punct	18:punct	_
-26	Imõg̃mõg̃	_	VERB	v	Aspect=DurIprf|Rel=Ncont	2	parataxis	2:parataxis	_
+26	Imõg̃mõg̃	mok	VERB	v	Aspect=DurIprf|Rel=NCont	2	parataxis	2:parataxis	_
 27	ip	ip	PRON	pro	_	26	nsubj	26:nsubj	_
 28	daxa	daxa	NOUN	n	_	26	obl	26:obl	_
 29	ase	ase	ADP	posp	_	28	case	28:case	_
