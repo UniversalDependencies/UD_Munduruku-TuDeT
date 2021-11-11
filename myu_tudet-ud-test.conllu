@@ -1365,7 +1365,7 @@
 # text_eng = The becom porridge (like). They pund it with the pestle. They pound the dough with the pestle in the over house. When the fish-dough is pounded, they strain it in the sieve.
 # text_por = Ficarão piracui. Elas pilam no pilão. Elas pilam o piracui no pilão, na casa do forno. Quando o piracui está pilado, elas empaneiram no paneiro.
 1	Tõm	tõm	NOUN	n	_	0	root	0:root	_
-2	e'em	e'em	AUX	aux	_	1	cop	1:cop	_
+2	e'em	e'em	AUX	aux	_	1	aux	1:aux	_
 3	ip	ip	PRON	pro	Number=Plur|Person=3	1	nsubj	1:nsubj	_
 4	.	.	PUNCT	punct	_	1	punct	1:punct	punct
 5	Ẽ	ẽ	NOUN	n	_	7	obl	7:obl	_
