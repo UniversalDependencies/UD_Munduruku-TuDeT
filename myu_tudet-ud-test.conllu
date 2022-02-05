@@ -1496,3 +1496,30 @@
 5	oexe	exe	VERB	v	Number[subj]=Sing|Person[subj]=3	1	parataxis	_	_
 6	.	.	PUNCT	punct	_	5	punct	_	_
 
+# sent_id = 0033.8
+# text = Da'o o'jo'o'o io'e - puybit da'o .
+# text_por = Comeu bóia de castanha.
+1	Da'o	Da'o	NOUN	n	_	2	obj	_	_
+2	o'jo'o'o	'jo'o'o	NOUN	n	Aspect=Perf|Number[subj]=Plur|Person[subj]=3	0	root	_	_
+3	io'e	o'e	VERB	v	Evid=Nfh|Rel=NCont	2	discourse	_	_
+4	--	--	PUNCT	PUNCT	_	2	punct	_	_
+5	puybit	puybit	NOUN	v:st	_	2	obj	_	_
+6	da'o	da'o	NOUN	n	Rel=Cont	5	nmod	_	_
+7	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = 003.9
+# text = I'o'o o'tobuxik .
+# text_eng = 
+# text_port = Achou já comido.
+1	I'o'o	'o	NOUN	n	Rel=NCont	2	obl	_	_
+2	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Number[subj]=Sing|Person[obj]=3|Person[subj]=3	0	root	_	_
+3	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = 003.10
+# text = Iixĩt o'g̃ukorẽm
+# text_eng = 
+# text_port = A irmã ralhou com ele.
+1	Iixĩt	ixĩt	NOUN	n	Rel=NCont	2	nsubj	_	_
+2	o'g̃ukorẽm	korẽm	VERB	v	Aspect=Impf|Number[subj]=Sing|Person[subj]=3|Rel=NCont|Voice=Cau	0	root	_	_
+
+
