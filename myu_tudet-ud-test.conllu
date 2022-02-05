@@ -1486,3 +1486,13 @@
 9	oeku	oeku	VERB	v	Reflex=Yes	4	parataxis	_	_
 10	.	.	PUNCT	PUNCT	_	9	punct	_	_
 
+# sent_id = 0033.7
+# text = Dexe. Ku dag̃wi oexe .
+# text_port = Chegour. Chegou da roça.
+1	Dexe	Dexe	VERB	v	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	PUNCT	_	1	punct	_	_
+3	Ku	ku	NOUN	n	_	5	obl	_	_
+4	dag̃wi	dag̃wi	ADP	posp	_	3	case	_	_
+5	oexe	exe	VERB	v	Number[subj]=Sing|Person[subj]=3	1	parataxis	_	_
+6	.	.	PUNCT	punct	_	5	punct	_	_
+
