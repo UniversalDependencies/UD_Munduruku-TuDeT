@@ -1522,4 +1522,16 @@
 1	Iixĩt	ixĩt	NOUN	n	Rel=NCont	2	nsubj	_	_
 2	o'g̃ukorẽm	korẽm	VERB	v	Aspect=Impf|Number[subj]=Sing|Person[subj]=3|Rel=NCont|Voice=Cau	0	root	_	_
 
+# sent_id = 0033.11
+# text = Abu g̃u toma da'o o'jo'o'o ? io'e .
+# text_port = Quem comeu a bóia de castanha? ela perguntou.
+1	Abu	abu	PRON	pro	_	5	nsubj	_	_
+2	g̃u	g̃u	PART	npart	Polarity=Neg	5	discourse	_	_
+3	toma	toma	NOUN	n	_	5	obj	_	_
+4	da'o	da'o	NOUN	n	Rel=Cont	3	nmod	_	_
+5	o'jo'o'o	o'o	VERB	v	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3	0	root	_	_
+6	?	?	PUNCT	punct	_	5	punct	_	_
+7	io'e	o'e	VERB	v	Rel=NCont	5	parataxis	_	_
+8	.	.	PUNCT	punct	_	7	punct	_	_
+
 
