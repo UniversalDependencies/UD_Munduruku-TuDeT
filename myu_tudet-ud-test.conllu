@@ -1562,7 +1562,7 @@
 5	io'e	o'e	VERB	vi	Evident=Nfh|Number[subj]=Sing|Person[subj]=3	1	parataxis	_	_
 6	.	.	PUNCT	PUNCT	_	5	punct	_	_
 7	g̃ebuje	g̃ebuje	ADV	n	_	9	advmod	_	_
-8	bit	bit	NOUN	n	_	9	discourse	_	_
+8	bit	bit	NOUN	n	Contv=Yes	9	discourse	_	_
 9	o'jekõn	kõn	VERB	vi	Aspect=Perf|Number=[subj]|Person[subj]=3|Voice=Mid	5	parataxis	_	_
 10	g̃u	g̃u	PART	npart	Polarity=Neg	9	discourse	_	_
 11	.	.	PUNCT	PUNCT	_	9	punct	_	_
@@ -1572,7 +1572,7 @@
 # text_eng = Começou a não comer
 1	Jekõnkon	kõn	PRON	pron	Aspect=ImpDur|Voice=Mid	0	root	_	_
 2	g̃u	g̃u	ADV	npart	Polarity=Neg	3	advmod	_	_
-3	o'e	o'e	VERB	v	_	1	xcomp	_	_
+3	o'e	o'e	VERB	v	Aspect=Perf	1	xcomp	_	_
 
 # sent_id = 0033.16
 # text = Idibi dak o'tikõn g̃u ma .
@@ -1583,4 +1583,94 @@
 4	g̃u	g̃u	ADV	npart	Polarity=Neg	3	advmod	_	_
 5	ma	ma	PART	prcl	_	4	discourse	_	_
 6	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = 0033.17
+# text = Jekõnkon g̃u ma o'e .
+# text_port = Começou a nao comer.
+1	Jekõnkon	Jekõnkon	VERB	v	Aspect=Dur	0	root	_	_
+2	g̃u	g̃u	ADV	npart	Polarity=Neg	4	advmod	_	_
+3	ma	ma	PART	adv	_	4	discourse	_	_
+4	o'e	o'e	VERB	v	Aspect=Perf	1	xcomp	_	_
+5	.	.	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id = 0033.18
+# text = Ade em soat jekõnkon g̃u o'e .
+# text_port = por muitas vezes não comia tudo.
+1	Ade	ade	ADV	adj	_	4	obl	_	_
+2	em	em	ADP	posp	_	1	case	_	_
+3	soat	soat	PRON	pron	PronType=Tot	4	obj	_	_
+4	jekõnkon	jekõnkon	VERB	v	Aspect=Dur|Voice=Mid	0	root	_	_
+5	g̃u	g̃u	PART	npart	Polarity=Neg	4	advmod	_	_
+6	o'e	o'e	VERB	v	Aspect=Perf	5	parataxis	_	_
+7	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = 0033.19
+# text = Idibi konkõn g̃u o'e .
+# text_por = Não bebia água
+1	Idibi	idibi	NOUN	n	_	2	obj	_	_
+2	konkõn	konkõn	PRON	pron	Aspect=Dur	0	root	_	_
+3	g̃u	g̃u	PART	npart	Polarity=Neg	2	advmod	_	_
+4	o'e	o'e	VERB	v	Aspect=Perf|Nuber[subj]=Sing|Person=3	2	parataxis	_	_
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = 0033.20
+# text = Soan ma puybit o'om g̃u o'e .
+# text_por = tudo, não comia carne
+1	Soan	soat	PRON	pron	PronType=Tot	2	obl	_	_
+2	ma	ma	PART	prcl	_	4	obl	_	_
+3	puybit	puybit	NOUN	n	_	4	obj	_	_
+4	o'om	o'o	VERB	vi	Aspect=Imp	0	root	_	_
+5	g̃u	g̃u	ADV	prcl	Polarity=Neg	4	discourse	_	_
+6	o'e	o'e	AUX	aux	Aspect=Perf|Nuber[subj]=Sing|Person=3	4	aux	_	_
+7	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = 0033.21
+# text = Imẽg̃ap ma o'ju .
+# text_por = Assim ele foi.
+1	Imẽg̃ap	imẽg̃ap	ADV	adv	_	3	advmod	_	_
+2	ma	ma	PART	prcl	_	3	discourse	_	_
+3	o'ju	cu	VERB	vi	Aspect=Perf|Number[subj]=Sing|Person[subj]=3	0	root	_	_
+4	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = 0033.22
+# text = Ipoxi g̃u o'e .
+# text_port = Ficou bem leve.
+1	Ipoxi	poxi	NOUN	n	Rel=NCont	0	root	_	_
+2	g̃u	g̃u	ADV	npart	Polarity=Neg	1	advmod	_	_
+3	o'e	o'e	AUX	aux	Aspect=Perf|Nuber=Sing|Person=3	1	aux	_	_
+4	.	.	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id = 0033.24
+# text = Cũg̃cũg̃ o'ju .
+# text_port = Foi no mato.
+1	Cũg̃cũg̃	cũg̃	NOUN	n	_	2	obl	_	_
+2	o'ju	cu	VERB	vi	Aspect=Perf|Number[subj]=Sing|Person[subj]=3	0	root	_	_
+3	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = 003.26
+# text = Tip tag̃ o'ju .
+# text_eng = 
+# text_port = Foi longe—no centro do mato.
+1	Tip	tip	NOUN	n	_	3	obl	_	_
+2	tag̃	tag̃	ADP	posp	Rel=Cont	1	case	_	_
+3	o'ju	cu	VERB	v	Aspect=Perf|Number[subj]=Sing|Person[subj]=3	0	root	_	_
+4	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 003.27
+# text = Wuy o'ju ipinun tag̃
+# text_eng = 
+# text_port = Ficou em terra firme.
+1	Wuy	wuy	X	_	_	2	dep	_	_
+2	o'ju	cu	VERB	v	Aspect=Perf|Nuber[subj]=Sing|Person[subj]=3	0	root	_	_
+3	ipinun	ipi	NOUN	n	_	2	obl	_	_
+4	tag̃	tag̃	ADP	posp	_	3	case	_	_
+
+# sent_id = 003.28
+# text = Ixe kapurug̃ pe o'e.
+# text_eng = 
+# text_port = Virou pau d'arco.
+1	Ixe	iex	DET	dem	_	2	nsubj	_	_
+2	kapurug̃	kapurug̃	NOUN	_	_	0	root	_	_
+3	pe	pe	ADP	posp	_	2	case	_	_
+4	o'e	'e	AUX	aux	Aspect=Perf|Nuber=Sing|Person=3	2	aux	_	_
 
