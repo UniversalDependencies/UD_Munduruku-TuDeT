@@ -27,6 +27,614 @@
 4	tu	tu	PART	qpcl	_	3	dep	3:dep	_
 5	?	?	PUNCT	punct	_	3	punct	3:punct	_
 
+# sent_id = 6
+# text = Ka'ũma !
+# text_eng = no!
+1	Ka'ũma	ka'ũma	INTJ	intj	_	0	root	0:root	_
+2	!	!	PUNCT	punct	_	1	punct	1:punct	_
+
+# sent_id = 7
+# text = Tawe oajẽm iku be
+# text_eng = The capuchin monkey came/arrived to/at the slash
+1	Tawe	tawe	NOUN	n	_	2	obl	2:obl	_
+2	oajẽm	ajẽm	VERB	vi	Aspect=Perf|Person=3	0	root	0:root	_
+3	iku	ku	NOUN	n	_	2	obl	2:obl	_
+4	be	be	ADP	pp	_	3	case	3:case	_
+
+# sent_id = 8
+# text = Jexat o'tobuxik iku be
+# text_eng = He found food it in the slash
+1	Jexat	xat	NOUN	n	_	2	obl	2:obl	_
+2	o'tobuxik	dobuxik	VERB	v	Aspect=Perf|Person=33	0	root	0:root	_
+3	iku	ku	NOUN	n	_	2	obl	2:obl	_
+4	be	be	ADP	pp	_	3	case	3:case	_
+
+# sent_id = 9
+# text = Xa iku xe
+# Text_eng = The pequi tree is/lies near the slash
+1	Xa	xa	NOUN	n	_	2	nsubj	2:nsubj	_
+2	iku	ku	NOUN	n	_	0	root	0:root	_
+3	xe	xe	ADP	pp	_	2	case	2:case	_
+
+# sent_id = 10
+# text = Tawe oajẽm xa xe
+# text_portuguese = O macaco-prego chegou perto do pequizeiro
+# text_eng = The capuchin monkey came/arrived to/at the pequi tree
+1	Tawe	tawe	NOUN	n	_	2	obl	2:obl	_
+2	oajẽm	ajẽm	VERB	v	Aspect=Perf|Person=3	0	root	0:root	_
+3	xa	xa	NOUN	n	_	2	obl	2:obl	_
+4	xe	xe	ADP	pp	_	3	case	3:case	_
+
+# sent_id = 11
+# text = 	Tawe oajẽm ka xe
+# text_portuguese = O macaco-prego chegou perto do terrano do chefe
+# Text_eng = The capuchin monkey came/arrived to/at the chief's land
+# sent_structure = SV
+1	Tawe	tawe	NOUN	n	_	2	obl	2:obl	_
+2	oajẽm	ajẽm	VERB	vi	Aspect=Perf|Person=3	0	root	0:root	_
+3	ka	ka	NOUN	n	_	2	obl	2:obl	_
+4	xe	xe	ADP	pp	_	3	case	3:case	_
+
+# sent_id = 12
+# text = Toxaw oajẽm ka be
+# text_portuguese = O chefe chegou ao lugar onde estava o macaco-prego
+# text_eng = The chief came/arrived to/at the place where the capuchin monkey was
+# sent_structure = SV
+1	Toxaw	toxaw	NOUN	n	_	2	obl	2:obl	_
+2	oajẽm	ajẽm	VERB	v	Aspect=Perf|Person=3	0	root	0:root	_
+3	ka	ka	NOUN	n	_	2	obl	2:obl	_
+4	be	be	ADP	pp	_	3	case	3:case	_
+
+# sent_id = 13
+# text = Toxaw dak jexat o'tobuxik
+# text_portuguese = O chefe também achou a comida
+# text_eng = The chief also found the food
+1	Toxaw	toxaw	NOUN	n	_	4	obl	4:obl	_
+2	dak	dak	ADV	adv	_	4	advmod	4:advmod	_
+3	jexat	xat	NOUN	n	_	4	obl	4:obl	_
+4	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=33	0	root	0:root	_
+
+# sent_id = 14
+# text = Toxaw tawe o'tobuxik
+# text_portuguese = O chefe também achou o macaco-prego
+# text_eng = The chief found the capuchin monkey
+1	Toxaw	toxaw	NOUN	n	_	3	obl	3:obl	_
+2	tawe	tawe	NOUN	n	_	3	obl	3:obl	_
+3	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=33	0	root	0:root	_
+
+# sent_id = 15
+# text = Xa xe tawe o'tobuxik
+# text_portuguese = Ele achou o macaco-prego pero do pequizeiro.
+# text_eng = He found the capuchin monkey near the pequi tree
+1	Xa	xa	NOUN	n	_	4	obl	4:obl	_
+2	xe	xe	ADP	pp	_	1	case	1:case	_
+3	tawe	tawe	NOUN	n	_	4	obl	4:obl	_
+4	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=33	0	root	0:root	_
+
+# sent_id = 16
+# text = Ikibit awi kay
+# text_portuguese = A irmã quer uma agulha.
+# text_eng = The sister wants a needle
+1	Ikibit	ikibit	NOUN	n	_	0	root	_	_
+2	awi	awi	NOUN	n	_	1	nmod	_	_
+3	kay	kay	ADP	pp	Rel=Cont	2	case	_	_
+
+# sent_id = 17
+# text = Awawa oajẽm ika be , jekibit ka be
+# text_portuguese = Vovo chegou ao terreno da irma.
+# text_eng = The grandmother came/arrived at the sister's land .
+1	Awawa	awawa	NOUN	n	_	2	obl	2:obl	_
+2	oajẽm	ajẽm	VERB	vi	Aspect=Perf|Person=3	0	root	0:root	_
+3	ika	ika	NOUN	n	_	2	obl	2:obl	_
+4	be	be	ADP	pp	_	3	case	3:case	_
+5	,	,	PUNCT	punct	_	4	punct	4:punct	_
+6	jekibit	_	NOUN	n	_	7	nmod	7:nmod	_
+7	ka	ka	NOUN	n	_	3	appos	3:appos	_
+8	be	be	ADP	pp	Rel=Cont	7	case	7:case	_
+
+# sent_id = 18
+# text = Awi awawa bubut
+# text_portuguese = A agulha é da vovo.
+# text_eng = The needle belongs to (?) the grandmother.
+1	Awi	awi	NOUN	n	_	3	nsubj	3:nsubj	_
+2	awawa	awawa	NOUN	n	_	1	nmod	1:nmod	_
+3	bubut	bubut	VERB	cop	_	0	root	0:root	_
+
+# sent_id = 19
+# text = Ite awi o'tobuxik
+# text_portuguese = Ela achou a agulha. 
+# text_eng = She found the needle. 
+1	Ite	ite	PRON	pro	_	3	obl	3:obl	_
+2	awi	awi	NOUN	n	_	3	obl	3:obl	_
+3	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=3	0	root	0:root	_
+
+# sent_id = 20
+# text = Awawa o'tobuxik
+# text_portuguese = Vovo achou. 
+# text_eng = The grandmother found (it?)
+# sent_structure = SV
+1	Awawa	awawa	NOUN	n	_	2	obl	2:obl	_
+2	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=3	0	root	0:root	_
+
+# sent_id = 22
+# text = Toxaw tawe o'tobuxik tu ?
+# text_portuguese = O chefe achou o macaco-prego?
+# text_eng = Did the chief find the capuchin monkey?
+1	Toxaw	toxaw	NOUN	n	_	3	obl	3:obl	_
+2	tawe	tawe	NOUN	n	_	3	obl	3:obl	_
+3	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=3	0	root	0:root	_
+4	tu	tu	PART	pcl	_	3	dep	3:dep	_
+5	?	?	PUNCT	punct	_	3	punct	3:punct	_
+
+# sent_id = 23
+# text = Abu tawe o'tobuxik ?
+# text_portuguese = Quem achou o macaco-prego?
+# text_eng = Who found the capuchin monkey?
+1	Abu	abu	PRON	pro	_	3	obl	3:obl	_
+2	tawe	tawe	NOUN	n	_	3	obl	3:obl	_
+3	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=3	0	root	0:root	_
+4	?	?	PUNCT	punct	_	3	punct	3:punct	_
+
+# sent_id = 24
+# text = Abu awi o'tobuxik ?
+# text_portuguese = Quem achou a agulha?
+# text_eng = Who found the needle?
+1	Abu	abu	PRON	pro	_	3	obl	3:obl	_
+2	awi	awi	NOUN	n	_	3	obl	3:obl	_
+3	o'tobuxik	dobuxik	VERB	v	_	0	root	0:root	_
+4	?	?	PUNCT	punct	_	3	punct	3:punct	_
+
+# sent_id = 25
+# text = Abu jexat o'tobuxik ?
+# text_portuguese = Quem achou a comida?
+# text_eng = Who found the food?
+1	Abu	abu	PRON	pro	_	3	obl	3:obl	_
+2	jexat	xat	NOUN	n	_	3	obl	3:obl	_
+3	o'tobuxik	dobuxik	VERB	v	_	0	root	0:root	_
+4	?	?	PUNCT	punct	_	3	punct	3:punct	_
+
+# sent_id = 26
+# text = Abu awi kay ?
+# text_portuguese = Quem quer agulha?
+# text_eng = Who wants a needle?
+1	Abu	abu	PRON	pro	_	2	nsubj	2:nsubj	_
+2	awi	awi	NOUN	n	_	0	root	0:root	_
+3	kay	kay	ADP	pp	_	2	case	2:case	_
+4	?	?	PUNCT	punct	_	2	punct	2:punct	_
+
+# sent_id = 27
+# text = Abu o'titobuxik ?
+# text_portuguese = Quem achou as flôres?
+# text_eng = Who found the flowers?
+1	Abu	abu	PRON	pro	_	2	nsubj	2:nsubj	_
+2	o'titobuxik	dobuxik	VERB	v	Aspect=Perf|Incorp=Yes|Person=3	0	root	0:root	_
+3	?	?	PUNCT	punct	_	2	punct	2:punct	_
+
+# sent_id = 28
+# text = Awawa awi o'tobuxik jekibit ka be
+# text_portuguese = Vovó achou uma agulha no terreno da irmã.
+# text_eng = The grandmother found a needle on her sister's land. 
+1	Awawa	awawa	NOUN	n	_	3	obl	3:obl	_
+2	awi	awi	NOUN	n	_	3	obl	3:obl	_
+3	o'tobuxik	dobuxik	VERB	v	Aspect=Perf|Person=3	0	root	0:root	_
+4	jekibit	jekibit	NOUN	n	_	5	nmod	5:nmod	_
+5	ka	ka	NOUN	n	_	3	obl	3:obl	_
+6	be	be	ADP	pp	_	5	case	5:case	_
+
+# sent_id = 29
+# text = Oexe awawa
+# text_portuguese = Vovó chegou em casa.
+# text_eng = The grandmother arrived home. 
+1	Oexe	xe	VERB	v	Aspect=Perf|Person=3	0	root	0:root	_
+2	awawa	awawa	NOUN	n	_	1	obl	1:obl	_
+
+# sent_id = 30
+# text = Toxaw dak oexe
+# text_portuguese = O chefe tambem chegou em casa.
+# text_eng = The chief has/owns also a house. (?)
+1	Toxaw	toxaw	NOUN	n	_	3	obl	3:obl	_
+2	dak	dak	ADV	adv	_	3	advmod	3:advmod	_
+3	oexe	xe	VERB	v	_	0	root	0:root	_
+
+# sent_id = 31
+# text = Awawa tawe kay
+# text_portuguese = Vovó quer o macaco-prego.
+# text_eng = The grandmother wants the capuchin monkey. 
+1	Awawa	awawa	NOUN	n	_	0	root	0:root	_
+2	tawe	tawe	NOUN	n	_	1	nmod	1:nmod	_
+3	kay	kay	ADP	pp	_	2	case	2:case	_
+
+# sent_id = 32
+# text = Toxaw tawe o'tobuxik
+# text_portuguese = O chefe achou o macaco-prego.
+# text_eng = The chief found the capuchin monkey. 
+1	Toxaw	toxaw	NOUN	n	_	3	obl	3:obl	_
+2	tawe	tawe	NOUN	n	_	3	obl	3:obl	_
+3	o'tobuxik	dobuxik	VERB	v	Aspect=Perf|Person=3	0	root	0:root	_
+
+# sent_id = 33
+# text = Jexat o'tobuxik
+# text_portuguese = Ele achou, a comida.
+# text_eng = He found the food. 
+1	Jexat	xat	NOUN	n	_	2	obl	2:obl	_
+2	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=3	0	root	0:root	_
+
+# sent_id = 34
+# text = Tawe ixat , toxaw xat
+# text_portuguese = O chefe come macaco-prego.
+# text_eng = The chief eats the capuchin monkey. 
+# sent_structure = 
+1	Tawe	tawe	NOUN	n	_	2	nsubj	2:nsubj	_
+2	ixat	xat	NOUN	n	_	0	root	0:root	_
+3	,	,	PUNCT	punct	_	2	punct	2:punct	_
+4	toxaw	toxaw	NOUN	n	_	5	nmod	5:nmod	_
+5	xat	xat	NOUN	n	_	2	appos	2:appos	_
+
+# sent_id = 35
+# text = Awawa ixaxet
+# text_portuguese = Vovó tem comida. 
+# text_eng = The grandmother has food. 
+# sent_structure = 
+1	Awawa	awawa	NOUN	n	_	2	nsubj	2:nsubj	_
+2	ixaxet	xat	NOUN	n	Red=Ex	0	root	0:root	_
+
+# sent_id = 36
+# text = Awawa ixiwe kay
+# text_portuguese = Vovo quer embira.
+# text_eng = The grandmother wants an embira plant . 
+# sent_structure = 
+1	Awawa	awawa	NOUN	n	_	0	root	0:root	_
+2	ixiwe	ixiwe	NOUN	n	_	1	nmod	1:nmod	_
+3	kay	kay	ADP	pp	_	2	case	2:case	_
+
+# sent_id = 37
+# text = Ixiwe ako xe
+# text_portuguese = A embira esta perto da bananeira.
+# text_eng = The embira plant is close to the banana tree.
+# sent_structure = 
+1	Ixiwe	ixiwe	NOUN	n	_	0	root	_	_
+2	ako	ako	NOUN	n	_	1	nmod	_	_
+3	xe	xe	ADP	pp	_	2	case	_	_
+
+# sent_id = 38
+# text = Awawa cum ako xe
+# text_portuguese = Vovó vai perto da bananeira.
+# text_eng = Grandma goes near the banana tree.
+# sent_structure = 
+1	Awawa	awawa	NOUN	n	_	2	nsubj	2:nsubj	_
+2	cum	cu	VERB	vi	Aspect=Imp	0	root	0:root	_
+3	ako	ako	NOUN	n	_	2	obl	2:obl	_
+4	xe	xe	ADP	pp	_	3	case	3:case	_
+
+# sent_id = 39
+# text = Ixiwe o'tobuxik ako xe
+# text_portuguese = Ela achou embira perto da bananeira. 
+# text_eng = She found the embira plant close to the banana tree. 
+1	Ixiwe	ixiwe	NOUN	n	_	2	obl	2:obl	_
+2	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=3	0	root	0:root	_
+3	ako	ako	NOUN	n	_	2	obl	2:obl	_
+4	xe	xe	ADP	pp	_	3	case	3:case	_
+
+# sent_id = 40
+# text = cum jeku be
+# text_portuguese = Está na roça.
+# text_eng = He is in the slah.
+1	cum	cu	VERB	vi	Aspect=Imp	0	root	0:root	_
+2	jeku	jeku	NOUN	n	Reflex=Yes	1	obl	1:obl	_
+3	be	be	ADP	pp	_	2	case	2:case	_
+
+# sent_id = 41
+# text = Awawa jeku be oajẽm
+# text_portuguese = Vovo chegou a roca.
+# text_eng = The grandmother arrived/came to her slash.  
+1	Awawa	awawa	NOUN	n	_	4	obl	_	_
+2	jeku	ku	NOUN	n	_	4	obl	_	_
+3	be	be	ADP	pp	_	2	case	_	_
+4	oajẽm	ajẽm	VERB	vi	Aspect=Imp|Person=3	0	root	_	_
+
+# sent_id = 42
+# text = Akoba iku be opop .
+# text_portuguese = As bananas estao na roca. 
+# text_eng = The bananas lay in her slash. 
+1	Akoba	Akoba	NOUN	n	_	4	nsubj	4:nsubj	_
+2	iku	iku	NOUN	n	_	1	nmod	1:nmod	_
+3	be	be	ADP	pp	_	2	case	2:case	_
+4	opop	opop	VERB	cop	_	0	root	0:root	_
+5	.	.	PUNCT	punct	_	4	punct	4:punct	_
+
+# sent_id = 43
+# text = Tit tak iku be opop , awawa ku be .
+# text_portuguese = A flor também esta na roca -- na roca da vovo. 
+# text_eng = The flower lies also in her slash -- in the grandmother's slash. 
+# sent_structure = 
+1	Tit	dit	NOUN	n	_	5	nsubj	5:nsubj	_
+2	tak	tak	ADV	adv	_	5	advmod	5:advmod	_
+3	iku	ku	NOUN	n	_	1	nmod	1:nmod	_
+4	be	be	ADP	pp	_	3	case	3:case	_
+5	opop	opop	VERB	cop	_	0	root	0:root	_
+6	,	,	PUNCT	punct	_	5	punct	5:punct	_
+7	awawa	awawa	NOUN	n	_	8	nmod	8:nmod	_
+8	ku	ku	NOUN	n	_	3	appos	3:appos	_
+9	be	be	ADP	pp	_	8	case	8:case	_
+10	.	.	PUNCT	punct	_	8	punct	8:punct	_
+
+# sent_id = 44
+# text = Ixi uk'a be
+# text_portuguese = A mãe está em casa.
+# text_eng = The mother is at home
+# sent_structure = 
+1	Ixi	ixi	NOUN	n	_	2	nsubj	2:nsubj	_
+2-3	uk'a	_	_	_	_	_	_	_	_
+2	uk	uk	NOUN	n	_	0	root	0:root	_
+3	'a	'a	NOUN	cl	_	2	clf	2:clf	_
+4	be	be	ADP	pp	_	2	case	2:case	_
+
+# sent_id = 45
+# text = I'it tak uk'a be
+# text_portuguese = O filho também esta em casa. 
+# text_eng = The son is also at home. (in the house)
+# sent_structure = 
+1	I'it	'it	NOUN	n	_	3	nsubj	_	_
+2	tak	tak	ADV	adv	_	3	advmod	_	_
+3	uk'a	uk'a	NOUN	n	_	0	root	_	_
+4	be	be	ADP	pp	_	3	case	_	_
+
+# sent_id = 46
+# text = Toxaw oexe
+# text_portuguese = O chefe chegou a casa. 
+# text_eng = The chief arrived at/ came home. 
+# sent_structure = 
+1	Toxaw	toxaw	NOUN	n	_	2	obl	2:obl	_
+2	oexe	xe	VERB	vi	Aspect=Perf|Person=3	0	root	0:root	_
+
+# sent_id = 47
+# text = I'it wa du ?
+# text_portuguese = O filho esta chorando?
+# text_eng = Is the son crying?
+# sent_structure = 
+1	I'it	'it	NOUN	n	_	2	nsubj	2:nsubj	_
+2	wa	wa	VERB	vx	_	0	root	0:root	_
+3	du	du	PART	pcl	_	2	discourse	2:discourse	_
+4	?	?	PUNCT	punct	_	2	punct	2:punct	_
+
+# sent_id = 49
+# text = Toxaw i'it o'tobuxik uk'a be .
+# text_portuguese = O chefe achou o filho em casa. 
+# text_eng = The chief found the son at home / in the house. 
+1	Toxaw	toxaw	NOUN	n	_	3	obl	3:obl	_
+2	i'it	i'it	NOUN	n	_	3	obl	3:obl	_
+3	o'tobuxik	dobuxik	VERB	v	_	0	root	0:root	_
+4-5	uk'a	_	_	_	_	_	_	_	_
+4	uk	uk	NOUN	n	_	3	obl	3:obl	_
+5	'a	'a	NOUN	cl	_	4	nmod	4:nmod	_
+6	be	be	ADP	pp	_	4	case	4:case	_
+7	.	.	PUNCT	punct	_	3	punct	3:punct	_
+
+# sent_id = 50
+# text = I'it ixet
+# text_portuguese = O filho esta dormindo. 
+# text_eng = The son is sleeping. 
+1	I'it	'it	NOUN	n	_	2	nsubj	_	_
+2	ixet	xet	VERB	v:st	_	0	root	_	_
+
+# sent_id = 51
+# text = Ixi wa'e kug̃
+# text_portuguese = A mãe tem uma cuia.
+# text_eng = The mother has a gourd. 
+# sent_structure = 
+1	Ixi	ixi	NOUN	n	_	3	nsubj	3:nsubj	_
+2	wa'e	wa'e	NOUN	n	_	3	obj	3:obj	_
+3	kug̃	kug̃	VERB	vx	_	0	root	0:root	_
+
+# sent_id = 52
+# text = Wa'e ibubut , ixi bubut
+# text_portuguese = A cuia e dela.
+# text_eng = The gourd is hers. 
+# sent_structure = 
+1	Wa'e	wa'e	NOUN	n	_	2	nsubj	2:nsubj	_
+2	ibubut	bubut	NOUN	n	_	0	root	0:root	_
+3	,	,	PUNCT	punct	_	2	punct	2:punct	_
+4	ixi	ixi	NOUN	n	_	5	nsubj	5:nsubj	_
+5	bubut	bubut	NOUN	n	_	2	appos	2:appos	_
+
+# sent_id = 53
+# text = Wexik'a kake wa'e be
+# text_portuguese = Há batata-doce na cuia.
+# text_eng = There is sweet-potatoe in the gourd
+# sent_structure = 
+1-2	Wexik'a	_	_	_	_	_	_	_	_
+1	Wexik	wexik	NOUN	n	_	3	nsubj	3:nsubj	_
+2	'a	'a	NOUN	cl	_	1	nmod	1:nmod	_
+3	kake	kake	VERB	cop	_	0	root	0:root	_
+4	wa'e	wa'e	NOUN	n	_	1	nmod	1:nmod	_
+5	be	be	ADP	pp	_	4	case	4:case	_
+
+# sent_id = 54
+# text = Ixat'a kake wa'e be , uk'a be
+# text_portuguese = Tem comida na cuia, em casa.
+# text_eng = There is food in the gourd, at home.
+# sent_structure = 
+1-2	Ixat'a	_	_	_	_	_	_	_	_
+1	Ixat	xat	NOUN	n	_	3	nsubj	3:nsubj	_
+2	'a	'a	NOUN	cl	_	1	nmod	1:nmod	_
+3	kake	kake	VERB	cop	_	0	root	0:root	_
+4	wa'e	wa'e	NOUN	n	_	1	nmod	1:nmod	_
+5	be	be	ADP	pp	_	4	case	4:case	_
+6	,	,	PUNCT	punct	_	3	punct	3:punct	_
+7	uk'a	uk'a	NOUN	n	_	1	nmod	1:nmod	_
+8	be	be	ADP	pp	_	7	case	7:case	_
+
+# sent_id = 55
+# text = Wa'e uk'a be opop
+# text_portuguese = A cuia está na casa.
+# text_eng = The gourd is/lies in the house. 
+# sent_structure = 
+1	Wa'e	wa'e	NOUN	n	_	4	nsubj	4:nsubj	_
+2	uk'a	uk'a	NOUN	n	_	1	nmod	1:nmod	_
+3	be	be	ADP	pp	_	2	case	2:case	_
+4	opop	opop	VERB	cop	_	0	root	0:root	_
+
+# sent_id = 56
+# text = puybit ka'ũmg̃u o'e
+# text_portuguese = Não há comida Vol 5 p39-1
+# text_eng = There is no food
+1	puybit	puybit	NOUN	n	_	2	nsubj	_	_
+2	ka'ũmg̃u	ka'ũmg̃u	VERB	cop	_	0	root	_	_
+3	o'e	'e	VERB	vi	Aspect=Perf|Evident=Nfh|Person=3	1	discourse	_	_
+
+# sent_id = 57
+# text = ag̃okatkat o'ju puybit aokam
+# text_portuguese = Os homens foram matar caça Vol 5 p39-2
+# text_eng = The men went to kill the hunt 
+1	ag̃okatkat	ag̃okatkat	NOUN	n	_	2	obl	2:obl	_
+2	o'ju	cu	VERB	vi	_	0	root	0:root	_
+3	puybit	puybit	NOUN	n	_	4	obj	4:obj	_
+4	aokam	aoka	VERB	vt	Aspect=Imp|Person=3	2	ccomp	2:ccomp	_
+
+# sent_id = 58
+# text = oexexe ip uk'a be puybit kukug̃
+# text_portuguese = Eles chegaram em casa com caça Vol 5 p39-3
+# text_eng = They arrived home with a hunted thing
+1	oexexe	exexe	VERB	vi	Aspect=Perf|Number=Plur|Person=3	0	root	0:root	_
+2	ip	ip	PART	pcl	_	1	dep	1:dep	_
+3-4	uk'a	_	_	_	_	_	_	_	_
+3	uk	uk	NOUN	n	_	1	obj	1:obj	_
+4	'a	'a	NOUN	cl	_	3	nmod	3:nmod	_
+5	be	be	ADP	pp	_	3	case	3:case	_
+6	puybit	puybit	NOUN	n	_	7	obj	7:obj	_
+7	kukug̃	kukug̃	VERB	vt	Aspect=Imp|Number=Plur|Person=3	1	dep	1:dep	_
+
+# sent_id = 59
+# text = Daje ade o'yaoka ip pima , puybit kuka o'e ade
+# text_portuguese = Quando eles matam muito porco, tem muita bóia vol5 p40
+# text_eng = There is a lot of food, when they kill (a) pig(s)
+1	Daje	daje	NOUN	n	_	3	obl	3:obl	_
+2	ade	ade	PRON	pro	_	1	nmod	1:nmod	_
+3	o'yaoka	aoka	VERB	vt	_	7	advcl	7:advcl	_
+4	ip	ip	PART	pcl	_	3	obl	3:obl	_
+5	pima	pima	ADP	pp	_	3	case	3:case	_
+6	,	,	PUNCT	punct	_	3	punct	3:punct	_
+7	puybit	puybit	NOUN	n	_	0	root	0:root	_
+8	kuka	kuka	X	x	_	7	dep	7:dep	_
+9	o'e	'e	VERB	v	Evident=Nfh	7	dep	7:dep	_
+10	ade	ade	PRON	pro	_	7	nmod	7:nmod	_
+
+# sent_id = 60
+# text = Soat bekitkit ibeg̃beg̃ o'e ade puybit puye
+# text_portuguese = Todas as crian ças ficaram satisfeitas por causa de muita comida.
+# text_eng = All children were/became satisfied because of so much food
+1	Soat	Soat	PRON	_	_	2	nmod	_	_
+2	bekitkit	bekitkit	NOUN	n	_	0	root	_	_
+3	ibeg̃beg̃	beg̃beg̃	ADJ	_	_	2	amod	_	_
+4	o'e	'e	VERB	v	Evident=Nfh	2	dep	_	_
+5	ade	ade	PRON	pro	_	6	nmod	_	_
+6	puybit	puybit	NOUN	n	_	2	advcl	_	_
+7	puye	puye	ADP	_	_	6	case	_	_
+
+# sent_id = 61
+# text = Kabiam doa iba'orere jedoti mug̃ẽg̃ẽm daxa xe
+# text_portuguese = A aranha eatá octfpada de dia fazendo a teia perto do fogo.
+# text_eng = in the morning the spider is busy webmaking (lit. making trousers) vol 5 36
+1	Kabiam	Kabiam	ADV	adv	_	3	amod	3:amod	_
+2	doa	_	NOUN	n	_	5	nsubj	5:nsubj	_
+3	iba'orere	ba'orere	ADJ	adj	_	2	amod	2:amod	_
+4	jedoti	_	NOUN	n	_	5	obl	5:obl	_
+5	mug̃ẽg̃ẽm	_	VERB	v	Aspect=DurIprf	0	root	0:root	_
+6	daxa	daxa	NOUN	n	_	5	obj	5:obj	_
+7	xe	xe	ADP	pp	_	6	case	6:case	_
+
+# sent_id = 100
+# text = Karosakaybu daje o'g̃uju , tacup puye ip .
+# text_port = Karosakaybu virou as pessoas porcos grandes porque estavam guardando bóia só para elas
+# text_eng = K transformed people in pigs, becaus they were stealing food
+1	Karosakaybu	Karosakaybu	PROPN	pn	_	3	obl	3:obl	_
+2	daje	daje	NOUN	n	_	3	obl	3:obl	_
+3	o'g̃uju	ju	VERB	vt	Aspect=Perf|Number=Sing|Person=33|Voice=Cau	0	root	0:root	_
+4	,	,	PUNCT	punct	_	3	punct	3:punct	punct
+5	tacup	tacup	VERB	v	_	3	advcl	3:advcl	_
+6	puye	puye	SCONJ	sc	_	5	mark	5:mark	_
+7	ip	ip	PART	pcl	_	5	nsubj	5:nsubj	_
+8	.	.	PUNCT	punct	_	5	punct	5:punct	punct
+
+# sent_id = 101
+# text = pariwat tomuwã buje juy puybit ejomõg̃ mesa jeje
+# text_eng = when you call the non-indians, put food on the table Crofts 189
+1	pariwat	pariwat	NOUN	n	_	2	obj	2:obj	_
+2	tomuwã	tomuwã	VERB	v	_	6	dep	6:dep	_
+3	buje	buje	ADV	adv	_	2	advmod	2:advmod	_
+4	juy	juy	PART	pcl	_	6	discourse	6:discourse	_
+5	puybit	puybit	NOUN	n	_	6	obj	6:obj	_
+6	ejomõg̃	ejomõg̃	VERB	vt	Aspect=Perf|Mood=Imp	0	root	0:root	_
+7	mesa	mesa	NOUN	n	_	6	obl	6:obl	_
+8	jeje	jeje	ADP	pp	_	7	case	7:case	_
+
+# sent_id = 102
+# text= kabido xixi ajẽm puje soat o'at
+# text_eng = Everything fell down when the storm came Crofts 100
+1	kabido	kabido	NOUN	n	_	3	nsubj	3:nsubj	_
+2	xixi	xixi	NOUN	n	_	1	nmod	1:nmod	_
+3	ajẽm	ajẽm	VERB	vi	Aspect=Perf	6	advcl	6:advcl	_
+4	puje	puje	ADP	pp	Rel=Cont	3	mark	3:mark	_
+5	soat	soat	PRON	pro	_	6	obl	6:obl	_
+6	o'at	'at	VERB	vi	Aspect=Perf|Number=Sing|Person=3	0	root	0:root	_
+
+# sent_id = 103
+# text = taxit mẽnpit ikukpin'ũm osunuy ag̃okatkat pe , i'e'em ajojoyũ'ũm'ũm
+# text_eng = The man didn't care for his daughter, said the ancestors  vol 3-7
+1	taxit	daxit	NOUN	n	Rel=NCont	0	root	0:root	_
+2	mẽnpit	mẽnpit	CCONJ	cc	_	1	cc	1:cc	_
+3	ikukpin'ũm	kukpin	NOUN	n	Polarity=Neg|Rel=Cont	1	nmod	1:nmod	_
+4	osunuy	osunuy	X	x	_	3	dep	3:dep	_
+5	ag̃okatkat	ag̃okatkat	NOUN	n	_	3	obl	3:obl	_
+6	pe	pe	ADP	pp	_	5	case	5:case	_
+7	,	,	PUNCT	punct	_	1	punct	1:punct	_
+8	i'e'em	'e	VERB	vi	Aspect=Imp|Rel=NCont	1	dep	1:dep	_
+9	ajojoyũ'ũm'ũm	ajojo	NOUN	n	Aspect=Compl|Number=Plur	8	nsubj	8:nsubj	_
+
+# sent_id = 104
+# text = wexik'a kake ixi duk'a be
+# text_eng = there is sweet-potato in mother’s house vol 2 13 
+1	wexik'a	wexik	NOUN	n	Noun=Clf	0	root	0:root	_
+2	kake	kake	AUX	aux	_	1	aux	1:aux	_
+3	ixi	xi	NOUN	n	Rel=NCont	4	nmod	4:nmod	_
+4	duk'a	uk	NOUN	n	Noun=Clf|Rel=Cont	1	obl	1:obl	_
+5	be	be	ADP	pp	Rel=Cont	4	case	4:case	_
+
+# sent_id = 105
+# text = oxi uk‘a be
+# text_eng = My mother is in the house [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 2b)
+1	oxi	xi	NOUN	n	Poss=Ina	2	nsubj	2:nsubj	_
+2-3	uk‘a	_	_	_	_	_	_	_	_
+2	uk	uk	NOUN	n	_	0	root	0:root	_
+3	‘a	‘a	NOUN	cl	_	2	clf	2:clf	_
+4	be	be	ADP	pp	_	2	case	2:case	_
+
+# sent_id = 106
+# text = wida ayacat o’yaoka Katõ be
+# text_eng = The jaguar killed the woman in the Katõ village. [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 2c)
+1	wida	wida	NOUN	n	_	3	obl	3:obl	_
+2	ayacat	ayacat	NOUN	n	_	3	obl	3:obl	_
+3	o’yaoka	aoka	VERB	vt	Aspect=Perf|Person=3	0	root	0:root	_
+4	Katõ	Katõ	PROPN	pn	_	3	obl	3:obl	_
+5	be	be	ADP	pp	_	4	case	4:case	_
+
+# sent_id = 107
+# text = wetabut pe obure Wida o'yaoka
+# text_eng = My friend killed the jaguar. I am certain. (I saw it). [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 2d)
+1	wetabut	etabut	VERB	vi	Person=1	5	dep	_	_
+2	pe	pe	ADP	pp	_	1	case	_	_
+3	obure	bure	NOUN	n	_	5	obl	_	_
+4	Wida	wida	NOUN	n	_	5	obl	_	_
+5	o'yaoka	aoka	VERB	vt	Aspect=Perf|Person=3	0	root	_	_
+
+# sent_id = 108
+# text = bekicat o'akõm wetabut pe
+# text_eng = The girl drowned. I am certain. (I saw it) [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 2e)
+1	bekicat	bekicat	NOUN	n	_	2	obl	_	_
+2	o'akõm	akõm	VERB	vi	Aspect=Perf|Person=3	0	root	_	_
+3	wetabut	etabut	VERB	vi	Person=1	2	dep	_	_
+4	pe	pe	ADP	pp	_	3	case	_	_
+
 # sent_id = 109
 # text = ẽn eg̃ũm kise ayacat pe
 # text_eng = You gave a knife to the woman. [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 2f)
