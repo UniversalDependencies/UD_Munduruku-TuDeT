@@ -1668,9 +1668,43 @@
 # sent_id = 003.28
 # text = Ixe kapurug̃ pe o'e.
 # text_eng = 
-# text_port = Virou pau d'arco.
+# text_port = 
 1	Ixe	iex	DET	dem	_	2	nsubj	_	_
 2	kapurug̃	kapurug̃	NOUN	_	_	0	root	_	_
 3	pe	pe	ADP	posp	_	2	case	_	_
 4	o'e	'e	AUX	aux	Aspect=Perf|Nuber=Sing|Person=3	2	aux	_	_
+
+# sent_id = 003.29
+# text = Iptog̃ darug̃ o'e.
+# text_eng = 
+# text_port = Virou pau d'arco
+1	Iptog̃	iptok	NOUN	n	_	3	nsubj	_	_
+2	darug̃	daruk	NOUN	n	_	1	nmod	_	_
+3	o'e	'e	VERB	v	Aspect=Perf|Nuber=Sing|Person=3	0	root	_	_
+
+# sent_id = 003.30
+# text = Kuyje bit daruk imug̃ẽg̃ẽ ma , i'e'em aypapa'um'um .
+# text_eng = 
+# text_port = Antigamente o arco era feito mesmo, dizem os velhos antigos.
+1	Kuyje	kuyje	ADV	adv	_	4	advmod	_	_
+2	bit	bit	PART	prcl	_	4	discourse	_	_
+3	daruk	daruk	NOUN	n	_	4	nsubj	_	_
+4	imug̃ẽg̃ẽ	mug̃ẽ	VERB	v	Aspect=DurIprf|Rel=NCont	0	root	_	_
+5	ma	ma	PART	prcl	_	4	discourse	_	_
+6	,	,	PUNCT	punct	_	4	punct	_	_
+7	i'e'em	'e	VERB	v	Aspect=DurIprf|Rel=NCont	4	dep	_	_
+8	aypapa'um'um	_	NOUN	n	Dec=Yes|Number=Plur	7	nsubj	_	_
+9	.	.	PUNCT	punct	_	7	punct	_	_
+
+# sent_id = 003.31
+# text = Yobog̃at, yopĩcat i'uk'ug̃ ip jewebeam.
+# text_eng = 
+# text_port = Tiravam para si (arco) grande, e pequeno, para crianças
+1	Yobog̃at	yobog̃at	NOUN	n	_	4	obj	_	_
+2	,	,	PUNCT	punct	_	4	punct	_	_
+3	yopĩcat	_	NOUN	n	_	4	obj	_	_
+4	i'uk'ug̃	'uk	VERB	v	Aspect=DurImpf|Rel=NCont	0	root	_	_
+5	ip	ip	PART	prcl	Number=Plur|Person=3	4	dep	_	_
+6	jewebeam	jewebe	ADP	posp	_	4	obl	_	_
+7	.	.	PUNCT	punct	_	4	punct	_	_
 
