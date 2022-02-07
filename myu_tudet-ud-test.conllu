@@ -1759,3 +1759,15 @@
 4	jedarug̃	darug̃	NOUN	n	Reflex=Yes	3	obj	_	SpaceAfter=No
 5	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
+# sent_id = 003.38
+# text = Yopõg̃ pewi i'uk'ug̃ ip — kuybi ma imug̃ẽg̃ẽ .
+# text_por = Tiravam do buraco já feito
+1	Yopõg̃	Yopõg̃	VERB	vt	Aspect=Perf|Mood=Imp	3	obl	_	_
+2	pewi	pewi	NOUN	n	_	1	case	_	_
+3	i'uk'ug̃	'uk'ug̃	VERB	v	Aspect=DurIprf|Rel=NCont	0	root	_	_
+4	ip	ip	NOUN	n	Number=Plur	3	dep	_	_
+5	kuybi	kuybi	NOUN	n	Rel=NCont	3	dislocated	_	_
+6	ma	ma	PART	prcl	_	7	advmod	_	_
+7	imug̃ẽg̃ẽ	mug̃ẽ	VERB	v	Aspect=Dur|Rel=NCont	5	advmod	_	_
+8	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
