@@ -1502,7 +1502,7 @@
 1	Da'o	Da'o	NOUN	n	_	2	obj	_	_
 2	o'jo'o'o	'jo'o'o	NOUN	n	Aspect=Perf|Number[subj]=Plur|Person[subj]=3	0	root	_	_
 3	io'e	o'e	VERB	v	Evid=Nfh|Rel=NCont	2	discourse	_	_
-4	--	--	PUNCT	PUNCT	_	2	punct	_	_
+4	-	-	PUNCT	PUNCT	_	2	punct	_	_
 5	puybit	puybit	NOUN	v:st	_	2	obj	_	_
 6	da'o	da'o	NOUN	n	Rel=Cont	5	nmod	_	_
 7	.	.	PUNCT	PUNCT	_	2	punct	_	_
@@ -1535,9 +1535,9 @@
 8	.	.	PUNCT	punct	_	7	punct	_	_
 
 # sent_id = 0033.12
-# text = io'e . Cexedig̃rebuuuu!, io'e .
+# text = io'e . Cexedig̃rebuuuu , io'e .
 # text_port = Foi Cexedigrebu!, disse.
-1	Cexedig̃rebuuuu	Cexedig̃rebu	PROPN	n	propn	0	root	_	_
+1	Cexedig̃rebuuuu	Cexedig̃rebu	PROPN	n	_	0	root	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	io'e	'e	VERB	vi	Evident=Nfh|Number[subj]=Sing|Person[subj]=3	1	parataxis	_	_
 4	.	.	PUNCT	PUNCT	_	3	punct	_	_
@@ -1610,7 +1610,7 @@
 1	Idibi	idibi	NOUN	n	_	2	obj	_	_
 2	konkõn	konkõn	PRON	pron	Aspect=Dur	0	root	_	_
 3	g̃u	g̃u	PART	npart	Polarity=Neg	2	advmod	_	_
-4	o'e	o'e	VERB	v	Aspect=Perf|Nuber[subj]=Sing|Person=3	2	parataxis	_	_
+4	o'e	o'e	VERB	v	Aspect=Perf|Number[subj]=Sing|Person=3	2	parataxis	_	_
 5	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 # sent_id = 0033.20
@@ -1621,7 +1621,7 @@
 3	puybit	puybit	NOUN	n	_	4	obj	_	_
 4	o'om	o'o	VERB	vi	Aspect=Imp	0	root	_	_
 5	g̃u	g̃u	ADV	prcl	Polarity=Neg	4	discourse	_	_
-6	o'e	o'e	AUX	aux	Aspect=Perf|Nuber[subj]=Sing|Person=3	4	aux	_	_
+6	o'e	o'e	AUX	aux	Aspect=Perf|Number[subj]=Sing|Person=3	4	aux	_	_
 7	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = 0033.21
@@ -1637,7 +1637,7 @@
 # text_port = Ficou bem leve.
 1	Ipoxi	poxi	NOUN	n	Rel=NCont	0	root	_	_
 2	g̃u	g̃u	ADV	npart	Polarity=Neg	1	advmod	_	_
-3	o'e	o'e	AUX	aux	Aspect=Perf|Nuber=Sing|Person=3	1	aux	_	_
+3	o'e	o'e	AUX	aux	Aspect=Perf|Number=Sing|Person=3	1	aux	_	_
 4	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
 # sent_id = 0033.24
@@ -1661,26 +1661,26 @@
 # text_eng = 
 # text_port = Ficou em terra firme.
 1	Wuy	wuy	X	_	_	2	dep	_	_
-2	o'ju	cu	VERB	v	Aspect=Perf|Nuber[subj]=Sing|Person[subj]=3	0	root	_	_
+2	o'ju	cu	VERB	v	Aspect=Perf|Number[subj]=Sing|Person[subj]=3	0	root	_	_
 3	ipinun	ipi	NOUN	n	_	2	obl	_	_
 4	tag̃	tag̃	ADP	posp	_	3	case	_	_
 
 # sent_id = 003.28
-# text = Ixe kapurug̃ pe o'e.
+# text = Ixe kapurug̃ pe o'e
 # text_eng = 
 # text_port = 
 1	Ixe	iex	DET	dem	_	2	nsubj	_	_
 2	kapurug̃	kapurug̃	NOUN	_	_	0	root	_	_
 3	pe	pe	ADP	posp	_	2	case	_	_
-4	o'e	'e	AUX	aux	Aspect=Perf|Nuber=Sing|Person=3	2	aux	_	_
+4	o'e	'e	AUX	aux	Aspect=Perf|Number=Sing|Person=3	2	aux	_	_
 
 # sent_id = 003.29
-# text = Iptog̃ darug̃ o'e.
+# text = Iptog̃ darug̃ o'e
 # text_eng = 
 # text_port = Virou pau d'arco
 1	Iptog̃	iptok	NOUN	n	_	3	nsubj	_	_
 2	darug̃	daruk	NOUN	n	_	1	nmod	_	_
-3	o'e	'e	VERB	v	Aspect=Perf|Nuber=Sing|Person=3	0	root	_	_
+3	o'e	'e	VERB	v	Aspect=Perf|Number=Sing|Person=3	0	root	_	_
 
 # sent_id = 003.30
 # text = Kuyje bit daruk imug̃ẽg̃ẽ ma , i'e'em aypapa'um'um .
@@ -1697,7 +1697,7 @@
 9	.	.	PUNCT	punct	_	7	punct	_	_
 
 # sent_id = 003.31
-# text = Yobog̃at, yopĩcat i'uk'ug̃ ip jewebeam.
+# text = Yobog̃at, yopĩcat i'uk'ug̃ ip jewebeam .
 # text_eng = 
 # text_port = Tiravam para si (arco) grande, e pequeno, para crianças
 1	Yobog̃at	yobog̃at	NOUN	n	_	4	obj	_	_
@@ -1715,11 +1715,11 @@
 2	cambõk	cambõk	NOUN	n	_	5	obl	_	_
 3	tak	tak	ADV	adv	_	5	advmod	_	_
 4	wara'at	wara'at	PRON	pron	PronType=Ind	5	nsubj	_	_
-5	o'ju	cu	VERB	vi	Aspect=Perf|Person=3	0	root	_	SpaceAfter=No
+5	o'ju	cu	VERB	vi	Aspect=Perf|Person=3	0	root	_	_
 6	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
 # sent_id = 003.34
-# text = Ixe dak ibipuruk etaxi'ũm puye tiwãbu tẽg̃ ma o'ju - tiwãbu dag̃ ma.
+# text = Ixe dak etaxi'ũm puye tiwãbu tẽg̃ ma o'ju tiwãbu dag̃ ma .
 # text_por = Ele também não agüentava a sede, e por isso ficou na beira do rio.
 1	Ixe	ixe	PRON	pro	PronType=Dem	3	nsubj	_	_
 2	dak	dak	ADV	adv	_	3	advmod	_	_
@@ -1738,7 +1738,7 @@
 # text = Ibaka dak .
 # text_por = O pau d'arco também.
 1	Ibaka	Ibaka	NOUN	n	_	0	root	_	_
-2	dak	dak	ADV	adv	_	1	advmod	_	SpaceAfter=No
+2	dak	dak	ADV	adv	_	1	advmod	_	_
 3	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
 # sent_id = 003.36
@@ -1747,16 +1747,16 @@
 1	g̃ebuje	g̃ebuje	ADV	adv	_	3	advmod	_	_
 2	ixe	ixe	PRON	pro	PronType=Dem	3	obl:subj	_	_
 3	o'ju	cu	VERB	vi	Aspect=Perf|Person[subj]=3	0	root	_	_
-4	darug̃	darug̃	NUM	num	_	3	obl	_	SpaceAfter=No
+4	darug̃	darug̃	NUM	num	_	3	obl	_	_
 5	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = 003.37
-# text = Aypapa'ũm'ũm i'uk'ug̃ jekukum jedarug̃.
+# text = Aypapa'ũm'ũm i'uk'ug̃ jekukum jedarug̃ .
 # text_por = Os velhos antigos andavam tiran­do-o para fazer o arco deles.
 1	Aypapa'ũm'ũm	Aypapa'ũm'ũm	NOUN	n	Dec=Yes|Number=Plur	2	nsubj	_	_
 2	i'uk'ug̃	i'uk	VERB	v	Aspect=DurIprf|Rel=NCont	0	root	_	_
 3	jekukum	jeku	VERB	v	Aspect=DurIprf|Voice=Mid	2	advcl	_	_
-4	jedarug̃	darug̃	NOUN	n	Reflex=Yes	3	obj	_	SpaceAfter=No
+4	jedarug̃	darug̃	NOUN	n	Reflex=Yes	3	obj	_	_
 5	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = 003.38
@@ -1771,5 +1771,4 @@
 7	ma	ma	PART	prcl	_	8	advmod	_	_
 8	imug̃ẽg̃ẽ	mug̃ẽ	VERB	v	Aspect=Dur|Rel=NCont	6	advmod	_	_
 9	.	.	PUNCT	PUNCT	_	3	punct	_	_
-
 
