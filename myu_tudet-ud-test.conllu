@@ -1475,7 +1475,7 @@
 # sent_id = 0033.6
 # text = Ibuybitopi iixĩt osunuy cebe . Iixĩt ku dag̃ oeku .
 # text_port = Ele comia o que era da irmã. A irmã dele andava na roça.
-1	Ipuybitopi	Ipuybitopi	NOUN	n	Rel=NCont	4	nsubj	_	_
+1	Ibuybitopi	Ipuybitopi	NOUN	n	Rel=NCont	4	nsubj	_	_
 2	iixĩt	ixĩt	NOUN	n	Rel=NCont	1	nmod	_	_
 3	osunuy	osunuy	AUX	aux	_	4	cop	_	_
 4	cebe	be	ADP	posp	Number=Sing|Person=3	0	root	_	_
@@ -1535,7 +1535,7 @@
 8	.	.	PUNCT	punct	_	7	punct	_	_
 
 # sent_id = 0033.12
-# text = io'e . Cexedig̃rebuuuu , io'e .
+# text = Cexedig̃rebuuuu , io'e .
 # text_port = Foi Cexedigrebu!, disse.
 1	Cexedig̃rebuuuu	Cexedig̃rebu	PROPN	n	_	0	root	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
@@ -1697,7 +1697,7 @@
 9	.	.	PUNCT	punct	_	7	punct	_	_
 
 # sent_id = 003.31
-# text = Yobog̃at, yopĩcat i'uk'ug̃ ip jewebeam .
+# text = Yobog̃at , yopĩcat i'uk'ug̃ ip jewebeam .
 # text_eng = 
 # text_port = Tiravam para si (arco) grande, e pequeno, para crianças
 1	Yobog̃at	yobog̃at	NOUN	n	_	4	obj	_	_
