@@ -1570,7 +1570,7 @@
 # sent_id = 0033.15
 # text = Jekõnkon g̃u o'e
 # text_eng = Começou a não comer
-1	Jekõnkon	kõn	PRON	pron	Aspect=ImpDur|Voice=Mid	0	root	_	_
+1	Jekõnkon	kõn	PRON	pron	Aspect=DurIprf|Voice=Mid	0	root	_	_
 2	g̃u	g̃u	ADV	npart	Polarity=Neg	3	advmod	_	_
 3	o'e	o'e	VERB	v	Aspect=Perf	1	xcomp	_	_
 
@@ -1771,3 +1771,4 @@
 7	ma	ma	PART	prcl	_	8	advmod	_	_
 8	imug̃ẽg̃ẽ	mug̃ẽ	VERB	v	Aspect=Dur|Rel=NCont	6	advmod	_	_
 9	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
