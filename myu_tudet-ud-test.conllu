@@ -1555,7 +1555,7 @@
 # sent_id = 0033.14
 # text = Icẽm ma pit , io'e . g̃ebuje bit o'jekõn g̃u .
 # text_port = — Ê verdade, (o irmão dela) disse. Daí não comia mais.
-1	Icẽm	_	ADV	adv	_	0	root	_	_
+1	Icẽm	_	ADV	v	Aspect=DurIprf	0	root	_	_
 2	ma	ma	PART	prcl	_	1	discourse	_	_
 3	pit	pit	PART	prcl	Rel=NCont	1	discourse	_	_
 4	,	,	PUNCT	punct	_	1	punct	_	_
@@ -1563,7 +1563,7 @@
 6	.	.	PUNCT	PUNCT	_	5	punct	_	_
 7	g̃ebuje	g̃ebuje	ADV	n	_	9	advmod	_	_
 8	bit	bit	NOUN	n	Contv=Yes	9	discourse	_	_
-9	o'jekõn	kõn	VERB	vi	Aspect=Perf|Number=[subj]|Person[subj]=3|Voice=Mid	5	parataxis	_	_
+9	o'jekõn	kõn	VERB	vi	Aspect=Perf|Number[subj]=Sing|Person[subj]=3|Voice=Mid	5	parataxis	_	_
 10	g̃u	g̃u	PART	npart	Polarity=Neg	9	discourse	_	_
 11	.	.	PUNCT	PUNCT	_	9	punct	_	_
 
@@ -1672,7 +1672,7 @@
 1	Ixe	iex	DET	dem	_	2	nsubj	_	_
 2	kapurug̃	kapurug̃	NOUN	_	_	0	root	_	_
 3	pe	pe	ADP	posp	_	2	case	_	_
-4	o'e	'e	AUX	aux	Aspect=Perf|Number=Sing|Person=3	2	aux	_	_
+4	o'e	o'e	AUX	aux	Aspect=Perf|Number=Sing|Person=3	2	aux	_	_
 
 # sent_id = 003.29
 # text = Iptog̃ darug̃ o'e
@@ -1703,7 +1703,7 @@
 1	Yobog̃at	yobog̃at	NOUN	n	_	4	obj	_	_
 2	,	,	PUNCT	punct	_	4	punct	_	_
 3	yopĩcat	_	NOUN	n	_	4	obj	_	_
-4	i'uk'ug̃	'uk	VERB	v	Aspect=DurImpf|Rel=NCont	0	root	_	_
+4	i'uk'ug̃	'uk	VERB	v	Aspect=DurIprf|Rel=NCont	0	root	_	_
 5	ip	ip	PART	prcl	Number=Plur|Person=3	4	dep	_	_
 6	jewebeam	jewebe	ADP	posp	_	4	obl	_	_
 7	.	.	PUNCT	punct	_	4	punct	_	_
@@ -1771,4 +1771,3 @@
 7	ma	ma	PART	prcl	_	8	advmod	_	_
 8	imug̃ẽg̃ẽ	mug̃ẽ	VERB	v	Aspect=Dur|Rel=NCont	6	advmod	_	_
 9	.	.	PUNCT	PUNCT	_	3	punct	_	_
-
