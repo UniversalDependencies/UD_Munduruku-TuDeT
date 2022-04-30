@@ -594,10 +594,10 @@
 # sent_id = 104
 # text = wexik'a kake ixi duk'a be
 # text_eng = there is sweet-potato in mother’s house vol 2 13 
-1	wexik'a	wexik	NOUN	n	Noun=Clf	0	root	0:root	_
+1	wexik'a	wexik	NOUN	n	_	0	root	0:root	_
 2	kake	kake	AUX	aux	_	1	aux	1:aux	_
 3	ixi	xi	NOUN	n	Rel=NCont	4	nmod	4:nmod	_
-4	duk'a	uk	NOUN	n	Noun=Clf|Rel=Cont	1	obl	1:obl	_
+4	duk'a	uk	NOUN	n	Rel=Cont	1	obl	1:obl	_
 5	be	be	ADP	pp	Rel=Cont	4	case	4:case	_
 
 # sent_id = 105
@@ -1449,7 +1449,7 @@
 # text_port = A irmã dele ralhou com ele.
 1	Iixĩt	ixĩt	NOUN	n	Rel=NCont	2	obl	_	_
 2	o'g̃ukorẽm	korẽm	VERB	v	Aspect=Imp|Person=3|Voice=Cau	0	root	_	_
-3	io'e	o'e	VERB	vi	Aspect=Perf|Evid=Nfh|Number[subj]=Sing|Person[subj]=3	2	discourse	_	_
+3	io'e	o'e	VERB	vi	Aspect=Perf|Evident=Nfh|Number[subj]=Sing|Person[subj]=3	2	discourse	_	_
 4	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 # sent_id = 0033.4
@@ -1501,7 +1501,7 @@
 # text_por = Comeu bóia de castanha.
 1	Da'o	Da'o	NOUN	n	_	2	obj	_	_
 2	o'jo'o'o	'jo'o'o	NOUN	n	Aspect=Perf|Number[subj]=Plur|Person[subj]=3	0	root	_	_
-3	io'e	o'e	VERB	v	Evid=Nfh|Rel=NCont	2	discourse	_	_
+3	io'e	o'e	VERB	v	Evident=Nfh|Rel=NCont	2	discourse	_	_
 4	-	-	PUNCT	PUNCT	_	2	punct	_	_
 5	puybit	puybit	NOUN	v:st	_	2	obj	_	_
 6	da'o	da'o	NOUN	n	Rel=Cont	5	nmod	_	_
