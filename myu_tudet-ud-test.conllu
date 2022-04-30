@@ -1562,7 +1562,7 @@
 5	io'e	o'e	VERB	vi	Evident=Nfh|Number[subj]=Sing|Person[subj]=3	1	parataxis	_	_
 6	.	.	PUNCT	PUNCT	_	5	punct	_	_
 7	g̃ebuje	g̃ebuje	ADV	n	_	9	advmod	_	_
-8	bit	bit	NOUN	n	Contv=Yes	9	discourse	_	_
+8	bit	bit	PART	part	Contv=Yes	9	discourse	_	_
 9	o'jekõn	kõn	VERB	vi	Aspect=Perf|Number[subj]=Sing|Person[subj]=3|Voice=Mid	5	parataxis	_	_
 10	g̃u	g̃u	PART	npart	Polarity=Neg	9	discourse	_	_
 11	.	.	PUNCT	PUNCT	_	9	punct	_	_
@@ -1771,3 +1771,4 @@
 7	ma	ma	PART	prcl	_	8	advmod	_	_
 8	imug̃ẽg̃ẽ	mug̃ẽ	VERB	v	Aspect=Dur|Rel=NCont	6	advmod	_	_
 9	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
