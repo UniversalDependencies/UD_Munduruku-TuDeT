@@ -1693,7 +1693,7 @@
 5	ma	ma	PART	prcl	_	4	discourse	_	_
 6	,	,	PUNCT	punct	_	4	punct	_	_
 7	i'e'em	'e	VERB	v	Aspect=DurIprf|Rel=NCont	4	dep	_	_
-8	aypapa'um'um	_	NOUN	n	Dec=Yes|Number=Plur	7	nsubj	_	_
+8	aypapa'um'um	_	NOUN	n	Aspect=Dec|Number=Plur	7	nsubj	_	_
 9	.	.	PUNCT	punct	_	7	punct	_	_
 
 # sent_id = 003.31
@@ -1753,7 +1753,7 @@
 # sent_id = 003.37
 # text = Aypapa'ũm'ũm i'uk'ug̃ jekukum jedarug̃ .
 # text_por = Os velhos antigos andavam tiran­do-o para fazer o arco deles.
-1	Aypapa'ũm'ũm	Aypapa'ũm'ũm	NOUN	n	Dec=Yes|Number=Plur	2	nsubj	_	_
+1	Aypapa'ũm'ũm	Aypapa'ũm'ũm	NOUN	n	Aspect=Dec|Number=Plur	2	nsubj	_	_
 2	i'uk'ug̃	i'uk	VERB	v	Aspect=DurIprf|Rel=NCont	0	root	_	_
 3	jekukum	jeku	VERB	v	Aspect=DurIprf|Voice=Mid	2	advcl	_	_
 4	jedarug̃	darug̃	NOUN	n	Reflex=Yes	3	obj	_	_
@@ -1771,4 +1771,3 @@
 7	ma	ma	PART	prcl	_	8	advmod	_	_
 8	imug̃ẽg̃ẽ	mug̃ẽ	VERB	v	Aspect=Dur|Rel=NCont	6	advmod	_	_
 9	.	.	PUNCT	PUNCT	_	3	punct	_	_
-
