@@ -290,7 +290,7 @@
 # text_portuguese = A embira esta perto da bananeira.
 # text_eng = The embira plant is close to the banana tree.
 1	Ixiwe	ixiwe	NOUN	n	_	0	root	_	_
-2	ako	ako	NOUN	n	_	1	nmod	_	_
+2	ako	ako	NOUN	n	_	1	obl	_	_
 3	xe	xe	ADP	pp	_	2	case	_	_
 
 # sent_id = 38
