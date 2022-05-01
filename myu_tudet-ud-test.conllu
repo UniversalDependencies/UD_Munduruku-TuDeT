@@ -115,9 +115,9 @@
 # text = Ikibit awi kay
 # text_portuguese = A irmã quer uma agulha.
 # text_eng = The sister wants a needle
-1	Ikibit	ikibit	NOUN	n	_	0	root	_	_
-2	awi	awi	NOUN	n	_	1	obl	_	_
-3	kay	kay	ADP	pp	Rel=Cont	2	case	_	_
+1	Ikibit	ikibit	NOUN	n	_	0	root	0:root	_
+2	awi	awi	NOUN	n	_	1	obl	1:obl	_
+3	kay	kay	ADP	pp	Rel=Cont	2	case	2:case	_
 
 # sent_id = 17
 # text = Awawa oajẽm ika be , jekibit ka be
