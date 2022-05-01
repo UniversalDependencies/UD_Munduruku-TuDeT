@@ -1727,7 +1727,7 @@
 4	puye	puye	ADV	_	_	5	mark	_	_
 5	tiwãbu	tiwãbu	NOUN	cl	_	3	advcl	_	_
 6	tẽg̃	dẽg̃	ADP	posp	Rel=NCont	5	case	_	_
-7	ma	ma	PART	prcl	_	6	discourse	_	_
+7	ma	ma	PART	prcl	_	3	discourse	_	_
 8	o'ju	cu	VERB	vi	_	3	parataxis	_	_
 9	tiwãbu	tiwãbu	VERB	vi	_	8	obl	_	_
 10	dag̃	tag̃	ADP	posp	Rel=Cont	9	case	_	_
@@ -1771,4 +1771,5 @@
 7	ma	ma	PART	prcl	_	8	advmod	_	_
 8	imug̃ẽg̃ẽ	mug̃ẽ	VERB	v	Aspect=Dur|Rel=NCont	3	parataxis	_	_
 9	.	.	PUNCT	PUNCT	_	8	punct	_	_
+
 
