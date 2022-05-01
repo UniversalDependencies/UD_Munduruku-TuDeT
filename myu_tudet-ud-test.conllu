@@ -1752,7 +1752,7 @@
 
 # sent_id = 003.37
 # text = Aypapa'ũm'ũm i'uk'ug̃ jekukum jedarug̃ .
-# text_por = Os velhos antigos andavam tiran­do-o para fazer o arco deles.
+# text_por = Os velhos antigos andavam tirando-o para fazer o arco deles.
 1	Aypapa'ũm'ũm	Aypapa'ũm'ũm	NOUN	n	Aspect=Dec|Number=Plur	2	nsubj	_	_
 2	i'uk'ug̃	i'uk	VERB	v	Aspect=DurIprf|Rel=NCont	0	root	_	_
 3	jekukum	jeku	VERB	v	Aspect=DurIprf|Voice=Mid	2	advcl	_	_
