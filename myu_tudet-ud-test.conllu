@@ -1769,6 +1769,6 @@
 5	,	,	PUNCT	PUNCT	_	3	punct	_	_
 6	kuybi	kuybi	NOUN	n	Rel=NCont	3	dislocated	_	_
 7	ma	ma	PART	prcl	_	8	advmod	_	_
-8	imug̃ẽg̃ẽ	mug̃ẽ	VERB	v	Aspect=Dur|Rel=NCont	6	parataxis	_	_
+8	imug̃ẽg̃ẽ	mug̃ẽ	VERB	v	Aspect=Dur|Rel=NCont	3	parataxis	_	_
 9	.	.	PUNCT	PUNCT	_	8	punct	_	_
 
