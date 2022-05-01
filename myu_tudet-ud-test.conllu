@@ -1608,7 +1608,7 @@
 # text = Idibi konkõn g̃u o'e .
 # text_por = Não bebia água
 1	Idibi	idibi	NOUN	n	_	2	obj	_	_
-2	konkõn	konkõn	PRON	pron	Aspect=Dur	0	root	_	_
+2	konkõn	konkõn	VERB	v	Aspect=Dur	0	root	_	_
 3	g̃u	g̃u	PART	npart	Polarity=Neg	2	advmod	_	_
 4	o'e	o'e	VERB	v	Aspect=Perf|Number[subj]=Sing|Person=3	2	parataxis	_	_
 5	.	.	PUNCT	PUNCT	_	2	punct	_	_
@@ -1727,7 +1727,7 @@
 4	puye	puye	ADV	_	_	5	mark	_	_
 5	tiwãbu	tiwãbu	NOUN	cl	_	3	advcl	_	_
 6	tẽg̃	dẽg̃	ADP	posp	Rel=NCont	5	case	_	_
-7	ma	ma	PART	prcl	_	6	goeswith	_	_
+7	ma	ma	PART	prcl	_	6	discourse	_	_
 8	o'ju	cu	VERB	vi	_	3	parataxis	_	_
 9	tiwãbu	tiwãbu	VERB	vi	_	8	obl	_	_
 10	dag̃	tag̃	ADP	posp	Rel=Cont	9	case	_	_
