@@ -13,7 +13,7 @@ UD_Munduruku-TuDeT is a collection of annotated sentences in [Mundurukú](http:/
 
 # Introduction
 
-UD_Munduruku-TuDeT is a collection of annotated sentences in Mundurukú. It is part of [TuLaR](https://tular.clld.org), Tupían Language Resources, which contains other languages -- see [TuDeT](https://tular.clld.org/contributions/tudet). The sentences are being annotated by Fabrício Ferraz Gerardi and Eva Huber.
+UD_Munduruku-TuDeT is a collection of annotated sentences in Mundurukú. It is part of [TuLaR](https://tular.clld.org), Tupían Language Resources, which contains other languages -- see [TuDeT](https://tular.clld.org/contributions/tudet). The sentences are being annotated by Fabrício Ferraz Gerardi.
 
 ## Text sources
 
@@ -56,7 +56,7 @@ UPOS: converted from manual
 XPOS: manual native
 Features: converted from manual
 Relations: converted from manual
-Contributors: Gerardi, Fabrício Ferraz; Huber, Eva
+Contributors: Gerardi, Fabrício Ferraz
 Contributing: elsewhere
 Contact: fabricio.gerardi@uni-tuebingen.de
 ===============================================================================
