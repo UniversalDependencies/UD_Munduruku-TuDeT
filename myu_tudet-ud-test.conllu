@@ -1675,7 +1675,7 @@
 # sent_id = 003.28
 # text = Ixe kapurug̃ pe o'e
 # text_eng = 
-# text_por = 
+# text_por = inserir tradução
 1	Ixe	iex	DET	dem	_	2	nsubj	_	_
 2	kapurug̃	kapurug̃	NOUN	_	_	0	root	_	_
 3	pe	pe	ADP	posp	_	2	case	_	_
