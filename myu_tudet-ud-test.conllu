@@ -6,6 +6,7 @@
 # document_authorship =  Annotated by Fabrício Ferraz Gerardi
 # sent_id = 1
 # text = Ajojot jekobe be cum
+# text_por = 
 # text_eng =  Grandpa goes in the canoe
 1	Ajojot	ajojot	NOUN	n	_	4	nsubj	_	_
 2	jekobe	jekobe	NOUN	n	_	4	obl	_	_
@@ -14,12 +15,14 @@
 
 # sent_id = 2
 # text = jexat o'tobuxik
+# text_por = 
 # text_eng = He found food
 1	jexat	xat	NOUN	n	_	2	obl	_	_
 2	o'tobuxik	dobuxik	VERB	v	Aspect=Perf|Number=Sing|Person=33	0	root	_	_
 
 # sent_id = 3
 # text = Tit tak o'titobuxik tu ?
+# text_por = 
 # text_eng = Did he also find flowers ?
 1	Tit	dit	NOUN	n	Rel=NCont	3	obl	_	_
 2	tak	tak	ADV	adv	_	3	advmod	_	_
@@ -29,12 +32,14 @@
 
 # sent_id = 6
 # text = Ka'ũma !
+# text_por = 
 # text_eng = no!
 1	Ka'ũma	ka'ũma	INTJ	intj	_	0	root	_	_
 2	!	!	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 7
 # text = Tawe oajẽm iku be
+# text_por = 
 # text_eng = The capuchin monkey came/arrived to/at the slash
 1	Tawe	tawe	NOUN	n	_	2	obl	_	_
 2	oajẽm	ajẽm	VERB	vi	Aspect=Perf|Person=3	0	root	_	_
@@ -43,6 +48,7 @@
 
 # sent_id = 8
 # text = Jexat o'tobuxik iku be
+# text_por = 
 # text_eng = He found food it in the slash
 1	Jexat	xat	NOUN	n	_	2	obl	_	_
 2	o'tobuxik	dobuxik	VERB	v	Aspect=Perf|Person=33	0	root	_	_
@@ -51,14 +57,15 @@
 
 # sent_id = 9
 # text = Xa iku xe
-# Text_eng = The pequi tree is/lies near the slash
+# text_por = 
+# text_eng = The pequi tree is/lies near the slash
 1	Xa	xa	NOUN	n	_	2	nsubj	_	_
 2	iku	ku	NOUN	n	_	0	root	_	_
 3	xe	xe	ADP	pp	_	2	case	_	_
 
 # sent_id = 10
 # text = Tawe oajẽm xa xe
-# text_portuguese = O macaco-prego chegou perto do pequizeiro
+# text_por = O macaco-prego chegou perto do pequizeiro
 # text_eng = The capuchin monkey came/arrived to/at the pequi tree
 1	Tawe	tawe	NOUN	n	_	2	obl	_	_
 2	oajẽm	ajẽm	VERB	v	Aspect=Perf|Person=3	0	root	_	_
@@ -67,7 +74,7 @@
 
 # sent_id = 11
 # text = 	Tawe oajẽm ka xe
-# text_portuguese = O macaco-prego chegou perto do terrano do chefe
+# text_por = O macaco-prego chegou perto do terrano do chefe
 # Text_eng = The capuchin monkey came/arrived to/at the chief's land
 # sent_structure = SV
 1	Tawe	tawe	NOUN	n	_	2	obl	_	_
@@ -77,7 +84,7 @@
 
 # sent_id = 12
 # text = Toxaw oajẽm ka be
-# text_portuguese = O chefe chegou ao lugar onde estava o macaco-prego
+# text_por = O chefe chegou ao lugar onde estava o macaco-prego
 # text_eng = The chief came/arrived to/at the place where the capuchin monkey was
 # sent_structure = SV
 1	Toxaw	toxaw	NOUN	n	_	2	obl	_	_
@@ -87,7 +94,7 @@
 
 # sent_id = 13
 # text = Toxaw dak jexat o'tobuxik
-# text_portuguese = O chefe também achou a comida
+# text_por = O chefe também achou a comida
 # text_eng = The chief also found the food
 1	Toxaw	toxaw	NOUN	n	_	4	obl	_	_
 2	dak	dak	ADV	adv	_	4	advmod	_	_
@@ -96,7 +103,7 @@
 
 # sent_id = 14
 # text = Toxaw tawe o'tobuxik
-# text_portuguese = O chefe também achou o macaco-prego
+# text_por = O chefe também achou o macaco-prego
 # text_eng = The chief found the capuchin monkey
 1	Toxaw	toxaw	NOUN	n	_	3	obl	_	_
 2	tawe	tawe	NOUN	n	_	3	obl	_	_
@@ -104,7 +111,7 @@
 
 # sent_id = 15
 # text = Xa xe tawe o'tobuxik
-# text_portuguese = Ele achou o macaco-prego pero do pequizeiro.
+# text_por = Ele achou o macaco-prego pero do pequizeiro.
 # text_eng = He found the capuchin monkey near the pequi tree
 1	Xa	xa	NOUN	n	_	4	obl	_	_
 2	xe	xe	ADP	pp	_	1	case	_	_
@@ -113,7 +120,7 @@
 
 # sent_id = 16
 # text = Ikibit awi kay
-# text_portuguese = A irmã quer uma agulha.
+# text_por = A irmã quer uma agulha.
 # text_eng = The sister wants a needle
 1	Ikibit	ikibit	NOUN	n	_	0	root	_	_
 2	awi	awi	NOUN	n	_	1	obl	_	_
@@ -121,7 +128,7 @@
 
 # sent_id = 17
 # text = Awawa oajẽm ika be , jekibit ka be
-# text_portuguese = Vovo chegou ao terreno da irma.
+# text_por = Vovo chegou ao terreno da irma.
 # text_eng = The grandmother came/arrived at the sister's land .
 1	Awawa	awawa	NOUN	n	_	2	obl	_	_
 2	oajẽm	ajẽm	VERB	vi	Aspect=Perf|Person=3	0	root	_	_
@@ -134,7 +141,7 @@
 
 # sent_id = 18
 # text = Awi awawa bubut
-# text_portuguese = A agulha é da vovo.
+# text_por = A agulha é da vovo.
 # text_eng = The needle belongs to (?) the grandmother.
 1	Awi	awi	NOUN	n	_	3	nsubj	_	_
 2	awawa	awawa	NOUN	n	_	1	nmod	_	_
@@ -142,7 +149,7 @@
 
 # sent_id = 19
 # text = Ite awi o'tobuxik
-# text_portuguese = Ela achou a agulha. 
+# text_por = Ela achou a agulha. 
 # text_eng = She found the needle. 
 1	Ite	ite	PRON	pro	_	3	obl	_	_
 2	awi	awi	NOUN	n	_	3	obl	_	_
@@ -150,7 +157,7 @@
 
 # sent_id = 20
 # text = Awawa o'tobuxik
-# text_portuguese = Vovo achou. 
+# text_por = Vovo achou. 
 # text_eng = The grandmother found (it?)
 # sent_structure = SV
 1	Awawa	awawa	NOUN	n	_	2	obl	_	_
@@ -158,7 +165,7 @@
 
 # sent_id = 22
 # text = Toxaw tawe o'tobuxik tu ?
-# text_portuguese = O chefe achou o macaco-prego?
+# text_por = O chefe achou o macaco-prego?
 # text_eng = Did the chief find the capuchin monkey?
 1	Toxaw	toxaw	NOUN	n	_	3	obl	_	_
 2	tawe	tawe	NOUN	n	_	3	obl	_	_
@@ -168,7 +175,7 @@
 
 # sent_id = 23
 # text = Abu tawe o'tobuxik ?
-# text_portuguese = Quem achou o macaco-prego?
+# text_por = Quem achou o macaco-prego?
 # text_eng = Who found the capuchin monkey?
 1	Abu	abu	PRON	pro	_	3	obl	_	_
 2	tawe	tawe	NOUN	n	_	3	obl	_	_
@@ -177,7 +184,7 @@
 
 # sent_id = 24
 # text = Abu awi o'tobuxik ?
-# text_portuguese = Quem achou a agulha?
+# text_por = Quem achou a agulha?
 # text_eng = Who found the needle?
 1	Abu	abu	PRON	pro	_	3	obl	_	_
 2	awi	awi	NOUN	n	_	3	obl	_	_
@@ -186,7 +193,7 @@
 
 # sent_id = 25
 # text = Abu jexat o'tobuxik ?
-# text_portuguese = Quem achou a comida?
+# text_por = Quem achou a comida?
 # text_eng = Who found the food?
 1	Abu	abu	PRON	pro	_	3	obl	_	_
 2	jexat	xat	NOUN	n	_	3	obl	_	_
@@ -195,7 +202,7 @@
 
 # sent_id = 26
 # text = Abu awi kay ?
-# text_portuguese = Quem quer agulha?
+# text_por = Quem quer agulha?
 # text_eng = Who wants a needle?
 1	Abu	abu	PRON	pro	_	2	nsubj	_	_
 2	awi	awi	NOUN	n	_	0	root	_	_
@@ -204,7 +211,7 @@
 
 # sent_id = 27
 # text = Abu o'titobuxik ?
-# text_portuguese = Quem achou as flores?
+# text_por = Quem achou as flores?
 # text_eng = Who found the flowers?
 1	Abu	abu	PRON	pro	_	2	nsubj	_	_
 2	o'titobuxik	dobuxik	VERB	v	Aspect=Perf|Incorp=Yes|Person=3	0	root	_	_
@@ -212,7 +219,7 @@
 
 # sent_id = 28
 # text = Awawa awi o'tobuxik jekibit ka be
-# text_portuguese = Vovó achou uma agulha no terreno da irmã.
+# text_por = Vovó achou uma agulha no terreno da irmã.
 # text_eng = The grandmother found a needle on her sister's land. 
 1	Awawa	awawa	NOUN	n	_	3	obl	_	_
 2	awi	awi	NOUN	n	_	3	obl	_	_
@@ -223,14 +230,14 @@
 
 # sent_id = 29
 # text = Oexe awawa
-# text_portuguese = Vovó chegou em casa.
+# text_por = Vovó chegou em casa.
 # text_eng = The grandmother arrived home. 
 1	Oexe	xe	VERB	v	Aspect=Perf|Person=3	0	root	_	_
 2	awawa	awawa	NOUN	n	_	1	obl	_	_
 
 # sent_id = 30
 # text = Toxaw dak oexe
-# text_portuguese = O chefe tambem chegou em casa.
+# text_por = O chefe tambem chegou em casa.
 # text_eng = The chief has/owns also a house. (?)
 1	Toxaw	toxaw	NOUN	n	_	3	obl	_	_
 2	dak	dak	ADV	adv	_	3	advmod	_	_
@@ -238,7 +245,7 @@
 
 # sent_id = 31
 # text = Awawa tawe kay
-# text_portuguese = Vovó quer o macaco-prego.
+# text_por = Vovó quer o macaco-prego.
 # text_eng = The grandmother wants the capuchin monkey. 
 1	Awawa	awawa	NOUN	n	_	0	root	_	_
 2	tawe	tawe	NOUN	n	_	1	nmod	_	_
@@ -246,7 +253,7 @@
 
 # sent_id = 32
 # text = Toxaw tawe o'tobuxik
-# text_portuguese = O chefe achou o macaco-prego.
+# text_por = O chefe achou o macaco-prego.
 # text_eng = The chief found the capuchin monkey. 
 1	Toxaw	toxaw	NOUN	n	_	3	obl	_	_
 2	tawe	tawe	NOUN	n	_	3	obl	_	_
@@ -254,14 +261,14 @@
 
 # sent_id = 33
 # text = Jexat o'tobuxik
-# text_portuguese = Ele achou, a comida.
+# text_por = Ele achou, a comida.
 # text_eng = He found the food. 
 1	Jexat	xat	NOUN	n	_	2	obl	_	_
 2	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=3	0	root	_	_
 
 # sent_id = 34
 # text = Tawe ixat , toxaw xat
-# text_portuguese = O chefe come macaco-prego.
+# text_por = O chefe come macaco-prego.
 # text_eng = The chief eats the capuchin monkey. 
 1	Tawe	tawe	NOUN	n	_	2	nsubj	_	_
 2	ixat	xat	NOUN	n	_	0	root	_	_
@@ -271,7 +278,7 @@
 
 # sent_id = 35
 # text = Awawa ixaxet
-# text_portuguese = Vovó tem comida. 
+# text_por = Vovó tem comida. 
 # text_eng = The grandmother has food. 
 # sent_structure = 
 1	Awawa	awawa	NOUN	n	_	2	nsubj	_	_
@@ -279,7 +286,7 @@
 
 # sent_id = 36
 # text = Awawa ixiwe kay
-# text_portuguese = Vovo quer embira.
+# text_por = Vovo quer embira.
 # text_eng = The grandmother wants an embira plant . 
 1	Awawa	awawa	NOUN	n	_	0	root	_	_
 2	ixiwe	ixiwe	NOUN	n	_	1	nmod	_	_
@@ -287,7 +294,7 @@
 
 # sent_id = 37
 # text = Ixiwe ako xe
-# text_portuguese = A embira esta perto da bananeira.
+# text_por = A embira esta perto da bananeira.
 # text_eng = The embira plant is close to the banana tree.
 1	Ixiwe	ixiwe	NOUN	n	_	0	root	_	_
 2	ako	ako	NOUN	n	_	1	obl	_	_
@@ -295,7 +302,7 @@
 
 # sent_id = 38
 # text = Awawa cum ako xe
-# text_portuguese = Vovó vai perto da bananeira.
+# text_por = Vovó vai perto da bananeira.
 # text_eng = Grandma goes near the banana tree.
 1	Awawa	awawa	NOUN	n	_	2	nsubj	_	_
 2	cum	cu	VERB	vi	Aspect=Imp	0	root	_	_
@@ -304,7 +311,7 @@
 
 # sent_id = 39
 # text = Ixiwe o'tobuxik ako xe
-# text_portuguese = Ela achou embira perto da bananeira. 
+# text_por = Ela achou embira perto da bananeira. 
 # text_eng = She found the embira plant close to the banana tree. 
 1	Ixiwe	ixiwe	NOUN	n	_	2	obl	_	_
 2	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=3	0	root	_	_
@@ -313,7 +320,7 @@
 
 # sent_id = 40
 # text = cum jeku be
-# text_portuguese = Está na roça.
+# text_por = Está na roça.
 # text_eng = He is in the slah.
 1	cum	cu	VERB	vi	Aspect=Imp	0	root	_	_
 2	jeku	jeku	NOUN	n	Reflex=Yes	1	obl	_	_
@@ -321,7 +328,7 @@
 
 # sent_id = 41
 # text = Awawa jeku be oajẽm
-# text_portuguese = Vovo chegou a roca.
+# text_por = Vovo chegou a roca.
 # text_eng = The grandmother arrived/came to her slash.  
 1	Awawa	awawa	NOUN	n	_	4	obl	_	_
 2	jeku	ku	NOUN	n	_	4	obl	_	_
@@ -330,7 +337,7 @@
 
 # sent_id = 42
 # text = Akoba iku be opop .
-# text_portuguese = As bananas estao na roca. 
+# text_por = As bananas estao na roca. 
 # text_eng = The bananas lay in her slash. 
 1	Akoba	Akoba	NOUN	n	_	4	nsubj	_	_
 2	iku	iku	NOUN	n	_	1	nmod	_	_
@@ -340,7 +347,7 @@
 
 # sent_id = 43
 # text = Tit tak iku be opop , awawa ku be .
-# text_portuguese = A flor também esta na roca -- na roca da vovo. 
+# text_por = A flor também esta na roca -- na roca da vovo. 
 # text_eng = The flower lies also in her slash -- in the grandmother's slash. 
 # sent_structure = 
 1	Tit	dit	NOUN	n	_	5	nsubj	_	_
@@ -356,7 +363,7 @@
 
 # sent_id = 44
 # text = Ixi uk'a be
-# text_portuguese = A mãe está em casa.
+# text_por = A mãe está em casa.
 # text_eng = The mother is at home
 # sent_structure = 
 1	Ixi	ixi	NOUN	n	_	2	nsubj	_	_
@@ -367,7 +374,7 @@
 
 # sent_id = 45
 # text = I'it tak uk'a be
-# text_portuguese = O filho também esta em casa. 
+# text_por = O filho também esta em casa. 
 # text_eng = The son is also at home. (in the house)
 # sent_structure = 
 1	I'it	'it	NOUN	n	_	3	nsubj	_	_
@@ -377,7 +384,7 @@
 
 # sent_id = 46
 # text = Toxaw oexe
-# text_portuguese = O chefe chegou a casa. 
+# text_por = O chefe chegou a casa. 
 # text_eng = The chief arrived at/ came home. 
 # sent_structure = 
 1	Toxaw	toxaw	NOUN	n	_	2	obl	_	_
@@ -385,7 +392,7 @@
 
 # sent_id = 47
 # text = I'it wa du ?
-# text_portuguese = O filho esta chorando?
+# text_por = O filho esta chorando?
 # text_eng = Is the son crying?
 # sent_structure = 
 1	I'it	'it	NOUN	n	_	2	nsubj	_	_
@@ -395,7 +402,7 @@
 
 # sent_id = 49
 # text = Toxaw i'it o'tobuxik uk'a be .
-# text_portuguese = O chefe achou o filho em casa. 
+# text_por = O chefe achou o filho em casa. 
 # text_eng = The chief found the son at home / in the house. 
 1	Toxaw	toxaw	NOUN	n	_	3	obl	_	_
 2	i'it	i'it	NOUN	n	_	3	obl	_	_
@@ -408,14 +415,14 @@
 
 # sent_id = 50
 # text = I'it ixet
-# text_portuguese = O filho esta dormindo. 
+# text_por = O filho esta dormindo. 
 # text_eng = The son is sleeping. 
 1	I'it	'it	NOUN	n	_	2	nsubj	_	_
 2	ixet	xet	VERB	v:st	_	0	root	_	_
 
 # sent_id = 51
 # text = Ixi wa'e kug̃
-# text_portuguese = A mãe tem uma cuia.
+# text_por = A mãe tem uma cuia.
 # text_eng = The mother has a gourd. 
 # sent_structure = 
 1	Ixi	ixi	NOUN	n	_	3	nsubj	_	_
@@ -424,7 +431,7 @@
 
 # sent_id = 52
 # text = Wa'e ibubut , ixi bubut
-# text_portuguese = A cuia e dela.
+# text_por = A cuia e dela.
 # text_eng = The gourd is hers. 
 # sent_structure = 
 1	Wa'e	wa'e	NOUN	n	_	2	nsubj	_	_
@@ -435,7 +442,7 @@
 
 # sent_id = 53
 # text = Wexik'a kake wa'e be
-# text_portuguese = Há batata-doce na cuia.
+# text_por = Há batata-doce na cuia.
 # text_eng = There is sweet-potatoe in the gourd
 # sent_structure = 
 1-2	Wexik'a	_	_	_	_	_	_	_	_
@@ -447,7 +454,7 @@
 
 # sent_id = 54
 # text = Ixat'a kake wa'e be , uk'a be
-# text_portuguese = Tem comida na cuia, em casa.
+# text_por = Tem comida na cuia, em casa.
 # text_eng = There is food in the gourd, at home.
 # sent_structure = 
 1-2	Ixat'a	_	_	_	_	_	_	_	_
@@ -462,7 +469,7 @@
 
 # sent_id = 55
 # text = Wa'e uk'a be opop
-# text_portuguese = A cuia está na casa.
+# text_por = A cuia está na casa.
 # text_eng = The gourd is/lies in the house. 
 # sent_structure = 
 1	Wa'e	wa'e	NOUN	n	_	4	nsubj	_	_
@@ -472,7 +479,7 @@
 
 # sent_id = 56
 # text = puybit ka'ũmg̃u o'e
-# text_portuguese = Não há comida Vol 5 p39-1
+# text_por = Não há comida Vol 5 p39-1
 # text_eng = There is no food
 1	puybit	puybit	NOUN	n	_	2	nsubj	_	_
 2	ka'ũmg̃u	ka'ũmg̃u	VERB	cop	_	0	root	_	_
@@ -480,7 +487,7 @@
 
 # sent_id = 57
 # text = ag̃okatkat o'ju puybit aokam
-# text_portuguese = Os homens foram matar caça Vol 5 p39-2
+# text_por = Os homens foram matar caça Vol 5 p39-2
 # text_eng = The men went to kill the hunt 
 1	ag̃okatkat	ag̃okatkat	NOUN	n	_	2	obl	_	_
 2	o'ju	cu	VERB	vi	_	0	root	_	_
@@ -489,7 +496,7 @@
 
 # sent_id = 58
 # text = oexexe ip uk'a be puybit kukug̃
-# text_portuguese = Eles chegaram em casa com caça Vol 5 p39-3
+# text_por = Eles chegaram em casa com caça Vol 5 p39-3
 # text_eng = They arrived home with a hunted thing
 1	oexexe	exexe	VERB	vi	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
 2	ip	ip	PART	pcl	_	1	dep	_	_
@@ -502,7 +509,7 @@
 
 # sent_id = 59
 # text = Daje ade o'yaoka ip pima , puybit kuka o'e ade
-# text_portuguese = Quando eles matam muito porco, tem muita bóia vol5 p40
+# text_por = Quando eles matam muito porco, tem muita bóia vol5 p40
 # text_eng = There is a lot of food, when they kill (a) pig(s)
 1	Daje	daje	NOUN	n	_	3	obl	_	_
 2	ade	ade	PRON	pro	_	1	nmod	_	_
@@ -517,7 +524,7 @@
 
 # sent_id = 60
 # text = Soat bekitkit ibeg̃beg̃ o'e ade puybit puye
-# text_portuguese = Todas as crian ças ficaram satisfeitas por causa de muita comida.
+# text_por = Todas as crian ças ficaram satisfeitas por causa de muita comida.
 # text_eng = All children were/became satisfied because of so much food
 1	Soat	Soat	PRON	_	_	2	nmod	_	_
 2	bekitkit	bekitkit	NOUN	n	_	0	root	_	_
@@ -529,7 +536,7 @@
 
 # sent_id = 61
 # text = Kabiam doa iba'orere jedoti mug̃ẽg̃ẽm daxa xe
-# text_portuguese = A aranha eatá octfpada de dia fazendo a teia perto do fogo.
+# text_por = A aranha eatá octfpada de dia fazendo a teia perto do fogo.
 # text_eng = in the morning the spider is busy webmaking (lit. making trousers) vol 5 36
 1	Kabiam	Kabiam	ADV	adv	_	3	amod	_	_
 2	doa	_	NOUN	n	_	5	nsubj	_	_
@@ -541,7 +548,7 @@
 
 # sent_id = 100
 # text = Karosakaybu daje o'g̃uju , tacup puye ip .
-# text_port = Karosakaybu virou as pessoas porcos grandes porque estavam guardando bóia só para elas
+# text_por = Karosakaybu virou as pessoas porcos grandes porque estavam guardando bóia só para elas
 # text_eng = K transformed people in pigs, becaus they were stealing food
 1	Karosakaybu	Karosakaybu	PROPN	pn	_	3	obl	_	_
 2	daje	daje	NOUN	n	_	3	obl	_	_
@@ -877,7 +884,7 @@
 # sent_id = 5001
 # text = õn ag̃okatkat o'sutayxidaat wamõat pe
 # text_eng = I made the man married thorugh the shamman. Gomes 2006: 80 (46b)
-# text_port = Eu fiz o pajé casar o homem
+# text_por = Eu fiz o pajé casar o homem
 1	õn	õn	PRON	pron	_	3	obl	_	_
 2	ag̃okatkat	ag̃okatkat	NOUN	n	_	3	obl	_	_
 3	o'sutayxidaat	tayxi	VERB	v	Person=33|Trans=Yes|Voice=Cau	0	root	_	_
@@ -961,7 +968,7 @@
 # sent_id = 5009
 # text = Eg̃uycũg̃ pimap , ecepe eg̃rũ be
 # text_eng = Whenever you are sad, lie down in your hammock. Sheffler (1974: 7)
-# text_port = Quando estiver triste, deita na tua rede
+# text_por = Quando estiver triste, deita na tua rede
 1	Eg̃uycũg̃	g̃uycũg̃	NOUN	n	Number=Sing|Person=2	4	advcl	_	_
 2	pimap	pimap	SCONJ	sconj	_	1	mark	_	_
 3	,	,	PUNCT	punct	_	1	punct	_	_
@@ -1136,7 +1143,7 @@
 # sent_id = 7006
 # text = Ibu buje , tujuxexem ip uk’a be ayacayũ be , ta am .
 # text_eng = When they are caught , they take them home for the women to cook .     (Cartilha 7, 1.6)
-# text_port = Quando estão pegos, eles levam para casa para as mulheres cozinharem.
+# text_por = Quando estão pegos, eles levam para casa para as mulheres cozinharem.
 1	Ibu	bu	VERB	v	Rel=NCont	4	advcl	_	_
 2	buje	buje	ADV	adv	_	1	advmod	_	_
 3	,	,	PUNCT	punct	_	4	punct	_	punct
@@ -1426,13 +1433,13 @@
 
 # sent_id = 0033.1
 # text = Daruk juap
-# text_port = Daruk juap (O Aparecimento do Arco)
+# text_por = Daruk juap (O Aparecimento do Arco)
 1	Daruk	Daruk	NOUN	n	_	0	root	_	_
 2	juap	juap	NOUN	n	Nomzr=Pa	1	case	_	_
 
 # sent_id = 0033.2
 # text = Daruk o'ju , i'e'em ajojoyt'ũm'ũm .
-# text_port = Apareceu o arco, dizem os velhos antigos
+# text_por = Apareceu o arco, dizem os velhos antigos
 1	Daruk	Daruk	NOUN	n	_	2	nsubj	_	_
 2	o'ju	cu	VERB	vi	Aspect=Perf|Number[subj]=Sing|Person[subj]=3	0	root	_	_
 3	,	,	PUNCT	punct	_	2	punct	_	_
@@ -1442,7 +1449,7 @@
 
 # sent_id = 0033.3
 # text = Iixĩt o'g̃ukorẽm io'e .
-# text_port = A irmã dele ralhou com ele.
+# text_por = A irmã dele ralhou com ele.
 1	Iixĩt	ixĩt	NOUN	n	Rel=NCont	2	obl	_	_
 2	o'g̃ukorẽm	korẽm	VERB	v	Aspect=Imp|Person=3|Voice=Cau	0	root	_	_
 3	io'e	o'e	VERB	vi	Aspect=Perf|Evident=Nfh|Number[subj]=Sing|Person[subj]=3	2	discourse	_	_
@@ -1450,7 +1457,7 @@
 
 # sent_id = 0033.4
 # text = Wuyjuyũ ma'g̃u koap pit osunuy .
-# text_port = Primeiramente era gente.
+# text_por = Primeiramente era gente.
 1	Wuyjuyũ	wuyjuyũ	NOUN	n	Number=Plur	0	root	_	_
 2	ma'g̃u	ma'g̃u	PART	prcl	Polarity=Neg	1	discourse	_	_
 3	koap	koap	ADV	pp	_	1	advmod	_	_
@@ -1460,7 +1467,8 @@
 
 # sent_id = 0033.5
 # text = Wuyjuyũ ma'g̃u koap pit osunuy .
-# text_port = Primeiramente era gente.
+# text_eng =
+# text_por = Primeiramente era gente.
 1	Wuyjuyũ	wuyjuyũ	NOUN	n	Number=Plur	0	root	_	_
 2	ma'g̃u	ma'g̃u	PART	prcl	Polarity=Neg	1	discourse	_	_
 3	koap	koap	ADV	pp	_	1	advmod	_	_
@@ -1470,7 +1478,8 @@
 
 # sent_id = 0033.6
 # text = Ibuybitopi iixĩt osunuy cebe . Iixĩt ku dag̃ oeku .
-# text_port = Ele comia o que era da irmã. A irmã dele andava na roça.
+# text_eng =
+# text_por = Ele comia o que era da irmã. A irmã dele andava na roça.
 1	Ibuybitopi	Ipuybitopi	NOUN	n	Rel=NCont	4	nsubj	_	_
 2	iixĩt	ixĩt	NOUN	n	Rel=NCont	1	nmod	_	_
 3	osunuy	osunuy	AUX	aux	_	4	cop	_	_
@@ -1484,7 +1493,8 @@
 
 # sent_id = 0033.7
 # text = Dexe. Ku dag̃wi oexe .
-# text_port = Chegour. Chegou da roça.
+# text_eng =
+# text_por = Chegour. Chegou da roça.
 1	Dexe	Dexe	VERB	v	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	PUNCT	_	1	punct	_	_
 3	Ku	ku	NOUN	n	_	5	obl	_	_
@@ -1494,6 +1504,7 @@
 
 # sent_id = 0033.8
 # text = Da'o o'jo'o'o io'e - puybit da'o .
+# text_eng =
 # text_por = Comeu bóia de castanha.
 1	Da'o	Da'o	NOUN	n	_	2	obj	_	_
 2	o'jo'o'o	'jo'o'o	NOUN	n	Aspect=Perf|Number[subj]=Plur|Person[subj]=3	0	root	_	_
@@ -1506,7 +1517,7 @@
 # sent_id = 003.9
 # text = I'o'o o'tobuxik .
 # text_eng = 
-# text_port = Achou já comido.
+# text_por = Achou já comido.
 1	I'o'o	'o	NOUN	n	Rel=NCont	2	obl	_	_
 2	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Number[subj]=Sing|Person[obj]=3|Person[subj]=3	0	root	_	_
 3	.	.	PUNCT	PUNCT	_	2	punct	_	_
@@ -1514,13 +1525,13 @@
 # sent_id = 003.10
 # text = Iixĩt o'g̃ukorẽm
 # text_eng = His sister got angry at him
-# text_port = A irmã ralhou com ele.
+# text_por = A irmã ralhou com ele.
 1	Iixĩt	ixĩt	NOUN	n	Rel=NCont	2	nsubj	_	_
 2	o'g̃ukorẽm	korẽm	VERB	v	Aspect=Imp|Number[subj]=Sing|Person[subj]=3|Rel=NCont|Voice=Cau	0	root	_	_
 
 # sent_id = 0033.11
 # text = Abu g̃u toma da'o o'jo'o'o ? io'e .
-# text_port = Quem comeu a bóia de castanha? ela perguntou.
+# text_por = Quem comeu a bóia de castanha? ela perguntou.
 1	Abu	abu	PRON	pro	_	5	nsubj	_	_
 2	g̃u	g̃u	PART	npart	Polarity=Neg	5	discourse	_	_
 3	toma	toma	NOUN	n	_	5	obj	_	_
@@ -1532,7 +1543,7 @@
 
 # sent_id = 0033.12
 # text = Cexedig̃rebuuuu , io'e .
-# text_port = Foi Cexedigrebu!, disse.
+# text_por = Foi Cexedigrebu!, disse.
 1	Cexedig̃rebuuuu	Cexedig̃rebu	PROPN	n	_	0	root	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	io'e	'e	VERB	vi	Evident=Nfh|Number[subj]=Sing|Person[subj]=3	1	parataxis	_	_
@@ -1550,7 +1561,7 @@
 
 # sent_id = 0033.14
 # text = Icẽm ma pit , io'e . g̃ebuje bit o'jekõn g̃u .
-# text_port = — Ê verdade, (o irmão dela) disse. Daí não comia mais.
+# text_por = — Ê verdade, (o irmão dela) disse. Daí não comia mais.
 1	Icẽm	_	ADV	adv	_	0	root	_	_
 2	ma	ma	PART	prcl	_	1	discourse	_	_
 3	pit	pit	PART	prcl	_	1	discourse	_	_
@@ -1572,7 +1583,7 @@
 
 # sent_id = 0033.16
 # text = Idibi dak o'tikõn g̃u ma .
-# text_port = Nem bebeu água.
+# text_por = Nem bebeu água.
 1	Idibi	idibi	NOUN	n	_	3	obj	_	_
 2	dak	dak	ADV	adv	_	3	advmod	_	_
 3	o'tikõn	kõn	VERB	v	Aspect=Perf|Class=Liquid|Number[subj]=Sing|Person[subj]=3|Rel=NCont	0	root	_	_
@@ -1582,7 +1593,7 @@
 
 # sent_id = 0033.17
 # text = Jekõnkon g̃u ma o'e .
-# text_port = Começou a nao comer.
+# text_por = Começou a nao comer.
 1	Jekõnkon	Jekõnkon	VERB	v	Aspect=Dur	0	root	_	_
 2	g̃u	g̃u	ADV	npart	Polarity=Neg	4	advmod	_	_
 3	ma	ma	PART	adv	_	4	discourse	_	_
@@ -1591,7 +1602,7 @@
 
 # sent_id = 0033.18
 # text = Ade em soat jekõnkon g̃u o'e .
-# text_port = por muitas vezes não comia tudo.
+# text_por = por muitas vezes não comia tudo.
 1	Ade	ade	ADV	adj	_	4	obl	_	_
 2	em	em	ADP	posp	_	1	case	_	_
 3	soat	soat	PRON	pron	PronType=Tot	4	obj	_	_
@@ -1630,7 +1641,7 @@
 
 # sent_id = 0033.22
 # text = Ipoxi g̃u o'e .
-# text_port = Ficou bem leve.
+# text_por = Ficou bem leve.
 1	Ipoxi	poxi	NOUN	n	Rel=NCont	0	root	_	_
 2	g̃u	g̃u	ADV	npart	Polarity=Neg	1	advmod	_	_
 3	o'e	o'e	AUX	aux	Aspect=Perf|Number=Sing|Person=3	1	aux	_	_
@@ -1638,7 +1649,7 @@
 
 # sent_id = 0033.24
 # text = Cũg̃cũg̃ o'ju .
-# text_port = Foi no mato.
+# text_por = Foi no mato.
 1	Cũg̃cũg̃	cũg̃	NOUN	n	_	2	obl	_	_
 2	o'ju	cu	VERB	vi	Aspect=Perf|Number[subj]=Sing|Person[subj]=3	0	root	_	_
 3	.	.	PUNCT	PUNCT	_	2	punct	_	_
@@ -1646,7 +1657,7 @@
 # sent_id = 003.26
 # text = Tip tag̃ o'ju .
 # text_eng = 
-# text_port = Foi longe—no centro do mato.
+# text_por = Foi longe—no centro do mato.
 1	Tip	tip	NOUN	n	_	3	obl	_	_
 2	tag̃	tag̃	ADP	posp	Rel=Cont	1	case	_	_
 3	o'ju	cu	VERB	v	Aspect=Perf|Number[subj]=Sing|Person[subj]=3	0	root	_	_
@@ -1655,7 +1666,7 @@
 # sent_id = 003.27
 # text = Wuy o'ju ipinun tag̃
 # text_eng = 
-# text_port = Ficou em terra firme.
+# text_por = Ficou em terra firme.
 1	Wuy	wuy	X	_	_	2	dep	_	_
 2	o'ju	cu	VERB	v	Aspect=Perf|Number[subj]=Sing|Person[subj]=3	0	root	_	_
 3	ipinun	ipi	NOUN	n	_	2	obl	_	_
@@ -1664,7 +1675,7 @@
 # sent_id = 003.28
 # text = Ixe kapurug̃ pe o'e
 # text_eng = 
-# text_port = 
+# text_por = 
 1	Ixe	iex	DET	dem	_	2	nsubj	_	_
 2	kapurug̃	kapurug̃	NOUN	_	_	0	root	_	_
 3	pe	pe	ADP	posp	_	2	case	_	_
@@ -1673,7 +1684,7 @@
 # sent_id = 003.29
 # text = Iptog̃ darug̃ o'e
 # text_eng = 
-# text_port = Virou pau d'arco
+# text_por = Virou pau d'arco
 1	Iptog̃	iptok	NOUN	n	_	3	nsubj	_	_
 2	darug̃	daruk	NOUN	n	_	1	nmod	_	_
 3	o'e	'e	VERB	v	Aspect=Perf|Number=Sing|Person=3	0	root	_	_
@@ -1681,7 +1692,7 @@
 # sent_id = 003.30
 # text = Kuyje bit daruk imug̃ẽg̃ẽ ma , i'e'em aypapa'um'um .
 # text_eng = 
-# text_port = Antigamente o arco era feito mesmo, dizem os velhos antigos.
+# text_por = Antigamente o arco era feito mesmo, dizem os velhos antigos.
 1	Kuyje	kuyje	ADV	adv	_	4	advmod	_	_
 2	bit	bit	PART	prcl	_	4	discourse	_	_
 3	daruk	daruk	NOUN	n	_	4	nsubj	_	_
@@ -1694,8 +1705,9 @@
 
 # sent_id = 003.31
 # text = Yobog̃at , yopĩcat i'uk'ug̃ ip jewebeam .
+# text_eng =
 # text_eng = 
-# text_port = Tiravam para si (arco) grande, e pequeno, para crianças
+# text_por = Tiravam para si (arco) grande, e pequeno, para crianças
 1	Yobog̃at	yobog̃at	NOUN	n	_	4	obj	_	_
 2	,	,	PUNCT	punct	_	4	punct	_	_
 3	yopĩcat	_	NOUN	n	_	4	obj	_	_
@@ -1706,6 +1718,7 @@
 
 # sent_id = 003.33
 # text = Beku cambõk tak wara'at o'ju .
+# text_eng =
 # text_por = Um outro (o cu­nhado dele) ficou pau de mará-coama.
 1	Beku	boku	DET	dem	_	2	nmod	_	_
 2	cambõk	cambõk	NOUN	n	_	5	obl	_	_
@@ -1716,6 +1729,7 @@
 
 # sent_id = 003.34
 # text = Ixe dak etaxi'ũm puye tiwãbu tẽg̃ ma o'ju tiwãbu dag̃ ma .
+# text_eng =
 # text_por = Ele também não agüentava a sede, e por isso ficou na beira do rio.
 1	Ixe	ixe	PRON	pro	PronType=Dem	3	nsubj	_	_
 2	dak	dak	ADV	adv	_	3	advmod	_	_
@@ -1732,6 +1746,7 @@
 
 # sent_id = 003.35
 # text = Ibaka dak .
+# text_eng =
 # text_por = O pau d'arco também.
 1	Ibaka	Ibaka	NOUN	n	_	0	root	_	_
 2	dak	dak	ADV	adv	_	1	advmod	_	_
@@ -1739,6 +1754,7 @@
 
 # sent_id = 003.36
 # text = g̃ebuje ixe o'ju darug̃ .
+# text_eng =
 # text_por = Daí ele ficou sendo o arco
 1	g̃ebuje	g̃ebuje	ADV	adv	_	3	advmod	_	_
 2	ixe	ixe	PRON	pro	PronType=Dem	3	obl	_	_
@@ -1748,6 +1764,7 @@
 
 # sent_id = 003.37
 # text = Aypapa'ũm'ũm i'uk'ug̃ jekukum jedarug̃ .
+# text_eng =
 # text_por = Os velhos antigos andavam tirando-o para fazer o arco deles.
 1	Aypapa'ũm'ũm	Aypapa'ũm'ũm	NOUN	n	Aspect=Dec|Number=Plur	2	nsubj	_	_
 2	i'uk'ug̃	i'uk	VERB	v	Aspect=DurIprf|Rel=NCont	0	root	_	_
@@ -1757,6 +1774,7 @@
 
 # sent_id = 003.38
 # text = Yopõg̃ pewi i'uk'ug̃ ip , kuybi ma imug̃ẽg̃ẽ .
+# text_eng =
 # text_por = Tiravam do buraco já feito
 1	Yopõg̃	Yopõg̃	VERB	vt	Aspect=Perf|Mood=Imp	3	obl	_	_
 2	pewi	pewi	NOUN	n	_	1	case	_	_
@@ -1767,4 +1785,3 @@
 7	ma	ma	PART	prcl	_	8	advmod	_	_
 8	imug̃ẽg̃ẽ	mug̃ẽ	VERB	v	Aspect=Dur|Rel=NCont	3	parataxis	_	_
 9	.	.	PUNCT	PUNCT	_	8	punct	_	_
-
