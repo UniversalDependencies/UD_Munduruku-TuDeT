@@ -963,7 +963,7 @@
 2	teg̃	teg̃	ADP	posp	_	5	advcl	_	_
 3	kaxi	kaxi	NOUN	n	_	2	nsubj	_	_
 4	bima	bima	SCONJ	sc	_	3	advcl	_	_
-5	o'taxadig̃curug̃	_	VERB	v	Aspect=Perf|Person=3|Rel=NCont	0	root	_	gloss=3-RNCont-fire-smoke.PERF
+5	o'taxadig̃curug̃	_	VERB	v	Aspect=Perf|Person=3|Rel=NCont	0	root	_	gloss=3_RNCont_fire_smoke.PERF
 
 # sent_id = 5006
 # text = Kapusu oajẽm owag̃o duk'a be
@@ -1835,4 +1835,3 @@
 7	ma	ma	PART	prcl	_	8	advmod	_	_
 8	imug̃ẽg̃ẽ	mug̃ẽ	VERB	v	Aspect=Dur|Rel=NCont	3	parataxis	_	_
 9	.	.	PUNCT	PUNCT	_	8	punct	_	_
-
