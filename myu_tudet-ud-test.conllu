@@ -963,7 +963,7 @@
 2	teg̃	teg̃	ADP	posp	_	5	advcl	_	_
 3	kaxi	kaxi	NOUN	n	_	2	nsubj	_	_
 4	bima	bima	SCONJ	sc	_	3	advcl	_	_
-5	o'taxadig̃curug̃	_	VERB	v	Aspect=Perf|Person=3|Rel=NCont	0	root	_	gloss=3_RNCont_fire_smoke.PERF
+5	o'taxadig̃curug̃	_	VERB	v	Aspect=Perf|Person=3|Rel=NCont	0	root	_	gloss=3_rncont_fire_smoke.perf
 
 # sent_id = 5006
 # text = Kapusu oajẽm owag̃o duk'a be
