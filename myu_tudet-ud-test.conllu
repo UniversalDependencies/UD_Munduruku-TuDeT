@@ -963,7 +963,7 @@
 2	teg̃	teg̃	ADP	posp	_	5	advcl	_	_
 3	kaxi	kaxi	NOUN	n	_	2	nsubj	_	_
 4	bima	bima	SCONJ	sc	_	3	advcl	_	_
-5	o'taxadig̃curug̃	_	VERB	v	Aspect=Perf|Person=3|Rel=NCont	0	root	_	gloss=3-RNCont-fire-smoke.PERF
+5	o'taxadig̃curug̃	_	VERB	v	Aspect=Perf|Person=3|Rel=NCont	0	root	_	3-RNCont-fire-smoke.PERF
 
 # sent_id = 5006
 # text = Kapusu oajẽm owag̃o duk'a be
@@ -994,7 +994,7 @@
 # text = Wuy'adapmude'o'onapti dak otibu
 # text_eng = I too shall to buy perfume for the hair. Crofts 2004 214
 # text_port = Também vou comprar perfume para os cabelos
-1	Wuy'adapmude'o'onapti	'adapmude'o'onapti	NOUN	n	Class=Liquid|Clusivity=Ex|Nomzr=Pa|Number=Plur|Person=1|Rel=Cont|Voice=Cau	3	obl	_	gloss=1.PL.EX-head-REL-hair-CAU-good.odour-NOMZR-CLASS
+1	Wuy'adapmude'o'onapti	'adapmude'o'onapti	NOUN	n	Class=Liquid|Clusivity=Ex|Nomzr=Pa|Number=Plur|Person=1|Rel=Cont|Voice=Cau	3	obl	_	1.PL.EX-head-REL-hair-CAU-good.odour-NOMZR-CLASS
 2	dak	dak	ADV	adv	_	3	advmod	_	_
 3	otibu	bu	VERB	v	Class=Liquid|Number=Sing|Person=1	0	root	_	_
 
@@ -1037,7 +1037,7 @@
 1	xepxep	xepxep	NUM	num	NumType=Card	2	nummod	_	_
 2	pa	ba	NOUN	n	Class=CilRig	3	nmod	_	_
 3	akoba	ako	NOUN	n	Class=CilRig	4	obl	_	_
-4	o'suba'o	'o	VERB	v	Class=CilRig|Person=3|Rel=NCont	0	root	_	gloss=3-RN-CLA-eat
+4	o'suba'o	'o	VERB	v	Class=CilRig|Person=3|Rel=NCont	0	root	_	3-RN-CLA-eat
 
 # sent_id = 07337
 # text = xek pu o'subumõg̃mõg̃ wita 'a be
@@ -1171,7 +1171,7 @@
 10	Pig̃ãm	pig̃ã	NOUN	n	Case=Ins	12	obj	_	_
 11	axima	axima	NOUN	n	_	12	nsubj	_	_
 12	muyhum	um	VERB	v	Aspect=Imp|Voice=Cau	3	parataxis	_	_
-13	ip	ip	PRON	pro	Number=Plur|Person=3	12	nsubj	_	SpaceAfter=No
+13	ip	ip	PRON	pro	Number=Plur|Person=3	12	dep	_	SpaceAfter=No
 14	.	.	PUNCT	PUNCT	_	12	punct	_	punct
 
 # sent_id = 7006
