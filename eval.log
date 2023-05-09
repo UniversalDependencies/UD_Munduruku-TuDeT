@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit 13e6b709a8bc643c3f902800321a7beda46feb8d
+commit 04abe686385f14a9a6f68784bd723a6b60ded594
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 13 22:03:41 2022 +0100
+Date:   Tue May 9 00:14:39 2023 +0200
 Evaluating the following revision of UD_Munduruku-TuDeT:
-commit 47186c3dba6e4b37e1f6e94e8792bf8c18d17426
-Merge: 62ebdaf a343e2b
+commit 8b7406b2967dee048675f1d4ac8efaa65cfe3c48
+Merge: 846ccc4 b38f733
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 1022 of 1022 words (nodes).
 Size: min(0, log((N/1000)**2)) = 0.0435229835630253.
@@ -20,16 +20,13 @@ Features: source of annotation (from README) factor is 0.8.
 Universal relations: 27 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Udapi:
-               TOTAL        232
-Udapi: found 232 bugs.
+               TOTAL        231
+Udapi: found 231 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 1022 words.
 Genres: found 2 out of 17 known.
-validate.py --lang myu --max-err=10 UD_Munduruku-TuDeT/myu_tudet-ud-test.conllu
-[Line 1173 Sent 7005 Node 12]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [11, 13]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-Syntax errors: 1
-*** FAILED *** with 1 errors
-Exit code: 1
-Validity: 0.01
+/net/work/people/zeman/unidep/tools/validate.py --lang myu --max-err=10 UD_Munduruku-TuDeT/myu_tudet-ud-test.conllu
+*** PASSED ***
+Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.4) = 0.0307692307692308
 (weight=0.0769230769230769) * (score{genres}=0.117647058823529) = 0.00904977375565611
 (weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
@@ -38,6 +35,6 @@ Validity: 0.01
 (weight=0.0769230769230769) * (score{tags}=0.752941176470588) = 0.0579185520361991
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.583783783783784) = 0.0449064449064449
-(TOTAL score=0.208579975467419) * (availability=1) * (validity=0.01) = 0.00208579975467419
-STARS = 0
-UD_Munduruku-TuDeT	0.00208579975467419	0
+(TOTAL score=0.208579975467419) * (availability=1) * (validity=1) = 0.208579975467419
+STARS = 1
+UD_Munduruku-TuDeT	0.208579975467419	1
