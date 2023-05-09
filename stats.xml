@@ -98,14 +98,14 @@
     <dep name="clf">8</dep>
     <dep name="conj">10</dep>
     <dep name="cop">5</dep>
-    <dep name="dep">25</dep>
+    <dep name="dep">26</dep>
     <dep name="det">3</dep>
     <dep name="discourse">31</dep>
     <dep name="dislocated">1</dep>
     <dep name="flat">1</dep>
     <dep name="mark">24</dep>
     <dep name="nmod">55</dep>
-    <dep name="nsubj">93</dep>
+    <dep name="nsubj">92</dep>
     <dep name="nummod">1</dep>
     <dep name="obj">55</dep>
     <dep name="obl">163</dep>
