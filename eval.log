@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
+commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 09:21:16 2024 +0200
+Date:   Sun Nov 10 10:33:45 2024 +0100
 Evaluating the following revision of UD_Munduruku-TuDeT:
-commit c3c728947c47838d24e77ca3d569661e2c68c996
+commit 5c7f4a2a6e0592f14200734d553376ce3091c9dc
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 6 12:39:49 2023 +0100
+Date:   Sun May 5 13:05:16 2024 +0200
 Size: counted 1022 of 1022 words (nodes).
 Size: min(0, log((N/1000)**2)) = 0.0435229835630253.
 Size: maximum value 13.815511 is for 1000000 words or more.
