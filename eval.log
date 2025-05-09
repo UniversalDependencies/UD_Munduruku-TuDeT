@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
+commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 10 10:33:45 2024 +0100
+Date:   Fri May 9 21:07:42 2025 +0200
 Evaluating the following revision of UD_Munduruku-TuDeT:
-commit 5c7f4a2a6e0592f14200734d553376ce3091c9dc
+commit 4c43b468e840f275ce860a262a283f9421533745
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 13:05:16 2024 +0200
+Date:   Mon Nov 11 16:13:44 2024 +0100
 Size: counted 1022 of 1022 words (nodes).
 Size: min(0, log((N/1000)**2)) = 0.0435229835630253.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -23,18 +23,18 @@ Udapi:
                TOTAL        231
 Udapi: found 231 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 1022 words.
-Genres: found 2 out of 17 known.
+Genres: found 2 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang myu --max-err=10 UD_Munduruku-TuDeT/myu_tudet-ud-test.conllu
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.4) = 0.0307692307692308
-(weight=0.0769230769230769) * (score{genres}=0.117647058823529) = 0.00904977375565611
+(weight=0.0769230769230769) * (score{genres}=0.111111111111111) = 0.00854700854700855
 (weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
 (weight=0.256410256410256) * (score{size}=0.00315029859956464) = 0.000807768871683241
 (weight=0.0512820512820513) * (score{split}=0.01) = 0.000512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.752941176470588) = 0.0579185520361991
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.583783783783784) = 0.0449064449064449
-(TOTAL score=0.208579975467419) * (availability=1) * (validity=1) = 0.208579975467419
+(TOTAL score=0.208077210258772) * (availability=1) * (validity=1) = 0.208077210258772
 STARS = 1
-UD_Munduruku-TuDeT	0.208579975467419	1
+UD_Munduruku-TuDeT	0.208077210258772	1
