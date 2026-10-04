@@ -104,11 +104,11 @@
     <dep name="dislocated">1</dep>
     <dep name="flat">1</dep>
     <dep name="mark">24</dep>
-    <dep name="nmod">55</dep>
+    <dep name="nmod">56</dep>
     <dep name="nsubj">92</dep>
     <dep name="nummod">1</dep>
     <dep name="obj">55</dep>
-    <dep name="obl">163</dep>
+    <dep name="obl">162</dep>
     <dep name="parataxis">39</dep>
     <dep name="punct">134</dep>
     <dep name="root">158</dep>
