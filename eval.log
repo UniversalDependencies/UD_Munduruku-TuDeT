@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
+commit 59781c63b5b1c2ba74cd2b965d93f371e1c9d36a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 5 17:01:41 2026 +0200
+Date:   Tue Nov 10 13:08:27 2026 +0100
 Evaluating the following revision of UD_Munduruku-TuDeT:
-commit 502c6595a066cebbd042b873128350dcdde222eb
+commit 8b9210d2a43680aa4b51944642ede20c246df863
+Merge: 00ab8a6 73d2b9f
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue Nov 11 20:17:39 2025 +0100
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'myu_tudet'
 Language code (from CoNLL-U file name) = 'myu'
@@ -36,13 +36,12 @@ Genres: found 2 out of 18 known.
 [Line 529 Sent 60]: [L3 WARNING pron-det-without-prontype] The word 'Soat' is tagged 'PRON' but it lacks the 'PronType' feature
 [Line 533 Sent 60]: [L3 WARNING pron-det-without-prontype] The word 'ade' is tagged 'PRON' but it lacks the 'PronType' feature
 ...suppressing further messages regarding WARNING/MORPHO
-[Line 594 Sent 103]: [L3 SYNTAX obl-should-be-nmod] The parent (node [3] 'ikukpin'ũm') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
 [Line 1084 Sent 7001]: [L3 SYNTAX too-many-objects] Multiple direct objects [2, 4] ('axĩma', 'idibi') under the predicate 'muyuhum'.
 [Line 1548 Sent 0033.8]: [L3 SYNTAX too-many-objects] Multiple direct objects [1, 5] ("Da'o", 'puybit') under the predicate 'o'jo'o'o'.
 [Line 1764 Sent 003.31]: [L3 SYNTAX too-many-objects] Multiple direct objects [1, 3] ('Yobog̃at', 'yopĩcat') under the predicate 'i'uk'ug̃'.
 Warnings: 37
-SYNTAX errors: 4
-*** FAILED *** with 4 errors
+SYNTAX errors: 3
+*** FAILED *** with 3 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.111111111111111) * (score{features}=0.4) = 0.0444444444444444
